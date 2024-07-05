@@ -49,9 +49,3 @@ tr:hover {
     z-index: 0; /* Lower z-index to ensure table is rendered below map */
 }
 
-#search {
-  border-radius: 20px;
-  border: 1px solid #ddd;
-  padding: 10px 15px;
-  margin-bottom: 1rem;
-}
