@@ -3,9 +3,10 @@
 from googleapiclient.discovery import build
 import re
 import json
+import os
 
 # Replace with your YouTube API key
-api_key = YOUTUBE_API_KEY
+api_key = os.environ['YOUTUBE_API_KEY']
 # Replace with your YouTube channel ID
 channel_id = 'UCZG5IMQCnvmEGZHLcZxgd3g'
 
