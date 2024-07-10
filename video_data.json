@@ -714,16 +714,10 @@
         "longitude": 169.4094
     },
     {
-        "title": "Nelson - Stoke - Pic\u2019s peanut world tour",
-        "video_url": "https://www.youtube.com/embed/01V4S6N-JfY",
-        "latitude": -41.3229,
-        "longitude": 173.2145
-    },
-    {
-        "title": "Hammer String",
-        "video_url": "https://www.youtube.com/embed/7VGUym-v2AM",
-        "latitude": -42.5854,
-        "longitude": 172.7818
+        "title": "Dunedin - Signal Hill Lookout",
+        "video_url": "https://www.youtube.com/embed/owhg_KLqUgg",
+        "latitude": -45.8589,
+        "longitude": 170.5469
     },
     {
         "title": "Queenstown - Sunshine Bay",
@@ -732,21 +726,21 @@
         "longitude": 168.6228
     },
     {
-        "title": "Nelson - Branford Park - Black Hole",
-        "video_url": "https://www.youtube.com/embed/_9Qlcpc6twI",
-        "latitude": -41.2743,
-        "longitude": 173.3069
+        "title": "Riverton - Smiling Whale",
+        "video_url": "https://www.youtube.com/embed/Or-nSZZpV3U",
+        "latitude": -46.3605,
+        "longitude": 168.0214
     },
     {
-        "title": "Te Anau Bird Sanctuary - Takahe 1",
-        "video_url": "https://www.youtube.com/embed/eqULPsvQKRY",
-        "latitude": -45.4331,
-        "longitude": 167.7135
+        "title": "Nelson - Stoke - Pic\u2019s peanut world tour",
+        "video_url": "https://www.youtube.com/embed/01V4S6N-JfY",
+        "latitude": -41.3229,
+        "longitude": 173.2145
     },
     {
-        "title": "Te Anau Bird Sanctuary - Takahe 2",
-        "video_url": "https://www.youtube.com/embed/2CixonduKo8",
-        "latitude": -45.4335,
-        "longitude": 167.7134
+        "title": "Cullen Point Lookout",
+        "video_url": "https://www.youtube.com/embed/80a5vYyzJCE",
+        "latitude": -41.2687,
+        "longitude": 173.7845
     }
 ]
