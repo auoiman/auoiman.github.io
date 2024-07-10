@@ -36,12 +36,6 @@
         "longitude": 169.5284
     },
     {
-        "title": "Riverton - Playground",
-        "video_url": "https://www.youtube.com/embed/FBKoRVJpdUg",
-        "latitude": -46.3663,
-        "longitude": 168.0206
-    },
-    {
         "title": "Gore - Clock Tower",
         "video_url": "https://www.youtube.com/embed/QqrJltQwS2M",
         "latitude": -46.098,
@@ -234,10 +228,28 @@
         "longitude": 168.3572
     },
     {
+        "title": "Invercargill - Invercargill Estuary Walkway - 3",
+        "video_url": "https://www.youtube.com/embed/6Qa-BkaZsnk",
+        "latitude": -46.4318,
+        "longitude": 168.3488
+    },
+    {
         "title": "Greenpoint - Greenpoint Reserve",
         "video_url": "https://www.youtube.com/embed/M1aZyPzSK58",
         "latitude": -46.573,
         "longitude": 168.3021
+    },
+    {
+        "title": "Invercargill - Invercargill Estuary Walkway - 2",
+        "video_url": "https://www.youtube.com/embed/Jo7Fr2Klc_8",
+        "latitude": -46.4348,
+        "longitude": 168.3448
+    },
+    {
+        "title": "Cape Reinga - Start of the Track",
+        "video_url": "https://www.youtube.com/embed/OJpHCXk7xk0",
+        "latitude": -34.42894,
+        "longitude": 172.68196
     },
     {
         "title": "Southland - Winton Town",
@@ -318,6 +330,12 @@
         "longitude": 169.561
     },
     {
+        "title": "Orepuki - Gemstone Beach",
+        "video_url": "https://www.youtube.com/embed/Pk8-y3s2OVs",
+        "latitude": -46.2754,
+        "longitude": 167.729
+    },
+    {
         "title": "Reefton - Broadway Street",
         "video_url": "https://www.youtube.com/embed/bD_m_c-R6MY",
         "latitude": -42.1196,
@@ -342,16 +360,16 @@
         "longitude": 168.6604
     },
     {
+        "title": "Riverton - Mores Scenic Reserve - Carpark",
+        "video_url": "https://www.youtube.com/embed/CQn3Ge39JA8",
+        "latitude": -46.3694,
+        "longitude": 167.9979
+    },
+    {
         "title": "Mangapouri Holiday Park - Reception Area",
         "video_url": "https://www.youtube.com/embed/E2F6sOc6P5g",
         "latitude": -45.5592,
         "longitude": 167.6201
-    },
-    {
-        "title": "Orepuki - Gemstone Beach",
-        "video_url": "https://www.youtube.com/embed/Pk8-y3s2OVs",
-        "latitude": -46.2754,
-        "longitude": 167.729
     },
     {
         "title": "Riverton - Riverton Gemstone Beach",
@@ -390,6 +408,12 @@
         "longitude": 170.3327
     },
     {
+        "title": "Invercargill - Invercargill Estuary Walkway - 1",
+        "video_url": "https://www.youtube.com/embed/VF7uURrU7gk",
+        "latitude": -46.4364,
+        "longitude": 168.3494
+    },
+    {
         "title": "Westport - Kilkenny Lookout",
         "video_url": "https://www.youtube.com/embed/jZJ_t3avMpE",
         "latitude": -41.8637,
@@ -402,16 +426,16 @@
         "longitude": 169.6957
     },
     {
-        "title": "Riverton - Playground",
-        "video_url": "https://www.youtube.com/embed/FBKoRVJpdUg",
-        "latitude": -46.3663,
-        "longitude": 168.0206
-    },
-    {
         "title": "Cape Foulwind - Wall Island",
         "video_url": "https://www.youtube.com/embed/v15wP2IKmhg",
         "latitude": -41.7647,
         "longitude": 171.4562
+    },
+    {
+        "title": "Riverton - Mores Coastal Loop Walk",
+        "video_url": "https://www.youtube.com/embed/IAmhR7yM5XI",
+        "latitude": -46.3755,
+        "longitude": 167.9959
     },
     {
         "title": "Dunedin - Kuri Bush",
@@ -430,6 +454,12 @@
         "video_url": "https://www.youtube.com/embed/-egFcXopYbw",
         "latitude": -46.445,
         "longitude": 169.8028
+    },
+    {
+        "title": "Riverton - Taramea Bay Playground",
+        "video_url": "https://www.youtube.com/embed/FBKoRVJpdUg",
+        "latitude": -46.3663,
+        "longitude": 168.0206
     },
     {
         "title": "Dunedin - Baldwin Street (The World\u2019s Steepest Street)",
@@ -484,12 +514,6 @@
         "video_url": "https://www.youtube.com/embed/o0v6D_HobDo",
         "latitude": -45.5695,
         "longitude": 167.6158
-    },
-    {
-        "title": "Riverton - Mores Coastal Loop Walk",
-        "video_url": "https://www.youtube.com/embed/IAmhR7yM5XI",
-        "latitude": -46.3755,
-        "longitude": 167.9959
     },
     {
         "title": "Greymouth - The Brunner Mine Industrial Site - 3",
@@ -570,12 +594,6 @@
         "longitude": 167.992
     },
     {
-        "title": "Cardrona - Bradrona",
-        "video_url": "https://www.youtube.com/embed/4CXrCH-qO60",
-        "latitude": -44.8634,
-        "longitude": 169.0188
-    },
-    {
         "title": "Domett - Cathedral Gully",
         "video_url": "https://www.youtube.com/embed/f6eKMVSjNyE",
         "latitude": -42.8679,
@@ -606,16 +624,16 @@
         "longitude": 171.761
     },
     {
+        "title": "Cardrona - Bradrona",
+        "video_url": "https://www.youtube.com/embed/4CXrCH-qO60",
+        "latitude": -44.8634,
+        "longitude": 169.0188
+    },
+    {
         "title": "Cullen Point Lookout",
         "video_url": "https://www.youtube.com/embed/80a5vYyzJCE",
         "latitude": -41.2687,
         "longitude": 173.7845
-    },
-    {
-        "title": "Riverton - Mores Scenic Reserve - Carpark",
-        "video_url": "https://www.youtube.com/embed/CQn3Ge39JA8",
-        "latitude": -46.3694,
-        "longitude": 167.9979
     },
     {
         "title": "Interislander Ferry - Wellington to Picton - Leaving Wellington Harbour",
