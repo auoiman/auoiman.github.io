@@ -228,12 +228,6 @@
         "longitude": 168.3572
     },
     {
-        "title": "Invercargill - Invercargill Estuary Walkway - 3",
-        "video_url": "https://www.youtube.com/embed/6Qa-BkaZsnk",
-        "latitude": -46.4318,
-        "longitude": 168.3488
-    },
-    {
         "title": "Greenpoint - Greenpoint Reserve",
         "video_url": "https://www.youtube.com/embed/M1aZyPzSK58",
         "latitude": -46.573,
@@ -346,12 +340,6 @@
         "video_url": "https://www.youtube.com/embed/up9sWS5lbQM",
         "latitude": -45.9204,
         "longitude": 170.4537
-    },
-    {
-        "title": "Bluff - Te Araroa Trail",
-        "video_url": "https://www.youtube.com/embed/BtBVPr6F3gA",
-        "latitude": -46.6214,
-        "longitude": 168.3512
     },
     {
         "title": "Queenstown - Queenstown Bay Beach",
@@ -630,6 +618,18 @@
         "longitude": 169.0188
     },
     {
+        "title": "Invercargill - Invercargill Estuary Walkway - 3",
+        "video_url": "https://www.youtube.com/embed/6Qa-BkaZsnk",
+        "latitude": -46.4318,
+        "longitude": 168.3488
+    },
+    {
+        "title": "Bluff - Te Araroa Trail",
+        "video_url": "https://www.youtube.com/embed/BtBVPr6F3gA",
+        "latitude": -46.6214,
+        "longitude": 168.3512
+    },
+    {
         "title": "Cullen Point Lookout",
         "video_url": "https://www.youtube.com/embed/80a5vYyzJCE",
         "latitude": -41.2687,
@@ -714,33 +714,33 @@
         "longitude": 169.4094
     },
     {
-        "title": "Dunedin - Signal Hill Lookout",
-        "video_url": "https://www.youtube.com/embed/owhg_KLqUgg",
-        "latitude": -45.8589,
-        "longitude": 170.5469
-    },
-    {
-        "title": "Queenstown - Sunshine Bay",
-        "video_url": "https://www.youtube.com/embed/MqR_6u57Yyw",
-        "latitude": -45.0479,
-        "longitude": 168.6228
-    },
-    {
-        "title": "Riverton - Smiling Whale",
-        "video_url": "https://www.youtube.com/embed/Or-nSZZpV3U",
-        "latitude": -46.3605,
-        "longitude": 168.0214
-    },
-    {
-        "title": "Nelson - Stoke - Pic\u2019s peanut world tour",
-        "video_url": "https://www.youtube.com/embed/01V4S6N-JfY",
-        "latitude": -41.3229,
-        "longitude": 173.2145
+        "title": "Interislander - Approaching South Island",
+        "video_url": "https://www.youtube.com/embed/yUI1kwKjhtM",
+        "latitude": -41.2188,
+        "longitude": 174.3284
     },
     {
         "title": "Cullen Point Lookout",
         "video_url": "https://www.youtube.com/embed/80a5vYyzJCE",
         "latitude": -41.2687,
         "longitude": 173.7845
+    },
+    {
+        "title": "Nelson - Branford Park - Black Hole",
+        "video_url": "https://www.youtube.com/embed/_9Qlcpc6twI",
+        "latitude": -41.2743,
+        "longitude": 173.3069
+    },
+    {
+        "title": "Te Anau Bird Sanctuary - Takahe 2",
+        "video_url": "https://www.youtube.com/embed/2CixonduKo8",
+        "latitude": -45.4335,
+        "longitude": 167.7134
+    },
+    {
+        "title": "Te Anau Bird Sanctuary - Takahe 1",
+        "video_url": "https://www.youtube.com/embed/eqULPsvQKRY",
+        "latitude": -45.4331,
+        "longitude": 167.7135
     }
 ]
