@@ -1,11 +1,5 @@
 [
     {
-        "title": "The Catlins - Roaring Bay - Penguin Hide",
-        "video_url": "https://www.youtube.com/embed/kcUdBomp8iI",
-        "latitude": -46.4457,
-        "longitude": 169.8036
-    },
-    {
         "title": "Wellington - East Harbour Regional Park - Orongorongo River",
         "video_url": "https://www.youtube.com/embed/BG8yVI4mAE4",
         "latitude": -41.4178,
@@ -34,6 +28,12 @@
         "video_url": "https://www.youtube.com/embed/VkE8r9VKboo",
         "latitude": -45.8189,
         "longitude": 169.5284
+    },
+    {
+        "title": "The Catlins - Roaring Bay - Penguin Hide",
+        "video_url": "https://www.youtube.com/embed/kcUdBomp8iI",
+        "latitude": -46.4457,
+        "longitude": 169.8036
     },
     {
         "title": "Gore - Clock Tower",
@@ -130,6 +130,12 @@
         "video_url": "https://www.youtube.com/embed/p3ju-II9mJ8",
         "latitude": -46.0556,
         "longitude": 170.1958
+    },
+    {
+        "title": "Nelson - Branford Park - Black Hole",
+        "video_url": "https://www.youtube.com/embed/_9Qlcpc6twI",
+        "latitude": -41.2743,
+        "longitude": 173.3069
     },
     {
         "title": "Christchurch - Margret Mahy Family Playground",
@@ -714,33 +720,33 @@
         "longitude": 169.4094
     },
     {
-        "title": "Interislander - Approaching South Island",
-        "video_url": "https://www.youtube.com/embed/yUI1kwKjhtM",
-        "latitude": -41.2188,
-        "longitude": 174.3284
+        "title": "Nelson - Stoke - Pic\u2019s peanut world tour",
+        "video_url": "https://www.youtube.com/embed/01V4S6N-JfY",
+        "latitude": -41.3229,
+        "longitude": 173.2145
     },
     {
-        "title": "Cullen Point Lookout",
-        "video_url": "https://www.youtube.com/embed/80a5vYyzJCE",
-        "latitude": -41.2687,
-        "longitude": 173.7845
+        "title": "Hammer String",
+        "video_url": "https://www.youtube.com/embed/7VGUym-v2AM",
+        "latitude": -42.5854,
+        "longitude": 172.7818
     },
     {
-        "title": "Nelson - Branford Park - Black Hole",
-        "video_url": "https://www.youtube.com/embed/_9Qlcpc6twI",
-        "latitude": -41.2743,
-        "longitude": 173.3069
-    },
-    {
-        "title": "Te Anau Bird Sanctuary - Takahe 2",
-        "video_url": "https://www.youtube.com/embed/2CixonduKo8",
-        "latitude": -45.4335,
-        "longitude": 167.7134
+        "title": "Queenstown - Sunshine Bay",
+        "video_url": "https://www.youtube.com/embed/MqR_6u57Yyw",
+        "latitude": -45.0479,
+        "longitude": 168.6228
     },
     {
         "title": "Te Anau Bird Sanctuary - Takahe 1",
         "video_url": "https://www.youtube.com/embed/eqULPsvQKRY",
         "latitude": -45.4331,
         "longitude": 167.7135
+    },
+    {
+        "title": "Te Anau Bird Sanctuary - Takahe 2",
+        "video_url": "https://www.youtube.com/embed/2CixonduKo8",
+        "latitude": -45.4335,
+        "longitude": 167.7134
     }
 ]
