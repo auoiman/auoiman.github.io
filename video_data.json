@@ -180,6 +180,12 @@
         "longitude": 168.2342
     },
     {
+        "title": "Dunedin - Macandrew Bay Beach",
+        "video_url": "https://www.youtube.com/embed/n0emvPm6R4o",
+        "latitude": -45.8677,
+        "longitude": 170.5974
+    },
+    {
         "title": "Milton - Whale Fossil Lookout",
         "video_url": "https://www.youtube.com/embed/DWhXBIbWqSQ",
         "latitude": -46.0535,
@@ -406,6 +412,12 @@
         "video_url": "https://www.youtube.com/embed/VF7uURrU7gk",
         "latitude": -46.4364,
         "longitude": 168.3494
+    },
+    {
+        "title": "Dunedin - Brockville Park - Disc Golf",
+        "video_url": "https://www.youtube.com/embed/ipuvMb9jJzc",
+        "latitude": -45.8704,
+        "longitude": 170.4502
     },
     {
         "title": "Westport - Kilkenny Lookout",
