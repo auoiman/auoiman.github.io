@@ -6,16 +6,16 @@
         "longitude": 174.9019
     },
     {
-        "title": "Glenorchy - Isengard Lookout",
-        "video_url": "https://www.youtube.com/embed/ds6DGYMQxLk",
-        "latitude": -44.7737,
-        "longitude": 168.3263
-    },
-    {
         "title": "Christchurch - The Riccarton Sunday Market - Food Market Section",
         "video_url": "https://www.youtube.com/embed/4HAL2cm3_dE",
         "latitude": -43.5298,
         "longitude": 172.5404
+    },
+    {
+        "title": "Glenorchy - Isengard Lookout",
+        "video_url": "https://www.youtube.com/embed/ds6DGYMQxLk",
+        "latitude": -44.7737,
+        "longitude": 168.3263
     },
     {
         "title": "Greymouth - The Brunner Mine Industrial Site - 2",
@@ -54,16 +54,16 @@
         "longitude": 168.3572
     },
     {
-        "title": "Bluff - Te Araroa Trail",
-        "video_url": "https://www.youtube.com/embed/hRg_j6Tn2TA",
-        "latitude": -46.6223,
-        "longitude": 168.3491
-    },
-    {
         "title": "Cardrona - Bradrona",
         "video_url": "https://www.youtube.com/embed/4CXrCH-qO60",
         "latitude": -44.8634,
         "longitude": 169.0188
+    },
+    {
+        "title": "Bluff - Te Araroa Trail",
+        "video_url": "https://www.youtube.com/embed/hRg_j6Tn2TA",
+        "latitude": -46.6223,
+        "longitude": 168.3491
     },
     {
         "title": "The Catlins - Baclutha Ward",
@@ -166,6 +166,12 @@
         "video_url": "https://www.youtube.com/embed/PcMBHWlESjc",
         "latitude": -40.9945,
         "longitude": 173.006
+    },
+    {
+        "title": "Timaru - Caroline Bay Beach",
+        "video_url": "https://www.youtube.com/embed/gIRK6a1z07k",
+        "latitude": -44.3866,
+        "longitude": 171.2495
     },
     {
         "title": "Cheviot - Gore Bay",
@@ -298,6 +304,12 @@
         "video_url": "https://www.youtube.com/embed/v23y4fo1E0E",
         "latitude": -45.4337,
         "longitude": 167.7134
+    },
+    {
+        "title": "Dunedin - Mount Cargill",
+        "video_url": "https://www.youtube.com/embed/h27KyWmmGbE",
+        "latitude": -45.8134,
+        "longitude": 170.5539
     },
     {
         "title": "Dunedin - Otago Peninsula - Sandfly Bay Lookout",
@@ -558,6 +570,12 @@
         "longitude": 170.4502
     },
     {
+        "title": "Waikouaiti - Hawksbury Lagoon Wildlife Refuge - 1",
+        "video_url": "https://www.youtube.com/embed/t7v2rlOzRE8",
+        "latitude": -45.5994,
+        "longitude": 170.6761
+    },
+    {
         "title": "Dunedin - Otago Peninsula - Sandfly Bay",
         "video_url": "https://www.youtube.com/embed/F52ggY20Pxc",
         "latitude": -45.8954,
@@ -726,52 +744,22 @@
         "longitude": 169.197
     },
     {
-        "title": "Riverton - Balancing Rock",
-        "video_url": "https://www.youtube.com/embed/ZKpuupGUQ7I",
-        "latitude": -46.3764,
-        "longitude": 167.992
+        "title": "New Zealand McLean Falls #travel",
+        "video_url": "https://www.youtube.com/embed/jGB2pR7HB6s",
+        "latitude": -46.5695,
+        "longitude": 169.3523
     },
     {
-        "title": "SH1 - Ohau Point",
-        "video_url": "https://www.youtube.com/embed/NxLhLc6BQZ0",
-        "latitude": -42.2445,
-        "longitude": 173.8337
+        "title": "Glenorchy - Paradise",
+        "video_url": "https://www.youtube.com/embed/I_iSB2SDcV0",
+        "latitude": -44.724,
+        "longitude": 168.3723
     },
     {
-        "title": "Tuatapere - McKracken\u2019s Rest",
-        "video_url": "https://www.youtube.com/embed/AiXkwxBxJi8",
-        "latitude": -46.2281,
-        "longitude": 167.6689
-    },
-    {
-        "title": "Port Chalmers - Aramoana Breakwater",
-        "video_url": "https://www.youtube.com/embed/S97VeZt3gpA",
-        "latitude": -45.7717,
-        "longitude": 170.7182
-    },
-    {
-        "title": "Westport- T-Rex Tree & Buller River",
-        "video_url": "https://www.youtube.com/embed/EPo-BNNIyRw",
-        "latitude": -41.8578,
-        "longitude": 171.761
-    },
-    {
-        "title": "Interislander - Approaching Picton Ferry",
-        "video_url": "https://www.youtube.com/embed/v0rs82m3hEU",
-        "latitude": -41.2786,
-        "longitude": 174.0089
-    },
-    {
-        "title": "Wellington - Miramar - Airport Viewpoint",
-        "video_url": "https://www.youtube.com/embed/0tT8_7SR25U",
-        "latitude": -41.3181,
-        "longitude": 174.8111
-    },
-    {
-        "title": "Te Anau Bird Sanctuary - Takahe 1",
-        "video_url": "https://www.youtube.com/embed/eqULPsvQKRY",
-        "latitude": -45.4331,
-        "longitude": 167.7135
+        "title": "Riverton - Hilltop Lookout",
+        "video_url": "https://www.youtube.com/embed/SbFqLCNapo8",
+        "latitude": -46.3708,
+        "longitude": 167.9957
     },
     {
         "title": "Cape Foulwind - Tauranga Bay Seal Colony",
@@ -780,46 +768,88 @@
         "longitude": 171.4568
     },
     {
-        "title": "Christchurch - The Riccarton Sunday Market - Food Market Section",
-        "video_url": "https://www.youtube.com/embed/4HAL2cm3_dE",
-        "latitude": -43.5298,
-        "longitude": 172.5404
+        "title": "Riverton - Balancing Rock",
+        "video_url": "https://www.youtube.com/embed/ZKpuupGUQ7I",
+        "latitude": -46.3764,
+        "longitude": 167.992
     },
     {
-        "title": "Beaumont Bridge",
-        "video_url": "https://www.youtube.com/embed/VkE8r9VKboo",
-        "latitude": -45.8189,
-        "longitude": 169.5284
+        "title": "Dunedin - McLean Falls",
+        "video_url": "https://www.youtube.com/embed/VhBOdhCGXGE",
+        "latitude": -46.5695,
+        "longitude": 169.3523
     },
     {
-        "title": "Greymouth - The Brunner Mine Industrial Site - 2",
-        "video_url": "https://www.youtube.com/embed/Iy-5SP5CNZU",
-        "latitude": -42.4332,
-        "longitude": 171.3246
+        "title": "SH1 - Ohau Point",
+        "video_url": "https://www.youtube.com/embed/NxLhLc6BQZ0",
+        "latitude": -42.2445,
+        "longitude": 173.8337
     },
     {
-        "title": "Wellington - East Harbour Regional Park - Orongorongo River",
-        "video_url": "https://www.youtube.com/embed/BG8yVI4mAE4",
-        "latitude": -41.4178,
-        "longitude": 174.9019
+        "title": "Cape Foulwind - Way to Lighthouse",
+        "video_url": "https://www.youtube.com/embed/AZI7P3wMTPQ",
+        "latitude": -41.7489,
+        "longitude": 171.467
     },
     {
-        "title": "Dunedin - Marlow Park",
-        "video_url": "https://www.youtube.com/embed/uSvSRBtZ1vQ",
-        "latitude": -45.9081,
-        "longitude": 170.5095
+        "title": "Milton - Must-hang Cafe",
+        "video_url": "https://www.youtube.com/embed/s3PqaBHKyIk",
+        "latitude": -46.1221,
+        "longitude": 169.9578
     },
     {
-        "title": "Dunedin - Brighton Beach 2",
-        "video_url": "https://www.youtube.com/embed/FzReBorwa4w",
-        "latitude": -45.947,
-        "longitude": 170.3349
+        "title": "Clutha River 1",
+        "video_url": "https://www.youtube.com/embed/ZH613a9zQ-o",
+        "latitude": -45.7995,
+        "longitude": 169.5073
     },
     {
-        "title": "Bluff - Te Araroa Trail",
-        "video_url": "https://www.youtube.com/embed/hRg_j6Tn2TA",
-        "latitude": -46.6223,
-        "longitude": 168.3491
+        "title": "Dunedin - Long Beach - 1",
+        "video_url": "https://www.youtube.com/embed/JzoNewM8H3o",
+        "latitude": -45.7475,
+        "longitude": 170.644
+    },
+    {
+        "title": "Westport - T-Rex Tree",
+        "video_url": "https://www.youtube.com/embed/-VWlsm2Xy8I",
+        "latitude": -41.8575,
+        "longitude": 171.7608
+    },
+    {
+        "title": "Roaring Meg",
+        "video_url": "https://www.youtube.com/embed/e7zLMd7pGvc",
+        "latitude": -45.0014,
+        "longitude": 169.0715
+    },
+    {
+        "title": "Domett - Cathedral Gully",
+        "video_url": "https://www.youtube.com/embed/f6eKMVSjNyE",
+        "latitude": -42.8679,
+        "longitude": 173.3043
+    },
+    {
+        "title": "Dunedin - Tunnel Beach Track 3",
+        "video_url": "https://www.youtube.com/embed/rC5xPWUVTzg",
+        "latitude": -45.9208,
+        "longitude": 170.4589
+    },
+    {
+        "title": "The Catlins - Horseshoe Falls",
+        "video_url": "https://www.youtube.com/embed/fb1-rLr-4qE",
+        "latitude": -46.5031,
+        "longitude": 169.4882
+    },
+    {
+        "title": "Dunedin - Tunnel Beach Track 2",
+        "video_url": "https://www.youtube.com/embed/6UqtwQyn3U0",
+        "latitude": -45.9212,
+        "longitude": 170.4583
+    },
+    {
+        "title": "Westport- T-Rex Tree & Buller River",
+        "video_url": "https://www.youtube.com/embed/EPo-BNNIyRw",
+        "latitude": -41.8578,
+        "longitude": 171.761
     },
     {
         "title": "Romeo and Juliet Clock",
@@ -828,52 +858,46 @@
         "longitude": 174.2847
     },
     {
-        "title": "Invercargill - Invercargill Estuary Walkway - 3",
-        "video_url": "https://www.youtube.com/embed/6Qa-BkaZsnk",
-        "latitude": -46.4318,
-        "longitude": 168.3488
-    },
-    {
         "title": "Bluff - Te Araroa Trail",
         "video_url": "https://www.youtube.com/embed/BtBVPr6F3gA",
         "latitude": -46.6214,
         "longitude": 168.3512
     },
     {
-        "title": "Canterbury - Rolleston - Foster Park Playground",
-        "video_url": "https://www.youtube.com/embed/-CeihHZgD7s",
-        "latitude": -43.6064,
-        "longitude": 172.3876
+        "title": "Cullen Point Lookout",
+        "video_url": "https://www.youtube.com/embed/80a5vYyzJCE",
+        "latitude": -41.2687,
+        "longitude": 173.7845
     },
     {
-        "title": "Clutha River - 2",
-        "video_url": "https://www.youtube.com/embed/hK9FJOIuO_Y",
-        "latitude": -45.7996,
-        "longitude": 169.5075
+        "title": "Karitane - Karitane Beach",
+        "video_url": "https://www.youtube.com/embed/DnV32qwL5UA",
+        "latitude": -45.6428,
+        "longitude": 170.6615
     },
     {
-        "title": "The World\u2019s Steepest Street",
-        "video_url": "https://www.youtube.com/embed/mshSOWrsDb4",
-        "latitude": -45.947,
-        "longitude": 170.3349
+        "title": "Dunedin - Long Beach - 2",
+        "video_url": "https://www.youtube.com/embed/Qzhziaa53Uk",
+        "latitude": -45.748,
+        "longitude": 170.6446
     },
     {
-        "title": "Hammer String",
-        "video_url": "https://www.youtube.com/embed/7VGUym-v2AM",
-        "latitude": -42.5854,
-        "longitude": 172.7818
+        "title": "Waikouaiti - Hawksbury Lagoon Wildlife Refuge - 2",
+        "video_url": "https://www.youtube.com/embed/IQFIbuZKPsA",
+        "latitude": -45.6023,
+        "longitude": 170.6747
     },
     {
-        "title": "Bluff - Te Araroa Trail",
-        "video_url": "https://www.youtube.com/embed/xukoZFtUCPY",
-        "latitude": -46.6183,
-        "longitude": 168.3531
+        "title": "Dunedin - Larnach Castle - Larnach Lodge - Room 20 (Sea)",
+        "video_url": "https://www.youtube.com/embed/eXKRI8K6hA0",
+        "latitude": -45.861,
+        "longitude": 170.6275
     },
     {
-        "title": "Cromwell - The Bruce Jackson Lookout",
-        "video_url": "https://www.youtube.com/embed/lNmZNqeqzOM",
-        "latitude": -45.0512,
-        "longitude": 169.2145
+        "title": "Waikouaiti - Hawksbury Lagoon Wildlife Refuge - Waikouaiti Beach",
+        "video_url": "https://www.youtube.com/embed/t1ac6HPN7eE",
+        "latitude": -45.6098,
+        "longitude": 170.6824
     },
     {
         "title": "Interislander Ferry - Wellington to Picton - Leaving Wellington Harbour",
@@ -882,10 +906,52 @@
         "longitude": 174.8591
     },
     {
-        "title": "Millers Flat Holiday Park",
-        "video_url": "https://www.youtube.com/embed/qSkl3mPEbhc",
-        "latitude": -45.662,
-        "longitude": 169.4094
+        "title": "Interislander Ferry - Wellington to Picton - Wellington Pier",
+        "video_url": "https://www.youtube.com/embed/gF1Um0Z24Jo",
+        "latitude": -41.2456,
+        "longitude": 174.8246
+    },
+    {
+        "title": "Bluff - Te Araroa Trail",
+        "video_url": "https://www.youtube.com/embed/xukoZFtUCPY",
+        "latitude": -46.6183,
+        "longitude": 168.3531
+    },
+    {
+        "title": "Queenstown - Queenstown Garden Waterfront - Frankton Arm",
+        "video_url": "https://www.youtube.com/embed/konUVe3ZGzk",
+        "latitude": -45.0378,
+        "longitude": 168.6619
+    },
+    {
+        "title": "Interislander Ferry - Wellington to Picton - Approaching South Island",
+        "video_url": "https://www.youtube.com/embed/zCKjYFEBF28",
+        "latitude": -41.2253,
+        "longitude": 174.3385
+    },
+    {
+        "title": "Dunedin - Otago Peninsula - Larnach Garden Viewpoint",
+        "video_url": "https://www.youtube.com/embed/TO2P05HT--A",
+        "latitude": -45.8609,
+        "longitude": 170.6266
+    },
+    {
+        "title": "Interislander - Approaching South Island",
+        "video_url": "https://www.youtube.com/embed/yUI1kwKjhtM",
+        "latitude": -41.2188,
+        "longitude": 174.3284
+    },
+    {
+        "title": "Dunedin - Signal Hill Lookout",
+        "video_url": "https://www.youtube.com/embed/owhg_KLqUgg",
+        "latitude": -45.8589,
+        "longitude": 170.5469
+    },
+    {
+        "title": "Riverton - Smiling Whale",
+        "video_url": "https://www.youtube.com/embed/Or-nSZZpV3U",
+        "latitude": -46.3605,
+        "longitude": 168.0214
     },
     {
         "title": "Picton - Main St.",
@@ -900,52 +966,28 @@
         "longitude": 169.3814
     },
     {
-        "title": "Interislander Ferry - Wellington to Picton - Approaching South Island",
-        "video_url": "https://www.youtube.com/embed/zCKjYFEBF28",
-        "latitude": -41.2253,
-        "longitude": 174.3385
+        "title": "Clutha River - 2",
+        "video_url": "https://www.youtube.com/embed/hK9FJOIuO_Y",
+        "latitude": -45.7996,
+        "longitude": 169.5075
     },
     {
-        "title": "Interislander - Approaching South Island",
-        "video_url": "https://www.youtube.com/embed/yUI1kwKjhtM",
-        "latitude": -41.2188,
-        "longitude": 174.3284
+        "title": "The World\u2019s Steepest Street",
+        "video_url": "https://www.youtube.com/embed/mshSOWrsDb4",
+        "latitude": -45.947,
+        "longitude": 170.3349
     },
     {
-        "title": "Queenstown - Queenstown Garden Waterfront - Frankton Arm",
-        "video_url": "https://www.youtube.com/embed/konUVe3ZGzk",
-        "latitude": -45.0378,
-        "longitude": 168.6619
+        "title": "Millers Flat Holiday Park",
+        "video_url": "https://www.youtube.com/embed/qSkl3mPEbhc",
+        "latitude": -45.662,
+        "longitude": 169.4094
     },
     {
-        "title": "Interislander Ferry - Wellington to Picton - Wellington Pier",
-        "video_url": "https://www.youtube.com/embed/gF1Um0Z24Jo",
-        "latitude": -41.2456,
-        "longitude": 174.8246
-    },
-    {
-        "title": "Dunedin - Signal Hill Lookout",
-        "video_url": "https://www.youtube.com/embed/owhg_KLqUgg",
-        "latitude": -45.8589,
-        "longitude": 170.5469
-    },
-    {
-        "title": "Queenstown - Sunshine Bay",
-        "video_url": "https://www.youtube.com/embed/MqR_6u57Yyw",
-        "latitude": -45.0479,
-        "longitude": 168.6228
-    },
-    {
-        "title": "Dunedin - Otago Peninsula - Larnach Garden Viewpoint",
-        "video_url": "https://www.youtube.com/embed/TO2P05HT--A",
-        "latitude": -45.8609,
-        "longitude": 170.6266
-    },
-    {
-        "title": "Riverton - Smiling Whale",
-        "video_url": "https://www.youtube.com/embed/Or-nSZZpV3U",
-        "latitude": -46.3605,
-        "longitude": 168.0214
+        "title": "Waikouaiti - Waikouaiti Beach",
+        "video_url": "https://www.youtube.com/embed/LQ0cO9jWYU8",
+        "latitude": -45.6108,
+        "longitude": 170.6828
     },
     {
         "title": "Nelson - Stoke - Pic\u2019s peanut world tour",
@@ -954,21 +996,39 @@
         "longitude": 173.2145
     },
     {
-        "title": "Dunedin - Larnach Castle - Larnach Lodge - Room 20 (Sea)",
-        "video_url": "https://www.youtube.com/embed/eXKRI8K6hA0",
-        "latitude": -45.861,
-        "longitude": 170.6275
-    },
-    {
         "title": "Benmore Dam",
         "video_url": "https://www.youtube.com/embed/rwYJ2BXOMQg",
         "latitude": -44.5645,
         "longitude": 170.1979
     },
     {
-        "title": "Cullen Point Lookout",
-        "video_url": "https://www.youtube.com/embed/80a5vYyzJCE",
-        "latitude": -41.2687,
-        "longitude": 173.7845
+        "title": "Hammer String",
+        "video_url": "https://www.youtube.com/embed/7VGUym-v2AM",
+        "latitude": -42.5854,
+        "longitude": 172.7818
+    },
+    {
+        "title": "Queenstown - Sunshine Bay",
+        "video_url": "https://www.youtube.com/embed/MqR_6u57Yyw",
+        "latitude": -45.0479,
+        "longitude": 168.6228
+    },
+    {
+        "title": "Cromwell - The Bruce Jackson Lookout",
+        "video_url": "https://www.youtube.com/embed/lNmZNqeqzOM",
+        "latitude": -45.0512,
+        "longitude": 169.2145
+    },
+    {
+        "title": "Te Anau Bird Sanctuary - Takahe 1",
+        "video_url": "https://www.youtube.com/embed/eqULPsvQKRY",
+        "latitude": -45.4331,
+        "longitude": 167.7135
+    },
+    {
+        "title": "Te Anau Bird Sanctuary - Takahe 2",
+        "video_url": "https://www.youtube.com/embed/2CixonduKo8",
+        "latitude": -45.4335,
+        "longitude": 167.7134
     }
 ]
