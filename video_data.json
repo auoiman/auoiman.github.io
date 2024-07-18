@@ -1,5 +1,11 @@
 [
     {
+        "title": "Glenorchy - Isengard Lookout",
+        "video_url": "https://www.youtube.com/embed/ds6DGYMQxLk",
+        "latitude": -44.7737,
+        "longitude": 168.3263
+    },
+    {
         "title": "Wellington - East Harbour Regional Park - Orongorongo River",
         "video_url": "https://www.youtube.com/embed/BG8yVI4mAE4",
         "latitude": -41.4178,
@@ -10,12 +16,6 @@
         "video_url": "https://www.youtube.com/embed/4HAL2cm3_dE",
         "latitude": -43.5298,
         "longitude": 172.5404
-    },
-    {
-        "title": "Glenorchy - Isengard Lookout",
-        "video_url": "https://www.youtube.com/embed/ds6DGYMQxLk",
-        "latitude": -44.7737,
-        "longitude": 168.3263
     },
     {
         "title": "Greymouth - The Brunner Mine Industrial Site - 2",
@@ -444,6 +444,12 @@
         "longitude": 173.7105
     },
     {
+        "title": "Dunedin - Long Beach - 2",
+        "video_url": "https://www.youtube.com/embed/Qzhziaa53Uk",
+        "latitude": -45.748,
+        "longitude": 170.6446
+    },
+    {
         "title": "Mangapouri Holiday Park - Sunset",
         "video_url": "https://www.youtube.com/embed/K-WsQ5T2waY",
         "latitude": -45.5586,
@@ -612,6 +618,12 @@
         "longitude": 170.2405
     },
     {
+        "title": "Waikouaiti - Hawksbury Lagoon Wildlife Refuge - 2",
+        "video_url": "https://www.youtube.com/embed/IQFIbuZKPsA",
+        "latitude": -45.6023,
+        "longitude": 170.6747
+    },
+    {
         "title": "Kaikorua - Beach near Kaikorua Skate Park",
         "video_url": "https://www.youtube.com/embed/iGd7LP3nQZg",
         "latitude": -42.4065,
@@ -738,10 +750,22 @@
         "longitude": 172.5773
     },
     {
+        "title": "Waikouaiti - Waikouaiti Beach",
+        "video_url": "https://www.youtube.com/embed/LQ0cO9jWYU8",
+        "latitude": -45.6108,
+        "longitude": 170.6828
+    },
+    {
         "title": "Cromwell Playground",
         "video_url": "https://www.youtube.com/embed/E8hrZBwZKe4",
         "latitude": -45.0356,
         "longitude": 169.197
+    },
+    {
+        "title": "Karitane - Karitane Beach",
+        "video_url": "https://www.youtube.com/embed/DnV32qwL5UA",
+        "latitude": -45.6428,
+        "longitude": 170.6615
     },
     {
         "title": "New Zealand McLean Falls #travel",
@@ -870,24 +894,6 @@
         "longitude": 173.7845
     },
     {
-        "title": "Karitane - Karitane Beach",
-        "video_url": "https://www.youtube.com/embed/DnV32qwL5UA",
-        "latitude": -45.6428,
-        "longitude": 170.6615
-    },
-    {
-        "title": "Dunedin - Long Beach - 2",
-        "video_url": "https://www.youtube.com/embed/Qzhziaa53Uk",
-        "latitude": -45.748,
-        "longitude": 170.6446
-    },
-    {
-        "title": "Waikouaiti - Hawksbury Lagoon Wildlife Refuge - 2",
-        "video_url": "https://www.youtube.com/embed/IQFIbuZKPsA",
-        "latitude": -45.6023,
-        "longitude": 170.6747
-    },
-    {
         "title": "Dunedin - Larnach Castle - Larnach Lodge - Room 20 (Sea)",
         "video_url": "https://www.youtube.com/embed/eXKRI8K6hA0",
         "latitude": -45.861,
@@ -982,12 +988,6 @@
         "video_url": "https://www.youtube.com/embed/qSkl3mPEbhc",
         "latitude": -45.662,
         "longitude": 169.4094
-    },
-    {
-        "title": "Waikouaiti - Waikouaiti Beach",
-        "video_url": "https://www.youtube.com/embed/LQ0cO9jWYU8",
-        "latitude": -45.6108,
-        "longitude": 170.6828
     },
     {
         "title": "Nelson - Stoke - Pic\u2019s peanut world tour",
