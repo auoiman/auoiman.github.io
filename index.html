@@ -6,8 +6,6 @@
     <title>Interactive Map of New Zealand</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
-    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.css" />
-    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.Default.css" />
     <style>
         #map {
             height: 500px;
@@ -27,7 +25,6 @@
     <div class="container mt-4">
         <h1 class="text-center">Interactive Map of New Zealand</h1>
         <div id="map"></div>
-        <button id="random-video-btn" class="btn btn-primary mb-3">Play Random Video</button>
         <div class="table-container">
             <input type="text" id="search" class="form-control mb-3" placeholder="Search for places...">
             <table class="table table-striped table-bordered">
@@ -46,8 +43,6 @@
 
     <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
     <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
-    <script src="https://unpkg.com/leaflet.markercluster/dist/leaflet.markercluster.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/gsap.min.js"></script>
     <script>
         // Initialize the map
         var map = L.map('map').setView([-41.2865, 174.7762], 6);
@@ -57,27 +52,13 @@
             attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
         }).addTo(map);
 
-        // Initialize marker cluster group
-        var markers = L.markerClusterGroup();
-
-        // Subtle fade-in for the entire container
-        gsap.from('.container', {
-            opacity: 0,
-            duration: 1,
-            ease: 'power2.out'
-        });
-
-        let videoData = [];
-
         // Fetch video data from video_data.json
         fetch('video_data.json')
             .then(response => response.json())
             .then(data => {
-                videoData = data;
-
                 // Add markers for each place and populate the table
-                data.forEach((place, index) => {
-                    var marker = L.marker([place.latitude, place.longitude]);
+                data.forEach(place => {
+                    var marker = L.marker([place.latitude, place.longitude]).addTo(map);
                     marker.bindPopup(`<div id="popup-${place.title}" class="video-popup"></div>`, {
                         minWidth: 350,
                         maxWidth: 600,
@@ -87,34 +68,8 @@
                     // Event listener for opening the popup
                     marker.on('popupopen', function() {
                         var popupContent = document.getElementById(`popup-${place.title}`);
-                        var iframeId = `iframe-${place.title}`;
-                        popupContent.innerHTML = `<iframe id="${iframeId}" width="100%" height="100%" src="https://www.youtube.com/embed/${place.video_url}?autoplay=1&mute=1" frameborder="0" allowfullscreen></iframe>`;
-
-                        // Use YouTube Player API to set minimum resolution
-                        var player;
-                        function onYouTubeIframeAPIReady() {
-                            player = new YT.Player(iframeId, {
-                                events: {
-                                    'onReady': onPlayerReady
-                                }
-                            });
-                        }
-
-                        function onPlayerReady(event) {
-                            event.target.setPlaybackQuality('hd720'); // Set minimum resolution to 720p
-                            event.target.playVideo();
-                        }
-
-                        // Subtle fade-in for popup content
-                        gsap.from(popupContent, {
-                            opacity: 0,
-                            duration: 0.3,
-                            ease: 'power2.out'
-                        });
+                        popupContent.innerHTML = `<iframe width="100%" height="100%" src="${place.video_url}?autoplay=1" frameborder="0" allowfullscreen></iframe>`;
                     });
-
-                    // Add marker to cluster group
-                    markers.addLayer(marker);
 
                     // Populate the table
                     var tableRow = document.createElement('tr');
@@ -124,24 +79,12 @@
                     `;
                     document.querySelector('tbody').appendChild(tableRow);
 
-                    // Subtle fade-in for table rows
-                    gsap.from(tableRow, {
-                        opacity: 0,
-                        y: 20,
-                        duration: 0.5,
-                        delay: index * 0.05,
-                        ease: 'power2.out'
-                    });
-
                     // Associate marker with table link
                     tableRow.querySelector('.video-link').addEventListener('click', function(e) {
                         e.preventDefault();
                         marker.openPopup();
                     });
                 });
-
-                // Add marker cluster group to map
-                map.addLayer(markers);
             })
             .catch(error => console.error('Error fetching video data:', error));
 
@@ -157,47 +100,6 @@
                     row.style.display = 'none';
                 }
             });
-        });
-
-        // Random video button functionality
-        document.getElementById('random-video-btn').addEventListener('click', function() {
-            if (videoData.length > 0) {
-                var randomIndex = Math.floor(Math.random() * videoData.length);
-                var randomPlace = videoData[randomIndex];
-                var marker = L.marker([randomPlace.latitude, randomPlace.longitude]).addTo(map);
-                marker.bindPopup(`<div id="popup-random" class="video-popup"></div>`, {
-                    minWidth: 350,
-                    maxWidth: 600,
-                    maxHeight: 400
-                }).openPopup();
-                marker.on('popupopen', function() {
-                    var popupContent = document.getElementById('popup-random');
-                    var iframeId = `iframe-random`;
-                    popupContent.innerHTML = `<iframe id="${iframeId}" width="100%" height="100%" src="https://www.youtube.com/embed/${randomPlace.video_url}?autoplay=1&mute=1" frameborder="0" allowfullscreen></iframe>`;
-
-                    // Use YouTube Player API to set minimum resolution
-                    var player;
-                    function onYouTubeIframeAPIReady() {
-                        player = new YT.Player(iframeId, {
-                            events: {
-                                'onReady': onPlayerReady
-                            }
-                        });
-                    }
-
-                    function onPlayerReady(event) {
-                        event.target.setPlaybackQuality('hd720'); // Set minimum resolution to 720p
-                        event.target.playVideo();
-                    }
-
-                    // Subtle fade-in for popup content
-                    gsap.from(popupContent, {
-                        opacity: 0,
-                        duration: 0.3,
-                        ease: 'power2.out'
-                    });
-                });
-            }
         });
     </script>
 </body>
