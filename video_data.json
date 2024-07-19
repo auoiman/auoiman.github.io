@@ -444,12 +444,6 @@
         "longitude": 173.7105
     },
     {
-        "title": "Dunedin - Long Beach - 2",
-        "video_url": "https://www.youtube.com/embed/Qzhziaa53Uk",
-        "latitude": -45.748,
-        "longitude": 170.6446
-    },
-    {
         "title": "Mangapouri Holiday Park - Sunset",
         "video_url": "https://www.youtube.com/embed/K-WsQ5T2waY",
         "latitude": -45.5586,
@@ -894,6 +888,12 @@
         "longitude": 173.7845
     },
     {
+        "title": "Dunedin - Long Beach - 2",
+        "video_url": "https://www.youtube.com/embed/Qzhziaa53Uk",
+        "latitude": -45.748,
+        "longitude": 170.6446
+    },
+    {
         "title": "Dunedin - Larnach Castle - Larnach Lodge - Room 20 (Sea)",
         "video_url": "https://www.youtube.com/embed/eXKRI8K6hA0",
         "latitude": -45.861,
@@ -1018,6 +1018,12 @@
         "video_url": "https://www.youtube.com/embed/lNmZNqeqzOM",
         "latitude": -45.0512,
         "longitude": 169.2145
+    },
+    {
+        "title": "Christchurch - Westmoreland - Heights Playground",
+        "video_url": "https://www.youtube.com/embed/zjwTciLsUn4",
+        "latitude": -43.5864,
+        "longitude": 172.6053
     },
     {
         "title": "Te Anau Bird Sanctuary - Takahe 1",
