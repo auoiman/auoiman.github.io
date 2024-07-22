@@ -48,6 +48,12 @@
         "longitude": 168.9466
     },
     {
+        "title": "Orepuki - Gemstone Beach",
+        "video_url": "https://www.youtube.com/embed/Pk8-y3s2OVs",
+        "latitude": -46.2754,
+        "longitude": 167.729
+    },
+    {
         "title": "Cardrona - Bradrona",
         "video_url": "https://www.youtube.com/embed/4CXrCH-qO60",
         "latitude": -44.8634,
@@ -838,12 +844,6 @@
         "video_url": "https://www.youtube.com/embed/VhBOdhCGXGE",
         "latitude": -46.5695,
         "longitude": 169.3523
-    },
-    {
-        "title": "Orepuki - Gemstone Beach",
-        "video_url": "https://www.youtube.com/embed/Pk8-y3s2OVs",
-        "latitude": -46.2754,
-        "longitude": 167.729
     },
     {
         "title": "SH1 - Ohau Point",
