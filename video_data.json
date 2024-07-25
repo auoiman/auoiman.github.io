@@ -54,12 +54,6 @@
         "longitude": 167.729
     },
     {
-        "title": "Cardrona - Bradrona",
-        "video_url": "https://www.youtube.com/embed/4CXrCH-qO60",
-        "latitude": -44.8634,
-        "longitude": 169.0188
-    },
-    {
         "title": "Bluff - Bluff Hill Lookout",
         "video_url": "https://www.youtube.com/embed/xwozR5_gHUU",
         "latitude": -46.6134,
@@ -166,6 +160,12 @@
         "video_url": "https://www.youtube.com/embed/FRnjcfGo19E",
         "latitude": -41.5318,
         "longitude": 173.93
+    },
+    {
+        "title": "Lake Waihola Domain",
+        "video_url": "https://www.youtube.com/embed/dP4ISIDYJss",
+        "latitude": -46.0236,
+        "longitude": 170.0925
     },
     {
         "title": "Lake Waihola Domain",
@@ -304,6 +304,12 @@
         "video_url": "https://www.youtube.com/embed/ShGlgzMib3U",
         "latitude": -46.1288,
         "longitude": 167.6799
+    },
+    {
+        "title": "Port Chalmers - Aramoana Beach - 1",
+        "video_url": "https://www.youtube.com/embed/PAKgCLUE47Q",
+        "latitude": -45.7733,
+        "longitude": 170.7032
     },
     {
         "title": "The Catlins - Matai Falls",
@@ -480,12 +486,6 @@
         "longitude": 167.6204
     },
     {
-        "title": "Port Chalmers - Aramoana Beach - 1",
-        "video_url": "https://www.youtube.com/embed/PAKgCLUE47Q",
-        "latitude": -45.7733,
-        "longitude": 170.7032
-    },
-    {
         "title": "Riverton - Howells Point Reserve",
         "video_url": "https://www.youtube.com/embed/aTNAtgRrjpo",
         "latitude": -46.3838,
@@ -520,12 +520,6 @@
         "video_url": "https://www.youtube.com/embed/up9sWS5lbQM",
         "latitude": -45.9204,
         "longitude": 170.4537
-    },
-    {
-        "title": "Waihola - Titri Creek Walk - 1",
-        "video_url": "https://www.youtube.com/embed/eSev4ptxSlU",
-        "latitude": -46.0031,
-        "longitude": 170.1162
     },
     {
         "title": "Queenstown - Queenstown Bay Beach",
@@ -606,12 +600,6 @@
         "longitude": 168.3494
     },
     {
-        "title": "Dunedin - Brockville Park - Disc Golf",
-        "video_url": "https://www.youtube.com/embed/ipuvMb9jJzc",
-        "latitude": -45.8704,
-        "longitude": 170.4502
-    },
-    {
         "title": "Waikouaiti - Hawksbury Lagoon Wildlife Refuge - 1",
         "video_url": "https://www.youtube.com/embed/t7v2rlOzRE8",
         "latitude": -45.5994,
@@ -682,12 +670,6 @@
         "video_url": "https://www.youtube.com/embed/S97VeZt3gpA",
         "latitude": -45.7717,
         "longitude": 170.7182
-    },
-    {
-        "title": "Christchurch - Westmoreland - Heights Playground",
-        "video_url": "https://www.youtube.com/embed/zjwTciLsUn4",
-        "latitude": -43.5864,
-        "longitude": 172.6053
     },
     {
         "title": "Dunedin - Baldwin Street (The World\u2019s Steepest Street)",
@@ -924,6 +906,12 @@
         "longitude": 174.2847
     },
     {
+        "title": "Dunedin - Brockville Park - Disc Golf",
+        "video_url": "https://www.youtube.com/embed/ipuvMb9jJzc",
+        "latitude": -45.8704,
+        "longitude": 170.4502
+    },
+    {
         "title": "Bluff - Te Araroa Trail",
         "video_url": "https://www.youtube.com/embed/BtBVPr6F3gA",
         "latitude": -46.6214,
@@ -1012,6 +1000,18 @@
         "video_url": "https://www.youtube.com/embed/7JiuCCrBaJY",
         "latitude": -46.6084,
         "longitude": 169.3814
+    },
+    {
+        "title": "Clutha River - 2",
+        "video_url": "https://www.youtube.com/embed/hK9FJOIuO_Y",
+        "latitude": -45.7996,
+        "longitude": 169.5075
+    },
+    {
+        "title": "The World\u2019s Steepest Street",
+        "video_url": "https://www.youtube.com/embed/mshSOWrsDb4",
+        "latitude": -45.947,
+        "longitude": 170.3349
     },
     {
         "title": "Clutha River - 2",
