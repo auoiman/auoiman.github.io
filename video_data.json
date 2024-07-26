@@ -42,6 +42,12 @@
         "longitude": 169.8036
     },
     {
+        "title": "Cardrona - Bradrona",
+        "video_url": "https://www.youtube.com/embed/4CXrCH-qO60",
+        "latitude": -44.8634,
+        "longitude": 169.0188
+    },
+    {
         "title": "Gore - Clock Tower",
         "video_url": "https://www.youtube.com/embed/QqrJltQwS2M",
         "latitude": -46.098,
@@ -168,12 +174,6 @@
         "longitude": 170.0925
     },
     {
-        "title": "Lake Waihola Domain",
-        "video_url": "https://www.youtube.com/embed/dP4ISIDYJss",
-        "latitude": -46.0236,
-        "longitude": 170.0925
-    },
-    {
         "title": "Nelson - The old barn - Abel Tasman National Park",
         "video_url": "https://www.youtube.com/embed/PcMBHWlESjc",
         "latitude": -40.9945,
@@ -252,6 +252,12 @@
         "longitude": 174.7541
     },
     {
+        "title": "Port Chalmers - Aramoana Beach - 3",
+        "video_url": "https://www.youtube.com/embed/mkNjq5kUYPQ",
+        "latitude": -45.774,
+        "longitude": 170.7055
+    },
+    {
         "title": "Nelson - Branford Park - Branford Playground",
         "video_url": "https://www.youtube.com/embed/c39sPkbUa9I",
         "latitude": -41.2737,
@@ -276,22 +282,10 @@
         "longitude": 168.7429
     },
     {
-        "title": "Port Chalmers - Aramoana Beach - 3",
-        "video_url": "https://www.youtube.com/embed/mkNjq5kUYPQ",
-        "latitude": -45.774,
-        "longitude": 170.7055
-    },
-    {
         "title": "Mossburn War Memorial Park",
         "video_url": "https://www.youtube.com/embed/27A1V-CvAEM",
         "latitude": -45.668,
         "longitude": 168.2342
-    },
-    {
-        "title": "Dunedin - Macandrew Bay Beach",
-        "video_url": "https://www.youtube.com/embed/n0emvPm6R4o",
-        "latitude": -45.8677,
-        "longitude": 170.5974
     },
     {
         "title": "Milton - Whale Fossil Lookout",
@@ -474,6 +468,12 @@
         "longitude": 173.7105
     },
     {
+        "title": "Port Chalmers - Aramoana Beach - 2",
+        "video_url": "https://www.youtube.com/embed/wmsA1G006tM",
+        "latitude": -45.7715,
+        "longitude": 170.7016
+    },
+    {
         "title": "Dunedin - Long Beach - 2",
         "video_url": "https://www.youtube.com/embed/Qzhziaa53Uk",
         "latitude": -45.748,
@@ -520,6 +520,12 @@
         "video_url": "https://www.youtube.com/embed/up9sWS5lbQM",
         "latitude": -45.9204,
         "longitude": 170.4537
+    },
+    {
+        "title": "Waihola - Titri Creek Walk - 1",
+        "video_url": "https://www.youtube.com/embed/eSev4ptxSlU",
+        "latitude": -46.0031,
+        "longitude": 170.1162
     },
     {
         "title": "Queenstown - Queenstown Bay Beach",
@@ -648,6 +654,12 @@
         "longitude": 170.6747
     },
     {
+        "title": "Dunedin - Macandrew Bay Beach",
+        "video_url": "https://www.youtube.com/embed/n0emvPm6R4o",
+        "latitude": -45.8677,
+        "longitude": 170.5974
+    },
+    {
         "title": "Kaikorua - Beach near Kaikorua Skate Park",
         "video_url": "https://www.youtube.com/embed/iGd7LP3nQZg",
         "latitude": -42.4065,
@@ -672,6 +684,12 @@
         "longitude": 170.7182
     },
     {
+        "title": "Christchurch - Westmoreland - Heights Playground",
+        "video_url": "https://www.youtube.com/embed/zjwTciLsUn4",
+        "latitude": -43.5864,
+        "longitude": 172.6053
+    },
+    {
         "title": "Dunedin - Baldwin Street (The World\u2019s Steepest Street)",
         "video_url": "https://www.youtube.com/embed/q2bZ3Ja05Bg",
         "latitude": -45.8499,
@@ -682,12 +700,6 @@
         "video_url": "https://www.youtube.com/embed/cUtFCVL3QjU",
         "latitude": -46.0623,
         "longitude": 168.8275
-    },
-    {
-        "title": "Port Chalmers - Aramoana Beach - 2",
-        "video_url": "https://www.youtube.com/embed/wmsA1G006tM",
-        "latitude": -45.7715,
-        "longitude": 170.7016
     },
     {
         "title": "Dunedin - Otago Peninsula - Okia Reserve - Basaltic Prisms",
@@ -792,6 +804,12 @@
         "longitude": 170.6615
     },
     {
+        "title": "Roaring Meg",
+        "video_url": "https://www.youtube.com/embed/e7zLMd7pGvc",
+        "latitude": -45.0014,
+        "longitude": 169.0715
+    },
+    {
         "title": "New Zealand McLean Falls #travel",
         "video_url": "https://www.youtube.com/embed/jGB2pR7HB6s",
         "latitude": -46.5695,
@@ -862,12 +880,6 @@
         "video_url": "https://www.youtube.com/embed/-VWlsm2Xy8I",
         "latitude": -41.8575,
         "longitude": 171.7608
-    },
-    {
-        "title": "Roaring Meg",
-        "video_url": "https://www.youtube.com/embed/e7zLMd7pGvc",
-        "latitude": -45.0014,
-        "longitude": 169.0715
     },
     {
         "title": "Domett - Cathedral Gully",
@@ -1014,18 +1026,6 @@
         "longitude": 170.3349
     },
     {
-        "title": "Clutha River - 2",
-        "video_url": "https://www.youtube.com/embed/hK9FJOIuO_Y",
-        "latitude": -45.7996,
-        "longitude": 169.5075
-    },
-    {
-        "title": "The World\u2019s Steepest Street",
-        "video_url": "https://www.youtube.com/embed/mshSOWrsDb4",
-        "latitude": -45.947,
-        "longitude": 170.3349
-    },
-    {
         "title": "Millers Flat Holiday Park",
         "video_url": "https://www.youtube.com/embed/qSkl3mPEbhc",
         "latitude": -45.662,
@@ -1054,6 +1054,12 @@
         "video_url": "https://www.youtube.com/embed/MqR_6u57Yyw",
         "latitude": -45.0479,
         "longitude": 168.6228
+    },
+    {
+        "title": "Christchurch - Sign of Bellbird",
+        "video_url": "https://www.youtube.com/embed/VLZTRPlyi6U",
+        "latitude": -43.6322,
+        "longitude": 172.6249
     },
     {
         "title": "Cromwell - The Bruce Jackson Lookout",
