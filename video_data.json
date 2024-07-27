@@ -222,6 +222,12 @@
         "longitude": 170.1958
     },
     {
+        "title": "Dunedin - Brockville Park - Disc Golf",
+        "video_url": "https://www.youtube.com/embed/ipuvMb9jJzc",
+        "latitude": -45.8704,
+        "longitude": 170.4502
+    },
+    {
         "title": "Ashburton - Clock Tower",
         "video_url": "https://www.youtube.com/embed/U-LJDjOY4No",
         "latitude": -43.9031,
@@ -916,12 +922,6 @@
         "video_url": "https://www.youtube.com/embed/b09CkrUTOhs",
         "latitude": -39.3395,
         "longitude": 174.2847
-    },
-    {
-        "title": "Dunedin - Brockville Park - Disc Golf",
-        "video_url": "https://www.youtube.com/embed/ipuvMb9jJzc",
-        "latitude": -45.8704,
-        "longitude": 170.4502
     },
     {
         "title": "Bluff - Te Araroa Trail",
