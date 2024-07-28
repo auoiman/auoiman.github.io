@@ -36,16 +36,16 @@
         "longitude": 169.5284
     },
     {
+        "title": "Dunedin - Macandrew Bay Beach",
+        "video_url": "https://www.youtube.com/embed/n0emvPm6R4o",
+        "latitude": -45.8677,
+        "longitude": 170.5974
+    },
+    {
         "title": "The Catlins - Roaring Bay - Penguin Hide",
         "video_url": "https://www.youtube.com/embed/kcUdBomp8iI",
         "latitude": -46.4457,
         "longitude": 169.8036
-    },
-    {
-        "title": "Cardrona - Bradrona",
-        "video_url": "https://www.youtube.com/embed/4CXrCH-qO60",
-        "latitude": -44.8634,
-        "longitude": 169.0188
     },
     {
         "title": "Gore - Clock Tower",
@@ -160,6 +160,12 @@
         "video_url": "https://www.youtube.com/embed/tD9UHQI9_FU",
         "latitude": -45.876,
         "longitude": 170.5086
+    },
+    {
+        "title": "Blenheim - Omaka Landing Reserve",
+        "video_url": "https://www.youtube.com/embed/FRnjcfGo19E",
+        "latitude": -41.5318,
+        "longitude": 173.93
     },
     {
         "title": "Blenheim - Omaka Landing Reserve",
@@ -444,12 +450,6 @@
         "longitude": 170.7081
     },
     {
-        "title": "Kaikorua - Peninsula Walkway - 3",
-        "video_url": "https://www.youtube.com/embed/O9n1rEjIWQ4",
-        "latitude": -42.4269,
-        "longitude": 173.7083
-    },
-    {
         "title": "Clutha River - 4",
         "video_url": "https://www.youtube.com/embed/zeZHlaIvX_o",
         "latitude": -45.8004,
@@ -660,12 +660,6 @@
         "longitude": 170.6747
     },
     {
-        "title": "Dunedin - Macandrew Bay Beach",
-        "video_url": "https://www.youtube.com/embed/n0emvPm6R4o",
-        "latitude": -45.8677,
-        "longitude": 170.5974
-    },
-    {
         "title": "Kaikorua - Beach near Kaikorua Skate Park",
         "video_url": "https://www.youtube.com/embed/iGd7LP3nQZg",
         "latitude": -42.4065,
@@ -730,6 +724,12 @@
         "video_url": "https://www.youtube.com/embed/3vwQ25APN3Q",
         "latitude": -46.3598,
         "longitude": 168.0222
+    },
+    {
+        "title": "Tuatapere - McKracken\u2019s Rest",
+        "video_url": "https://www.youtube.com/embed/AiXkwxBxJi8",
+        "latitude": -46.2281,
+        "longitude": 167.6689
     },
     {
         "title": "Tuatapere - McKracken\u2019s Rest",
