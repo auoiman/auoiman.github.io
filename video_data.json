@@ -48,6 +48,12 @@
         "longitude": 169.8036
     },
     {
+        "title": "Cardrona - Bradrona",
+        "video_url": "https://www.youtube.com/embed/4CXrCH-qO60",
+        "latitude": -44.8634,
+        "longitude": 169.0188
+    },
+    {
         "title": "Gore - Clock Tower",
         "video_url": "https://www.youtube.com/embed/QqrJltQwS2M",
         "latitude": -46.098,
@@ -168,12 +174,6 @@
         "longitude": 173.93
     },
     {
-        "title": "Blenheim - Omaka Landing Reserve",
-        "video_url": "https://www.youtube.com/embed/FRnjcfGo19E",
-        "latitude": -41.5318,
-        "longitude": 173.93
-    },
-    {
         "title": "Lake Waihola Domain",
         "video_url": "https://www.youtube.com/embed/dP4ISIDYJss",
         "latitude": -46.0236,
@@ -240,6 +240,12 @@
         "longitude": 171.75
     },
     {
+        "title": "Port Chalmers - Aramoana Beach - 3",
+        "video_url": "https://www.youtube.com/embed/mkNjq5kUYPQ",
+        "latitude": -45.774,
+        "longitude": 170.7055
+    },
+    {
         "title": "Nelson - Branford Park - Black Hole",
         "video_url": "https://www.youtube.com/embed/_9Qlcpc6twI",
         "latitude": -41.2743,
@@ -262,12 +268,6 @@
         "video_url": "https://www.youtube.com/embed/7tIZIRyulhQ",
         "latitude": -41.2792,
         "longitude": 174.7541
-    },
-    {
-        "title": "Port Chalmers - Aramoana Beach - 3",
-        "video_url": "https://www.youtube.com/embed/mkNjq5kUYPQ",
-        "latitude": -45.774,
-        "longitude": 170.7055
     },
     {
         "title": "Nelson - Branford Park - Branford Playground",
@@ -340,6 +340,12 @@
         "video_url": "https://www.youtube.com/embed/v23y4fo1E0E",
         "latitude": -45.4337,
         "longitude": 167.7134
+    },
+    {
+        "title": "Port Chalmers - Aramoana Beach - 2",
+        "video_url": "https://www.youtube.com/embed/wmsA1G006tM",
+        "latitude": -45.7715,
+        "longitude": 170.7016
     },
     {
         "title": "Dunedin - Mount Cargill",
@@ -450,6 +456,12 @@
         "longitude": 170.7081
     },
     {
+        "title": "Kaikorua - Peninsula Walkway - 3",
+        "video_url": "https://www.youtube.com/embed/O9n1rEjIWQ4",
+        "latitude": -42.4269,
+        "longitude": 173.7083
+    },
+    {
         "title": "Clutha River - 4",
         "video_url": "https://www.youtube.com/embed/zeZHlaIvX_o",
         "latitude": -45.8004,
@@ -472,12 +484,6 @@
         "video_url": "https://www.youtube.com/embed/4syYKZU7GBE",
         "latitude": -42.4264,
         "longitude": 173.7105
-    },
-    {
-        "title": "Port Chalmers - Aramoana Beach - 2",
-        "video_url": "https://www.youtube.com/embed/wmsA1G006tM",
-        "latitude": -45.7715,
-        "longitude": 170.7016
     },
     {
         "title": "Dunedin - Long Beach - 2",
@@ -724,12 +730,6 @@
         "video_url": "https://www.youtube.com/embed/3vwQ25APN3Q",
         "latitude": -46.3598,
         "longitude": 168.0222
-    },
-    {
-        "title": "Tuatapere - McKracken\u2019s Rest",
-        "video_url": "https://www.youtube.com/embed/AiXkwxBxJi8",
-        "latitude": -46.2281,
-        "longitude": 167.6689
     },
     {
         "title": "Tuatapere - McKracken\u2019s Rest",
