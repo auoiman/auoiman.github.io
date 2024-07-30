@@ -48,16 +48,16 @@
         "longitude": 169.8036
     },
     {
-        "title": "Cardrona - Bradrona",
-        "video_url": "https://www.youtube.com/embed/4CXrCH-qO60",
-        "latitude": -44.8634,
-        "longitude": 169.0188
-    },
-    {
         "title": "Gore - Clock Tower",
         "video_url": "https://www.youtube.com/embed/QqrJltQwS2M",
         "latitude": -46.098,
         "longitude": 168.9466
+    },
+    {
+        "title": "Cardrona - Bradrona",
+        "video_url": "https://www.youtube.com/embed/4CXrCH-qO60",
+        "latitude": -44.8634,
+        "longitude": 169.0188
     },
     {
         "title": "Orepuki - Gemstone Beach",
