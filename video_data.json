@@ -18,6 +18,12 @@
         "longitude": 172.5404
     },
     {
+        "title": "Timaru - Caroline Bay Playground - 3",
+        "video_url": "https://www.youtube.com/embed/qK1cELmgUoE",
+        "latitude": -44.3887,
+        "longitude": 171.2464
+    },
+    {
         "title": "Greymouth - The Brunner Mine Industrial Site - 2",
         "video_url": "https://www.youtube.com/embed/Iy-5SP5CNZU",
         "latitude": -42.4332,
@@ -186,16 +192,16 @@
         "longitude": 173.006
     },
     {
-        "title": "Timaru - Caroline Bay Beach",
-        "video_url": "https://www.youtube.com/embed/gIRK6a1z07k",
-        "latitude": -44.3866,
-        "longitude": 171.2495
-    },
-    {
         "title": "Cheviot - Gore Bay",
         "video_url": "https://www.youtube.com/embed/xdsfFAHx1Uc",
         "latitude": -42.8645,
         "longitude": 173.3083
+    },
+    {
+        "title": "Timaru - Caroline Bay Beach",
+        "video_url": "https://www.youtube.com/embed/gIRK6a1z07k",
+        "latitude": -44.3866,
+        "longitude": 171.2495
     },
     {
         "title": "Dunedin - Otago Peninsula - Okia Reserve - Little pyramid lookout",
@@ -276,6 +282,12 @@
         "longitude": 173.3065
     },
     {
+        "title": "Port Chalmers - Aramoana Beach - 1",
+        "video_url": "https://www.youtube.com/embed/PAKgCLUE47Q",
+        "latitude": -45.7733,
+        "longitude": 170.7032
+    },
+    {
         "title": "Kaikorua - Kaikorua Peninsula Walkway - 1st Lookout",
         "video_url": "https://www.youtube.com/embed/QAjB1wc3mH0",
         "latitude": -42.424,
@@ -310,12 +322,6 @@
         "video_url": "https://www.youtube.com/embed/ShGlgzMib3U",
         "latitude": -46.1288,
         "longitude": 167.6799
-    },
-    {
-        "title": "Port Chalmers - Aramoana Beach - 1",
-        "video_url": "https://www.youtube.com/embed/PAKgCLUE47Q",
-        "latitude": -45.7733,
-        "longitude": 170.7032
     },
     {
         "title": "The Catlins - Matai Falls",
@@ -382,12 +388,6 @@
         "video_url": "https://www.youtube.com/embed/8Tam7dngKFU",
         "latitude": -45.8852,
         "longitude": 170.5643
-    },
-    {
-        "title": "Bluff - Stirling Point",
-        "video_url": "https://www.youtube.com/embed/mBJE4jdtqsM",
-        "latitude": -46.6134,
-        "longitude": 168.3572
     },
     {
         "title": "Port Chalmers - Flagstaff Lookout - 2",
@@ -514,12 +514,6 @@
         "video_url": "https://www.youtube.com/embed/lY7dt9bmHek",
         "latitude": -44.389,
         "longitude": 171.2465
-    },
-    {
-        "title": "Timaru - Caroline Bay Playground - 3",
-        "video_url": "https://www.youtube.com/embed/qK1cELmgUoE",
-        "latitude": -44.3887,
-        "longitude": 171.2464
     },
     {
         "title": "Reefton - Broadway Street",
@@ -730,6 +724,12 @@
         "video_url": "https://www.youtube.com/embed/3vwQ25APN3Q",
         "latitude": -46.3598,
         "longitude": 168.0222
+    },
+    {
+        "title": "Tuatapere - McKracken\u2019s Rest",
+        "video_url": "https://www.youtube.com/embed/AiXkwxBxJi8",
+        "latitude": -46.2281,
+        "longitude": 167.6689
     },
     {
         "title": "Tuatapere - McKracken\u2019s Rest",
