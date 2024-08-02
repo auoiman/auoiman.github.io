@@ -12,12 +12,6 @@
         "longitude": 174.9019
     },
     {
-        "title": "Christchurch - The Riccarton Sunday Market - Food Market Section",
-        "video_url": "https://www.youtube.com/embed/4HAL2cm3_dE",
-        "latitude": -43.5298,
-        "longitude": 172.5404
-    },
-    {
         "title": "Timaru - Caroline Bay Playground - 3",
         "video_url": "https://www.youtube.com/embed/qK1cELmgUoE",
         "latitude": -44.3887,
@@ -28,6 +22,12 @@
         "video_url": "https://www.youtube.com/embed/Iy-5SP5CNZU",
         "latitude": -42.4332,
         "longitude": 171.3246
+    },
+    {
+        "title": "Christchurch - The Riccarton Sunday Market - Food Market Section",
+        "video_url": "https://www.youtube.com/embed/4HAL2cm3_dE",
+        "latitude": -43.5298,
+        "longitude": 172.5404
     },
     {
         "title": "Dunedin - Marlow Park",
@@ -390,6 +390,12 @@
         "longitude": 170.5643
     },
     {
+        "title": "Bluff - Stirling Point",
+        "video_url": "https://www.youtube.com/embed/mBJE4jdtqsM",
+        "latitude": -46.6134,
+        "longitude": 168.3572
+    },
+    {
         "title": "Port Chalmers - Flagstaff Lookout - 2",
         "video_url": "https://www.youtube.com/embed/6aPF3mjd7Lo",
         "latitude": -45.8158,
@@ -732,12 +738,6 @@
         "longitude": 167.6689
     },
     {
-        "title": "Tuatapere - McKracken\u2019s Rest",
-        "video_url": "https://www.youtube.com/embed/AiXkwxBxJi8",
-        "latitude": -46.2281,
-        "longitude": 167.6689
-    },
-    {
         "title": "Dunedin - St Clair Hot Salt Water Pool",
         "video_url": "https://www.youtube.com/embed/m9emxtqcRHw",
         "latitude": -45.9139,
@@ -766,6 +766,12 @@
         "video_url": "https://www.youtube.com/embed/o0v6D_HobDo",
         "latitude": -45.5695,
         "longitude": 167.6158
+    },
+    {
+        "title": "Christchurch - Pegasus Beach",
+        "video_url": "https://www.youtube.com/embed/vDjJq6oonF8",
+        "latitude": -43.3149,
+        "longitude": 172.714
     },
     {
         "title": "Invercargill - Invercargill Estuary Walkway - 3",
@@ -936,6 +942,12 @@
         "longitude": 173.7845
     },
     {
+        "title": "Christchurch - Barrington Park",
+        "video_url": "https://www.youtube.com/embed/uK6BWoRGarw",
+        "latitude": -43.556,
+        "longitude": 172.6189
+    },
+    {
         "title": "Dunedin - Larnach Castle - Larnach Lodge - Room 20 (Sea)",
         "video_url": "https://www.youtube.com/embed/eXKRI8K6hA0",
         "latitude": -45.861,
@@ -1018,6 +1030,12 @@
         "video_url": "https://www.youtube.com/embed/hK9FJOIuO_Y",
         "latitude": -45.7996,
         "longitude": 169.5075
+    },
+    {
+        "title": "Christchurch - Christchurch Adventure Park Cafe",
+        "video_url": "https://www.youtube.com/embed/ZamTnvIdSe8",
+        "latitude": -43.5917,
+        "longitude": 172.6316
     },
     {
         "title": "The World\u2019s Steepest Street",
