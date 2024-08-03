@@ -6,12 +6,6 @@
         "longitude": 168.3263
     },
     {
-        "title": "Wellington - East Harbour Regional Park - Orongorongo River",
-        "video_url": "https://www.youtube.com/embed/BG8yVI4mAE4",
-        "latitude": -41.4178,
-        "longitude": 174.9019
-    },
-    {
         "title": "Timaru - Caroline Bay Playground - 3",
         "video_url": "https://www.youtube.com/embed/qK1cELmgUoE",
         "latitude": -44.3887,
@@ -30,10 +24,22 @@
         "longitude": 172.5404
     },
     {
+        "title": "Timaru - Caroline Bay Beach",
+        "video_url": "https://www.youtube.com/embed/gIRK6a1z07k",
+        "latitude": -44.3866,
+        "longitude": 171.2495
+    },
+    {
         "title": "Dunedin - Marlow Park",
         "video_url": "https://www.youtube.com/embed/uSvSRBtZ1vQ",
         "latitude": -45.9081,
         "longitude": 170.5095
+    },
+    {
+        "title": "Wellington - East Harbour Regional Park - Orongorongo River",
+        "video_url": "https://www.youtube.com/embed/BG8yVI4mAE4",
+        "latitude": -41.4178,
+        "longitude": 174.9019
     },
     {
         "title": "Beaumont Bridge",
@@ -196,12 +202,6 @@
         "video_url": "https://www.youtube.com/embed/xdsfFAHx1Uc",
         "latitude": -42.8645,
         "longitude": 173.3083
-    },
-    {
-        "title": "Timaru - Caroline Bay Beach",
-        "video_url": "https://www.youtube.com/embed/gIRK6a1z07k",
-        "latitude": -44.3866,
-        "longitude": 171.2495
     },
     {
         "title": "Dunedin - Otago Peninsula - Okia Reserve - Little pyramid lookout",
@@ -414,6 +414,12 @@
         "longitude": 168.3448
     },
     {
+        "title": "Christchurch - Barrington Park",
+        "video_url": "https://www.youtube.com/embed/uK6BWoRGarw",
+        "latitude": -43.556,
+        "longitude": 172.6189
+    },
+    {
         "title": "Cape Reinga - Start of the Track",
         "video_url": "https://www.youtube.com/embed/OJpHCXk7xk0",
         "latitude": -34.42894,
@@ -442,12 +448,6 @@
         "video_url": "https://www.youtube.com/embed/EsbLvl6c7qg",
         "latitude": -43.2236,
         "longitude": 170.1563
-    },
-    {
-        "title": "Port Chalmers - Hotere Garden Oputae - Viewpoint",
-        "video_url": "https://www.youtube.com/embed/orwHmgznOl4",
-        "latitude": -45.8165,
-        "longitude": 170.6273
     },
     {
         "title": "Riverton - Howell Point Lookout",
@@ -940,12 +940,6 @@
         "video_url": "https://www.youtube.com/embed/80a5vYyzJCE",
         "latitude": -41.2687,
         "longitude": 173.7845
-    },
-    {
-        "title": "Christchurch - Barrington Park",
-        "video_url": "https://www.youtube.com/embed/uK6BWoRGarw",
-        "latitude": -43.556,
-        "longitude": 172.6189
     },
     {
         "title": "Dunedin - Larnach Castle - Larnach Lodge - Room 20 (Sea)",
