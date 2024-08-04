@@ -1,27 +1,21 @@
 [
     {
-        "title": "Glenorchy - Isengard Lookout",
-        "video_url": "https://www.youtube.com/embed/ds6DGYMQxLk",
-        "latitude": -44.7737,
-        "longitude": 168.3263
-    },
-    {
         "title": "Timaru - Caroline Bay Playground - 3",
         "video_url": "https://www.youtube.com/embed/qK1cELmgUoE",
         "latitude": -44.3887,
         "longitude": 171.2464
     },
     {
+        "title": "Glenorchy - Isengard Lookout",
+        "video_url": "https://www.youtube.com/embed/ds6DGYMQxLk",
+        "latitude": -44.7737,
+        "longitude": 168.3263
+    },
+    {
         "title": "Greymouth - The Brunner Mine Industrial Site - 2",
         "video_url": "https://www.youtube.com/embed/Iy-5SP5CNZU",
         "latitude": -42.4332,
         "longitude": 171.3246
-    },
-    {
-        "title": "Christchurch - The Riccarton Sunday Market - Food Market Section",
-        "video_url": "https://www.youtube.com/embed/4HAL2cm3_dE",
-        "latitude": -43.5298,
-        "longitude": 172.5404
     },
     {
         "title": "Timaru - Caroline Bay Beach",
@@ -46,6 +40,12 @@
         "video_url": "https://www.youtube.com/embed/VkE8r9VKboo",
         "latitude": -45.8189,
         "longitude": 169.5284
+    },
+    {
+        "title": "Christchurch - The Riccarton Sunday Market - Food Market Section",
+        "video_url": "https://www.youtube.com/embed/4HAL2cm3_dE",
+        "latitude": -43.5298,
+        "longitude": 172.5404
     },
     {
         "title": "Dunedin - Macandrew Bay Beach",
@@ -348,6 +348,12 @@
         "longitude": 167.7134
     },
     {
+        "title": "Dunedin - Saint Clair Beach",
+        "video_url": "https://www.youtube.com/embed/n-LTGLQlYjQ",
+        "latitude": -45.9117,
+        "longitude": 170.4906
+    },
+    {
         "title": "Port Chalmers - Aramoana Beach - 2",
         "video_url": "https://www.youtube.com/embed/wmsA1G006tM",
         "latitude": -45.7715,
@@ -364,12 +370,6 @@
         "video_url": "https://www.youtube.com/embed/IlFZ0RblfKg",
         "latitude": -45.8935,
         "longitude": 170.6393
-    },
-    {
-        "title": "Dunedin - Saint Clair Beach",
-        "video_url": "https://www.youtube.com/embed/n-LTGLQlYjQ",
-        "latitude": -45.9117,
-        "longitude": 170.4906
     },
     {
         "title": "Kaikorua Beach",
