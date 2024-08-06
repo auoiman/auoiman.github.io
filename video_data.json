@@ -66,6 +66,12 @@
         "longitude": 168.9466
     },
     {
+        "title": "Cardrona - Bradrona",
+        "video_url": "https://www.youtube.com/embed/4CXrCH-qO60",
+        "latitude": -44.8634,
+        "longitude": 169.0188
+    },
+    {
         "title": "Orepuki - Gemstone Beach",
         "video_url": "https://www.youtube.com/embed/Pk8-y3s2OVs",
         "latitude": -46.2754,
@@ -160,12 +166,6 @@
         "video_url": "https://www.youtube.com/embed/0tT8_7SR25U",
         "latitude": -41.3181,
         "longitude": 174.8111
-    },
-    {
-        "title": "Dunedin - University of Otago",
-        "video_url": "https://www.youtube.com/embed/Yhp3KRZNXwc",
-        "latitude": -45.8637,
-        "longitude": 170.5145
     },
     {
         "title": "Dunedin - Dunedin Railway Station",
@@ -604,12 +604,6 @@
         "video_url": "https://www.youtube.com/embed/2qFFwYfSdOg",
         "latitude": -41.7645,
         "longitude": 171.4576
-    },
-    {
-        "title": "Wellington - Kadso place",
-        "video_url": "https://www.youtube.com/embed/zGEqSfjPsr0",
-        "latitude": -41.3312,
-        "longitude": 174.8226
     },
     {
         "title": "Dunedin - Brighton Beach",
