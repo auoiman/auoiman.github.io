@@ -336,16 +336,16 @@
         "longitude": 171.2465
     },
     {
-        "title": "Te Anau Bird Sanctuary - Takahe 3",
-        "video_url": "https://www.youtube.com/embed/v23y4fo1E0E",
-        "latitude": -45.4337,
-        "longitude": 167.7134
-    },
-    {
         "title": "Dunedin - Saint Clair Beach",
         "video_url": "https://www.youtube.com/embed/n-LTGLQlYjQ",
         "latitude": -45.9117,
         "longitude": 170.4906
+    },
+    {
+        "title": "Te Anau Bird Sanctuary - Takahe 3",
+        "video_url": "https://www.youtube.com/embed/v23y4fo1E0E",
+        "latitude": -45.4337,
+        "longitude": 167.7134
     },
     {
         "title": "Port Chalmers - Aramoana Beach - 2",
@@ -606,6 +606,12 @@
         "longitude": 171.4576
     },
     {
+        "title": "Wellington - Kadso place",
+        "video_url": "https://www.youtube.com/embed/zGEqSfjPsr0",
+        "latitude": -41.3312,
+        "longitude": 174.8226
+    },
+    {
         "title": "Dunedin - Brighton Beach",
         "video_url": "https://www.youtube.com/embed/hccXeJXQMLw",
         "latitude": -45.9475,
@@ -834,16 +840,16 @@
         "longitude": 168.3723
     },
     {
-        "title": "Riverton - Hilltop Lookout",
-        "video_url": "https://www.youtube.com/embed/SbFqLCNapo8",
-        "latitude": -46.3708,
-        "longitude": 167.9957
-    },
-    {
         "title": "Riverton - Balancing Rock",
         "video_url": "https://www.youtube.com/embed/ZKpuupGUQ7I",
         "latitude": -46.3764,
         "longitude": 167.992
+    },
+    {
+        "title": "Riverton - Hilltop Lookout",
+        "video_url": "https://www.youtube.com/embed/SbFqLCNapo8",
+        "latitude": -46.3708,
+        "longitude": 167.9957
     },
     {
         "title": "Cape Foulwind - Tauranga Bay Seal Colony",
