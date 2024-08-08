@@ -126,12 +126,6 @@
         "longitude": 170.7305
     },
     {
-        "title": "Ahuriri Ward",
-        "video_url": "https://www.youtube.com/embed/lWv9jK5bfp0",
-        "latitude": -44.588,
-        "longitude": 169.6464
-    },
-    {
         "title": "Dunedin - Brighton Beach 2",
         "video_url": "https://www.youtube.com/embed/FzReBorwa4w",
         "latitude": -45.947,
@@ -166,6 +160,12 @@
         "video_url": "https://www.youtube.com/embed/0tT8_7SR25U",
         "latitude": -41.3181,
         "longitude": 174.8111
+    },
+    {
+        "title": "Dunedin - University of Otago",
+        "video_url": "https://www.youtube.com/embed/Yhp3KRZNXwc",
+        "latitude": -45.8637,
+        "longitude": 170.5145
     },
     {
         "title": "Dunedin - Dunedin Railway Station",
@@ -450,12 +450,6 @@
         "longitude": 170.6273
     },
     {
-        "title": "Port Chalmers - Hotere Garden Oputae - Viewpoint",
-        "video_url": "https://www.youtube.com/embed/orwHmgznOl4",
-        "latitude": -45.8165,
-        "longitude": 170.6273
-    },
-    {
         "title": "Riverton - Howell Point Lookout",
         "video_url": "https://www.youtube.com/embed/969BeODLWzA",
         "latitude": -46.384,
@@ -546,6 +540,12 @@
         "longitude": 170.1162
     },
     {
+        "title": "Dunedin - Otago Peninsula - Larnach Garden Viewpoint",
+        "video_url": "https://www.youtube.com/embed/TO2P05HT--A",
+        "latitude": -45.8609,
+        "longitude": 170.6266
+    },
+    {
         "title": "Queenstown - Queenstown Bay Beach",
         "video_url": "https://www.youtube.com/embed/0HUGp40_iSk",
         "latitude": -45.0331,
@@ -592,12 +592,6 @@
         "video_url": "https://www.youtube.com/embed/MnqEzftkf5E",
         "latitude": -45.8751,
         "longitude": 170.5083
-    },
-    {
-        "title": "Riverton - Beach",
-        "video_url": "https://www.youtube.com/embed/QeX3AaFtyY4",
-        "latitude": -46.3721,
-        "longitude": 168.0285
     },
     {
         "title": "Cape Foulwind - View of Tauranga Bay",
@@ -834,6 +828,12 @@
         "longitude": 169.3523
     },
     {
+        "title": "Benmore Dam",
+        "video_url": "https://www.youtube.com/embed/rwYJ2BXOMQg",
+        "latitude": -44.5645,
+        "longitude": 170.1979
+    },
+    {
         "title": "Glenorchy - Paradise",
         "video_url": "https://www.youtube.com/embed/I_iSB2SDcV0",
         "latitude": -44.724,
@@ -844,12 +844,6 @@
         "video_url": "https://www.youtube.com/embed/ZKpuupGUQ7I",
         "latitude": -46.3764,
         "longitude": 167.992
-    },
-    {
-        "title": "Riverton - Hilltop Lookout",
-        "video_url": "https://www.youtube.com/embed/SbFqLCNapo8",
-        "latitude": -46.3708,
-        "longitude": 167.9957
     },
     {
         "title": "Cape Foulwind - Tauranga Bay Seal Colony",
@@ -886,6 +880,12 @@
         "video_url": "https://www.youtube.com/embed/ZH613a9zQ-o",
         "latitude": -45.7995,
         "longitude": 169.5073
+    },
+    {
+        "title": "Riverton - Hilltop Lookout",
+        "video_url": "https://www.youtube.com/embed/SbFqLCNapo8",
+        "latitude": -46.3708,
+        "longitude": 167.9957
     },
     {
         "title": "Dunedin - Long Beach - 1",
@@ -936,6 +936,12 @@
         "longitude": 174.2847
     },
     {
+        "title": "Riverton - Beach",
+        "video_url": "https://www.youtube.com/embed/QeX3AaFtyY4",
+        "latitude": -46.3721,
+        "longitude": 168.0285
+    },
+    {
         "title": "Bluff - Te Araroa Trail",
         "video_url": "https://www.youtube.com/embed/BtBVPr6F3gA",
         "latitude": -46.6214,
@@ -948,10 +954,22 @@
         "longitude": 173.7845
     },
     {
+        "title": "Christchurch - Christchurch Adventure Park Cafe",
+        "video_url": "https://www.youtube.com/embed/ZamTnvIdSe8",
+        "latitude": -43.5917,
+        "longitude": 172.6316
+    },
+    {
         "title": "Dunedin - Larnach Castle - Larnach Lodge - Room 20 (Sea)",
         "video_url": "https://www.youtube.com/embed/eXKRI8K6hA0",
         "latitude": -45.861,
         "longitude": 170.6275
+    },
+    {
+        "title": "Ahuriri Ward",
+        "video_url": "https://www.youtube.com/embed/lWv9jK5bfp0",
+        "latitude": -44.588,
+        "longitude": 169.6464
     },
     {
         "title": "Waikouaiti - Hawksbury Lagoon Wildlife Refuge - Waikouaiti Beach",
@@ -990,12 +1008,6 @@
         "longitude": 174.3385
     },
     {
-        "title": "Dunedin - Otago Peninsula - Larnach Garden Viewpoint",
-        "video_url": "https://www.youtube.com/embed/TO2P05HT--A",
-        "latitude": -45.8609,
-        "longitude": 170.6266
-    },
-    {
         "title": "Interislander - Approaching South Island",
         "video_url": "https://www.youtube.com/embed/yUI1kwKjhtM",
         "latitude": -41.2188,
@@ -1032,12 +1044,6 @@
         "longitude": 169.5075
     },
     {
-        "title": "Christchurch - Christchurch Adventure Park Cafe",
-        "video_url": "https://www.youtube.com/embed/ZamTnvIdSe8",
-        "latitude": -43.5917,
-        "longitude": 172.6316
-    },
-    {
         "title": "The World\u2019s Steepest Street",
         "video_url": "https://www.youtube.com/embed/mshSOWrsDb4",
         "latitude": -45.947,
@@ -1054,12 +1060,6 @@
         "video_url": "https://www.youtube.com/embed/01V4S6N-JfY",
         "latitude": -41.3229,
         "longitude": 173.2145
-    },
-    {
-        "title": "Benmore Dam",
-        "video_url": "https://www.youtube.com/embed/rwYJ2BXOMQg",
-        "latitude": -44.5645,
-        "longitude": 170.1979
     },
     {
         "title": "Hammer String",
