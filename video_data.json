@@ -1,5 +1,11 @@
 [
     {
+        "title": "Port Chalmers - Aramoana Beach - 2",
+        "video_url": "https://www.youtube.com/embed/wmsA1G006tM",
+        "latitude": -45.7715,
+        "longitude": 170.7016
+    },
+    {
         "title": "Christchurch - Christchurch Adventure Park Cafe",
         "video_url": "https://www.youtube.com/embed/ZamTnvIdSe8",
         "latitude": -43.5917,
@@ -18,10 +24,10 @@
         "longitude": 168.3263
     },
     {
-        "title": "Port Chalmers - Aramoana Beach - 2",
-        "video_url": "https://www.youtube.com/embed/wmsA1G006tM",
-        "latitude": -45.7715,
-        "longitude": 170.7016
+        "title": "Dunedin - Saint Clair Beach",
+        "video_url": "https://www.youtube.com/embed/n-LTGLQlYjQ",
+        "latitude": -45.9117,
+        "longitude": 170.4906
     },
     {
         "title": "Cullen Point Lookout",
@@ -312,6 +318,12 @@
         "longitude": 174.7541
     },
     {
+        "title": "Interislander Ferry - Wellington to Picton - Leaving Wellington Harbour",
+        "video_url": "https://www.youtube.com/embed/Be3fTehbucE",
+        "latitude": -41.3118,
+        "longitude": 174.8591
+    },
+    {
         "title": "Nelson - Branford Park - Branford Playground",
         "video_url": "https://www.youtube.com/embed/c39sPkbUa9I",
         "latitude": -41.2737,
@@ -408,6 +420,12 @@
         "longitude": 170.4885
     },
     {
+        "title": "Interislander Ferry - Wellington to Picton - Wellington Pier",
+        "video_url": "https://www.youtube.com/embed/gF1Um0Z24Jo",
+        "latitude": -41.2456,
+        "longitude": 174.8246
+    },
+    {
         "title": "Dunedin - Highcliff Viewpoint",
         "video_url": "https://www.youtube.com/embed/8Tam7dngKFU",
         "latitude": -45.8852,
@@ -456,22 +474,10 @@
         "longitude": 167.6204
     },
     {
-        "title": "Manapouri Motels and Holiday Park",
-        "video_url": "https://www.youtube.com/embed/3VUPWG7qtYE",
-        "latitude": -45.5586,
-        "longitude": 167.6204
-    },
-    {
         "title": "Bluff - Te Araroa Trail",
         "video_url": "https://www.youtube.com/embed/xukoZFtUCPY",
         "latitude": -46.6183,
         "longitude": 168.3531
-    },
-    {
-        "title": "Dunedin - Saint Clair Beach",
-        "video_url": "https://www.youtube.com/embed/n-LTGLQlYjQ",
-        "latitude": -45.9117,
-        "longitude": 170.4906
     },
     {
         "title": "Southland - Winton Town",
@@ -490,6 +496,12 @@
         "video_url": "https://www.youtube.com/embed/EsbLvl6c7qg",
         "latitude": -43.2236,
         "longitude": 170.1563
+    },
+    {
+        "title": "Queenstown - Queenstown Garden Waterfront - Frankton Arm",
+        "video_url": "https://www.youtube.com/embed/konUVe3ZGzk",
+        "latitude": -45.0378,
+        "longitude": 168.6619
     },
     {
         "title": "Port Chalmers - Hotere Garden Oputae - Viewpoint",
@@ -576,6 +588,12 @@
         "longitude": 171.8663
     },
     {
+        "title": "Cardrona - Bradrona",
+        "video_url": "https://www.youtube.com/embed/4CXrCH-qO60",
+        "latitude": -44.8634,
+        "longitude": 169.0188
+    },
+    {
         "title": "Dunedin - Tunnel Beach Track",
         "video_url": "https://www.youtube.com/embed/up9sWS5lbQM",
         "latitude": -45.9204,
@@ -616,6 +634,12 @@
         "video_url": "https://www.youtube.com/embed/CQn3Ge39JA8",
         "latitude": -46.3694,
         "longitude": 167.9979
+    },
+    {
+        "title": "Riverton - Smiling Whale",
+        "video_url": "https://www.youtube.com/embed/Or-nSZZpV3U",
+        "latitude": -46.3605,
+        "longitude": 168.0214
     },
     {
         "title": "Port Chalmers - Flagstaff Lookout - 1",
@@ -676,6 +700,12 @@
         "video_url": "https://www.youtube.com/embed/zGEqSfjPsr0",
         "latitude": -41.3312,
         "longitude": 174.8226
+    },
+    {
+        "title": "The World\u2019s Steepest Street",
+        "video_url": "https://www.youtube.com/embed/mshSOWrsDb4",
+        "latitude": -45.947,
+        "longitude": 170.3349
     },
     {
         "title": "Dunedin - Brighton Beach",
@@ -936,6 +966,12 @@
         "longitude": 169.3523
     },
     {
+        "title": "Queenstown - Sunshine Bay",
+        "video_url": "https://www.youtube.com/embed/MqR_6u57Yyw",
+        "latitude": -45.0479,
+        "longitude": 168.6228
+    },
+    {
         "title": "Christchurch - Sign of Bellbird",
         "video_url": "https://www.youtube.com/embed/VLZTRPlyi6U",
         "latitude": -43.6322,
@@ -1032,34 +1068,10 @@
         "longitude": 169.6464
     },
     {
-        "title": "Interislander Ferry - Wellington to Picton - Leaving Wellington Harbour",
-        "video_url": "https://www.youtube.com/embed/Be3fTehbucE",
-        "latitude": -41.3118,
-        "longitude": 174.8591
-    },
-    {
-        "title": "Interislander Ferry - Wellington to Picton - Wellington Pier",
-        "video_url": "https://www.youtube.com/embed/gF1Um0Z24Jo",
-        "latitude": -41.2456,
-        "longitude": 174.8246
-    },
-    {
-        "title": "Queenstown - Queenstown Garden Waterfront - Frankton Arm",
-        "video_url": "https://www.youtube.com/embed/konUVe3ZGzk",
-        "latitude": -45.0378,
-        "longitude": 168.6619
-    },
-    {
         "title": "Interislander Ferry - Wellington to Picton - Approaching South Island",
         "video_url": "https://www.youtube.com/embed/zCKjYFEBF28",
         "latitude": -41.2253,
         "longitude": 174.3385
-    },
-    {
-        "title": "Riverton - Smiling Whale",
-        "video_url": "https://www.youtube.com/embed/Or-nSZZpV3U",
-        "latitude": -46.3605,
-        "longitude": 168.0214
     },
     {
         "title": "Clutha River - 2",
@@ -1068,22 +1080,10 @@
         "longitude": 169.5075
     },
     {
-        "title": "The World\u2019s Steepest Street",
-        "video_url": "https://www.youtube.com/embed/mshSOWrsDb4",
-        "latitude": -45.947,
-        "longitude": 170.3349
-    },
-    {
         "title": "Hammer String",
         "video_url": "https://www.youtube.com/embed/7VGUym-v2AM",
         "latitude": -42.5854,
         "longitude": 172.7818
-    },
-    {
-        "title": "Queenstown - Sunshine Bay",
-        "video_url": "https://www.youtube.com/embed/MqR_6u57Yyw",
-        "latitude": -45.0479,
-        "longitude": 168.6228
     },
     {
         "title": "Te Anau Bird Sanctuary - Takahe 1",
