@@ -42,10 +42,22 @@
         "longitude": 171.3246
     },
     {
+        "title": "Dunedin - Saint Clair Beach - 1",
+        "video_url": "https://www.youtube.com/embed/mmgyVEgbu-k",
+        "latitude": -45.9126,
+        "longitude": 170.4885
+    },
+    {
         "title": "Timaru - Caroline Bay Beach",
         "video_url": "https://www.youtube.com/embed/gIRK6a1z07k",
         "latitude": -44.3866,
         "longitude": 171.2495
+    },
+    {
+        "title": "Christchurch - Barrington Park",
+        "video_url": "https://www.youtube.com/embed/uK6BWoRGarw",
+        "latitude": -43.556,
+        "longitude": 172.6189
     },
     {
         "title": "Dunedin - Marlow Park",
@@ -414,12 +426,6 @@
         "longitude": 173.6823
     },
     {
-        "title": "Dunedin - Saint Clair Beach - 1",
-        "video_url": "https://www.youtube.com/embed/mmgyVEgbu-k",
-        "latitude": -45.9126,
-        "longitude": 170.4885
-    },
-    {
         "title": "Interislander Ferry - Wellington to Picton - Wellington Pier",
         "video_url": "https://www.youtube.com/embed/gF1Um0Z24Jo",
         "latitude": -41.2456,
@@ -454,12 +460,6 @@
         "video_url": "https://www.youtube.com/embed/Jo7Fr2Klc_8",
         "latitude": -46.4348,
         "longitude": 168.3448
-    },
-    {
-        "title": "Christchurch - Barrington Park",
-        "video_url": "https://www.youtube.com/embed/uK6BWoRGarw",
-        "latitude": -43.556,
-        "longitude": 172.6189
     },
     {
         "title": "Cape Reinga - Start of the Track",
@@ -538,6 +538,12 @@
         "video_url": "https://www.youtube.com/embed/kjHVQbHYTVs",
         "latitude": -44.8733,
         "longitude": 168.9495
+    },
+    {
+        "title": "Interislander Ferry - Wellington to Picton - Approaching South Island",
+        "video_url": "https://www.youtube.com/embed/zCKjYFEBF28",
+        "latitude": -41.2253,
+        "longitude": 174.3385
     },
     {
         "title": "Baclutha Ward Bridge",
@@ -700,6 +706,12 @@
         "video_url": "https://www.youtube.com/embed/zGEqSfjPsr0",
         "latitude": -41.3312,
         "longitude": 174.8226
+    },
+    {
+        "title": "Clutha River - 2",
+        "video_url": "https://www.youtube.com/embed/hK9FJOIuO_Y",
+        "latitude": -45.7996,
+        "longitude": 169.5075
     },
     {
         "title": "The World\u2019s Steepest Street",
@@ -894,6 +906,12 @@
         "longitude": 171.3233
     },
     {
+        "title": "Karitane - Karitane Beach",
+        "video_url": "https://www.youtube.com/embed/DnV32qwL5UA",
+        "latitude": -45.6428,
+        "longitude": 170.6615
+    },
+    {
         "title": "Pahia - Cozy Nook",
         "video_url": "https://www.youtube.com/embed/5XOZk3GCuCI",
         "latitude": -46.3328,
@@ -916,12 +934,6 @@
         "video_url": "https://www.youtube.com/embed/E8hrZBwZKe4",
         "latitude": -45.0356,
         "longitude": 169.197
-    },
-    {
-        "title": "Karitane - Karitane Beach",
-        "video_url": "https://www.youtube.com/embed/DnV32qwL5UA",
-        "latitude": -45.6428,
-        "longitude": 170.6615
     },
     {
         "title": "Roaring Meg",
@@ -1066,18 +1078,6 @@
         "video_url": "https://www.youtube.com/embed/lWv9jK5bfp0",
         "latitude": -44.588,
         "longitude": 169.6464
-    },
-    {
-        "title": "Interislander Ferry - Wellington to Picton - Approaching South Island",
-        "video_url": "https://www.youtube.com/embed/zCKjYFEBF28",
-        "latitude": -41.2253,
-        "longitude": 174.3385
-    },
-    {
-        "title": "Clutha River - 2",
-        "video_url": "https://www.youtube.com/embed/hK9FJOIuO_Y",
-        "latitude": -45.7996,
-        "longitude": 169.5075
     },
     {
         "title": "Hammer String",
