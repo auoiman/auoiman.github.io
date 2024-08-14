@@ -78,12 +78,6 @@
         "longitude": 172.5404
     },
     {
-        "title": "Wellington - East Harbour Regional Park - Orongorongo River",
-        "video_url": "https://www.youtube.com/embed/BG8yVI4mAE4",
-        "latitude": -41.4178,
-        "longitude": 174.9019
-    },
-    {
         "title": "Dunedin - Macandrew Bay Beach",
         "video_url": "https://www.youtube.com/embed/n0emvPm6R4o",
         "latitude": -45.8677,
@@ -222,16 +216,10 @@
         "longitude": 173.93
     },
     {
-        "title": "Canterbury - Rolleston - Foster Park Playground",
-        "video_url": "https://www.youtube.com/embed/-CeihHZgD7s",
-        "latitude": -43.6064,
-        "longitude": 172.3876
-    },
-    {
-        "title": "Lake Waihola Domain",
-        "video_url": "https://www.youtube.com/embed/dP4ISIDYJss",
-        "latitude": -46.0236,
-        "longitude": 170.0925
+        "title": "Cardrona - Bradrona",
+        "video_url": "https://www.youtube.com/embed/4CXrCH-qO60",
+        "latitude": -44.8634,
+        "longitude": 169.0188
     },
     {
         "title": "Nelson - The old barn - Abel Tasman National Park",
@@ -244,6 +232,12 @@
         "video_url": "https://www.youtube.com/embed/xdsfFAHx1Uc",
         "latitude": -42.8645,
         "longitude": 173.3083
+    },
+    {
+        "title": "Canterbury - Rolleston - Foster Park Playground",
+        "video_url": "https://www.youtube.com/embed/-CeihHZgD7s",
+        "latitude": -43.6064,
+        "longitude": 172.3876
     },
     {
         "title": "Dunedin - Otago Peninsula - Okia Reserve - Little pyramid lookout",
@@ -462,6 +456,18 @@
         "longitude": 168.3448
     },
     {
+        "title": "Greenpoint - Greenpoint Reserve",
+        "video_url": "https://www.youtube.com/embed/M1aZyPzSK58",
+        "latitude": -46.573,
+        "longitude": 168.3021
+    },
+    {
+        "title": "Invercargill - Invercargill Estuary Walkway - 2",
+        "video_url": "https://www.youtube.com/embed/Jo7Fr2Klc_8",
+        "latitude": -46.4348,
+        "longitude": 168.3448
+    },
+    {
         "title": "Cape Reinga - Start of the Track",
         "video_url": "https://www.youtube.com/embed/OJpHCXk7xk0",
         "latitude": -34.42894,
@@ -592,12 +598,6 @@
         "video_url": "https://www.youtube.com/embed/bD_m_c-R6MY",
         "latitude": -42.1196,
         "longitude": 171.8663
-    },
-    {
-        "title": "Cardrona - Bradrona",
-        "video_url": "https://www.youtube.com/embed/4CXrCH-qO60",
-        "latitude": -44.8634,
-        "longitude": 169.0188
     },
     {
         "title": "Dunedin - Tunnel Beach Track",
