@@ -78,6 +78,12 @@
         "longitude": 172.5404
     },
     {
+        "title": "Wellington - East Harbour Regional Park - Orongorongo River",
+        "video_url": "https://www.youtube.com/embed/BG8yVI4mAE4",
+        "latitude": -41.4178,
+        "longitude": 174.9019
+    },
+    {
         "title": "Dunedin - Macandrew Bay Beach",
         "video_url": "https://www.youtube.com/embed/n0emvPm6R4o",
         "latitude": -45.8677,
@@ -124,6 +130,12 @@
         "video_url": "https://www.youtube.com/embed/hRg_j6Tn2TA",
         "latitude": -46.6223,
         "longitude": 168.3491
+    },
+    {
+        "title": "Riverton - Beach",
+        "video_url": "https://www.youtube.com/embed/QeX3AaFtyY4",
+        "latitude": -46.3721,
+        "longitude": 168.0285
     },
     {
         "title": "The Catlins - Baclutha Ward",
@@ -222,6 +234,12 @@
         "longitude": 169.0188
     },
     {
+        "title": "Lake Waihola Domain",
+        "video_url": "https://www.youtube.com/embed/dP4ISIDYJss",
+        "latitude": -46.0236,
+        "longitude": 170.0925
+    },
+    {
         "title": "Nelson - The old barn - Abel Tasman National Park",
         "video_url": "https://www.youtube.com/embed/PcMBHWlESjc",
         "latitude": -40.9945,
@@ -262,12 +280,6 @@
         "video_url": "https://www.youtube.com/embed/XX0jS8wHj9g",
         "latitude": -45.8236,
         "longitude": 170.7225
-    },
-    {
-        "title": "Riverton - Beach",
-        "video_url": "https://www.youtube.com/embed/QeX3AaFtyY4",
-        "latitude": -46.3721,
-        "longitude": 168.0285
     },
     {
         "title": "Taieri Mouth - Taieri Beach",
@@ -442,24 +454,6 @@
         "video_url": "https://www.youtube.com/embed/6aPF3mjd7Lo",
         "latitude": -45.8158,
         "longitude": 170.6269
-    },
-    {
-        "title": "Greenpoint - Greenpoint Reserve",
-        "video_url": "https://www.youtube.com/embed/M1aZyPzSK58",
-        "latitude": -46.573,
-        "longitude": 168.3021
-    },
-    {
-        "title": "Invercargill - Invercargill Estuary Walkway - 2",
-        "video_url": "https://www.youtube.com/embed/Jo7Fr2Klc_8",
-        "latitude": -46.4348,
-        "longitude": 168.3448
-    },
-    {
-        "title": "Greenpoint - Greenpoint Reserve",
-        "video_url": "https://www.youtube.com/embed/M1aZyPzSK58",
-        "latitude": -46.573,
-        "longitude": 168.3021
     },
     {
         "title": "Invercargill - Invercargill Estuary Walkway - 2",
@@ -742,6 +736,12 @@
         "video_url": "https://www.youtube.com/embed/t7v2rlOzRE8",
         "latitude": -45.5994,
         "longitude": 170.6761
+    },
+    {
+        "title": "Dunedin - Otago Peninsula - Sandfly Bay",
+        "video_url": "https://www.youtube.com/embed/F52ggY20Pxc",
+        "latitude": -45.8954,
+        "longitude": 170.6427
     },
     {
         "title": "Dunedin - Otago Peninsula - Sandfly Bay",
