@@ -42,6 +42,12 @@
         "longitude": 171.3246
     },
     {
+        "title": "Dunedin - Saint Clair Beach - 1",
+        "video_url": "https://www.youtube.com/embed/mmgyVEgbu-k",
+        "latitude": -45.9126,
+        "longitude": 170.4885
+    },
+    {
         "title": "Timaru - Caroline Bay Beach",
         "video_url": "https://www.youtube.com/embed/gIRK6a1z07k",
         "latitude": -44.3866,
@@ -88,12 +94,6 @@
         "video_url": "https://www.youtube.com/embed/kcUdBomp8iI",
         "latitude": -46.4457,
         "longitude": 169.8036
-    },
-    {
-        "title": "Wellington - East Harbour Regional Park - Orongorongo River",
-        "video_url": "https://www.youtube.com/embed/BG8yVI4mAE4",
-        "latitude": -41.4178,
-        "longitude": 174.9019
     },
     {
         "title": "Orepuki - Gemstone Beach",
@@ -280,12 +280,6 @@
         "video_url": "https://www.youtube.com/embed/PcMBHWlESjc",
         "latitude": -40.9945,
         "longitude": 173.006
-    },
-    {
-        "title": "Cheviot - Gore Bay",
-        "video_url": "https://www.youtube.com/embed/xdsfFAHx1Uc",
-        "latitude": -42.8645,
-        "longitude": 173.3083
     },
     {
         "title": "Auckland - Kiwi Esplanade",
@@ -486,12 +480,6 @@
         "longitude": 167.6126
     },
     {
-        "title": "Timaru - Caroline Bay Playground - 1",
-        "video_url": "https://www.youtube.com/embed/ElGpvjqe7jE",
-        "latitude": -44.3893,
-        "longitude": 171.2465
-    },
-    {
         "title": "Te Anau Bird Sanctuary - Takahe 3",
         "video_url": "https://www.youtube.com/embed/v23y4fo1E0E",
         "latitude": -45.4337,
@@ -684,6 +672,12 @@
         "longitude": 174.7481
     },
     {
+        "title": "Riverton - Howell Point Lookout",
+        "video_url": "https://www.youtube.com/embed/969BeODLWzA",
+        "latitude": -46.384,
+        "longitude": 168.0304
+    },
+    {
         "title": "Dunedin - Otago Peninsula - Okia Reserve / Pyramids",
         "video_url": "https://www.youtube.com/embed/w1TqjGdP0_w",
         "latitude": -45.828,
@@ -864,12 +858,6 @@
         "longitude": 170.1162
     },
     {
-        "title": "Waihola - Titri Creek Walk - 1",
-        "video_url": "https://www.youtube.com/embed/eSev4ptxSlU",
-        "latitude": -46.0031,
-        "longitude": 170.1162
-    },
-    {
         "title": "Dunedin - Otago Peninsula - Larnach Garden Viewpoint",
         "video_url": "https://www.youtube.com/embed/TO2P05HT--A",
         "latitude": -45.8609,
@@ -1032,12 +1020,6 @@
         "longitude": 169.3814
     },
     {
-        "title": "Wellington - Kadso place",
-        "video_url": "https://www.youtube.com/embed/zGEqSfjPsr0",
-        "latitude": -41.3312,
-        "longitude": 174.8226
-    },
-    {
         "title": "Auckland - Devonport - Mount Victoria Lookout",
         "video_url": "https://www.youtube.com/embed/-1dyozKnANo",
         "latitude": -36.8269,
@@ -1158,16 +1140,28 @@
         "longitude": 174.4627
     },
     {
+        "title": "Waikouaiti - Hawksbury Lagoon Wildlife Refuge - 2",
+        "video_url": "https://www.youtube.com/embed/IQFIbuZKPsA",
+        "latitude": -45.6023,
+        "longitude": 170.6747
+    },
+    {
+        "title": "Auckland - Piha Beach",
+        "video_url": "https://www.youtube.com/embed/vJ0d0k9GEvU",
+        "latitude": -36.9598,
+        "longitude": 174.4626
+    },
+    {
+        "title": "Kaikorua - Beach near Kaikorua Skate Park",
+        "video_url": "https://www.youtube.com/embed/iGd7LP3nQZg",
+        "latitude": -42.4065,
+        "longitude": 173.6846
+    },
+    {
         "title": "The Catlins - Kaka Point",
         "video_url": "https://www.youtube.com/embed/-egFcXopYbw",
         "latitude": -46.445,
         "longitude": 169.8028
-    },
-    {
-        "title": "Riverton - Taramea Bay Playground",
-        "video_url": "https://www.youtube.com/embed/FBKoRVJpdUg",
-        "latitude": -46.3663,
-        "longitude": 168.0206
     },
     {
         "title": "Port Chalmers - Aramoana Breakwater",
@@ -1204,6 +1198,12 @@
         "video_url": "https://www.youtube.com/embed/pY0eLtf98MU",
         "latitude": -34.8995,
         "longitude": 173.0851
+    },
+    {
+        "title": "Gore - Dolamore Playground",
+        "video_url": "https://www.youtube.com/embed/cUtFCVL3QjU",
+        "latitude": -46.0623,
+        "longitude": 168.8275
     },
     {
         "title": "Auckland - Muriwai Beach - Sunset",
@@ -1318,12 +1318,6 @@
         "video_url": "https://www.youtube.com/embed/HmI5KxWuTIU",
         "latitude": -36.7442,
         "longitude": 174.7224
-    },
-    {
-        "title": "Manapouri - Pearl Harbour",
-        "video_url": "https://www.youtube.com/embed/o0v6D_HobDo",
-        "latitude": -45.5695,
-        "longitude": 167.6158
     },
     {
         "title": "Auckland - Huana Falls",
@@ -1444,6 +1438,12 @@
         "video_url": "https://www.youtube.com/embed/Rwcn0_pk22o",
         "latitude": -36.9614,
         "longitude": 174.4626
+    },
+    {
+        "title": "Glenorchy - Paradise",
+        "video_url": "https://www.youtube.com/embed/I_iSB2SDcV0",
+        "latitude": -44.724,
+        "longitude": 168.3723
     },
     {
         "title": "Auckland - Piha Beach",
