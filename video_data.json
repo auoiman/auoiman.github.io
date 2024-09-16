@@ -6,34 +6,22 @@
         "longitude": 170.7016
     },
     {
+        "title": "Auckland - Britomart Train Station",
+        "video_url": "https://www.youtube.com/embed/6MfUTQHW4K0",
+        "latitude": -36.8439,
+        "longitude": 174.7668
+    },
+    {
+        "title": "Auckland - Muriwai Beach - Kite Surfing",
+        "video_url": "https://www.youtube.com/embed/mhXQ3zMKNP0",
+        "latitude": -36.8264,
+        "longitude": 174.4253
+    },
+    {
         "title": "Auckland - Cornwall Park - Lambing",
         "video_url": "https://www.youtube.com/embed/JoHiGxI5xik",
         "latitude": -36.897,
         "longitude": 174.7829
-    },
-    {
-        "title": "Taieri Mouth - Taieri Beach",
-        "video_url": "https://www.youtube.com/embed/p3ju-II9mJ8",
-        "latitude": -46.0556,
-        "longitude": 170.1958
-    },
-    {
-        "title": "Waikouaiti - Waikouaiti Beach",
-        "video_url": "https://www.youtube.com/embed/LQ0cO9jWYU8",
-        "latitude": -45.6108,
-        "longitude": 170.6828
-    },
-    {
-        "title": "Auckland - Cornwall Park",
-        "video_url": "https://www.youtube.com/embed/a2pVeY3ME6c",
-        "latitude": -36.897,
-        "longitude": 174.7832
-    },
-    {
-        "title": "Dunedin - St Clair Hot Salt Water Pool",
-        "video_url": "https://www.youtube.com/embed/m9emxtqcRHw",
-        "latitude": -45.9139,
-        "longitude": 170.4885
     },
     {
         "title": "Glenorchy - Isengard Lookout",
@@ -42,10 +30,22 @@
         "longitude": 168.3263
     },
     {
-        "title": "Lake Waihola Holiday Park - Cabin",
-        "video_url": "https://www.youtube.com/embed/4xxip8DknlY",
-        "latitude": -46.0218,
-        "longitude": 170.0942
+        "title": "Waikouaiti - Waikouaiti Beach",
+        "video_url": "https://www.youtube.com/embed/LQ0cO9jWYU8",
+        "latitude": -45.6108,
+        "longitude": 170.6828
+    },
+    {
+        "title": "Dunedin - St Clair Hot Salt Water Pool",
+        "video_url": "https://www.youtube.com/embed/m9emxtqcRHw",
+        "latitude": -45.9139,
+        "longitude": 170.4885
+    },
+    {
+        "title": "Auckland - Cornwall Park",
+        "video_url": "https://www.youtube.com/embed/a2pVeY3ME6c",
+        "latitude": -36.897,
+        "longitude": 174.7832
     },
     {
         "title": "Christchurch - Barrington Park",
@@ -54,22 +54,22 @@
         "longitude": 172.6189
     },
     {
-        "title": "Auckland - Cheltenham Beach",
-        "video_url": "https://www.youtube.com/embed/E2gvFX08pKs",
-        "latitude": -36.8201,
-        "longitude": 174.8063
-    },
-    {
-        "title": "Auckland - Britomart Train Station",
-        "video_url": "https://www.youtube.com/embed/6MfUTQHW4K0",
-        "latitude": -36.8439,
-        "longitude": 174.7668
+        "title": "Lake Waihola Holiday Park - Cabin",
+        "video_url": "https://www.youtube.com/embed/4xxip8DknlY",
+        "latitude": -46.0218,
+        "longitude": 170.0942
     },
     {
         "title": "Timaru - Caroline Bay Playground - 3",
         "video_url": "https://www.youtube.com/embed/qK1cELmgUoE",
         "latitude": -44.3887,
         "longitude": 171.2464
+    },
+    {
+        "title": "Auckland - Cheltenham Beach",
+        "video_url": "https://www.youtube.com/embed/E2gvFX08pKs",
+        "latitude": -36.8201,
+        "longitude": 174.8063
     },
     {
         "title": "Pahia - Cozy Nook",
@@ -96,16 +96,16 @@
         "longitude": 170.5469
     },
     {
-        "title": "Auckland - Muriwai Beach - Kite Surfing",
-        "video_url": "https://www.youtube.com/embed/mhXQ3zMKNP0",
-        "latitude": -36.8264,
-        "longitude": 174.4253
-    },
-    {
         "title": "Greymouth - The Brunner Mine Industrial Site - 2",
         "video_url": "https://www.youtube.com/embed/Iy-5SP5CNZU",
         "latitude": -42.4332,
         "longitude": 171.3246
+    },
+    {
+        "title": "Dunedin - Saint Clair Beach - 1",
+        "video_url": "https://www.youtube.com/embed/mmgyVEgbu-k",
+        "latitude": -45.9126,
+        "longitude": 170.4885
     },
     {
         "title": "Timaru - Caroline Bay Beach",
@@ -120,16 +120,16 @@
         "longitude": 174.7139
     },
     {
-        "title": "Dunedin - Marlow Park",
-        "video_url": "https://www.youtube.com/embed/uSvSRBtZ1vQ",
-        "latitude": -45.9081,
-        "longitude": 170.5095
-    },
-    {
         "title": "Canterbury - Rolleston - Foster Park Playground",
         "video_url": "https://www.youtube.com/embed/-CeihHZgD7s",
         "latitude": -43.6064,
         "longitude": 172.3876
+    },
+    {
+        "title": "Dunedin - Marlow Park",
+        "video_url": "https://www.youtube.com/embed/uSvSRBtZ1vQ",
+        "latitude": -45.9081,
+        "longitude": 170.5095
     },
     {
         "title": "Beaumont Bridge",
@@ -144,22 +144,10 @@
         "longitude": 174.7865
     },
     {
-        "title": "Christchurch - The Riccarton Sunday Market - Food Market Section",
-        "video_url": "https://www.youtube.com/embed/4HAL2cm3_dE",
-        "latitude": -43.5298,
-        "longitude": 172.5404
-    },
-    {
         "title": "Dunedin - Macandrew Bay Beach",
         "video_url": "https://www.youtube.com/embed/n0emvPm6R4o",
         "latitude": -45.8677,
         "longitude": 170.5974
-    },
-    {
-        "title": "Queenstown - Queenstown Bay Beach",
-        "video_url": "https://www.youtube.com/embed/0HUGp40_iSk",
-        "latitude": -45.0331,
-        "longitude": 168.6604
     },
     {
         "title": "Christchurch - Christchurch Adventure Park Cafe",
@@ -168,16 +156,22 @@
         "longitude": 172.6316
     },
     {
+        "title": "Queenstown - Queenstown Bay Beach",
+        "video_url": "https://www.youtube.com/embed/0HUGp40_iSk",
+        "latitude": -45.0331,
+        "longitude": 168.6604
+    },
+    {
+        "title": "Christchurch - The Riccarton Sunday Market - Food Market Section",
+        "video_url": "https://www.youtube.com/embed/4HAL2cm3_dE",
+        "latitude": -43.5298,
+        "longitude": 172.5404
+    },
+    {
         "title": "Auckland - Constellation Drive",
         "video_url": "https://www.youtube.com/embed/8BSQ1i16Dog",
         "latitude": -36.7505,
         "longitude": 174.7267
-    },
-    {
-        "title": "Wellington - East Harbour Regional Park - Orongorongo River",
-        "video_url": "https://www.youtube.com/embed/BG8yVI4mAE4",
-        "latitude": -41.4178,
-        "longitude": 174.9019
     },
     {
         "title": "Orepuki - Gemstone Beach",
@@ -186,16 +180,16 @@
         "longitude": 167.729
     },
     {
-        "title": "Bluff - Bluff Hill Lookout",
-        "video_url": "https://www.youtube.com/embed/xwozR5_gHUU",
-        "latitude": -46.6134,
-        "longitude": 168.3572
-    },
-    {
         "title": "Riverton - Hilltop Lookout",
         "video_url": "https://www.youtube.com/embed/SbFqLCNapo8",
         "latitude": -46.3708,
         "longitude": 167.9957
+    },
+    {
+        "title": "Bluff - Bluff Hill Lookout",
+        "video_url": "https://www.youtube.com/embed/xwozR5_gHUU",
+        "latitude": -46.6134,
+        "longitude": 168.3572
     },
     {
         "title": "Dunedin - Larnach Castle - Larnach Lodge - Room 20 (Sea)",
@@ -210,16 +204,22 @@
         "longitude": 168.3491
     },
     {
+        "title": "The Catlins - Baclutha Ward",
+        "video_url": "https://www.youtube.com/embed/IgvovF8tKFg",
+        "latitude": -46.3719,
+        "longitude": 169.7817
+    },
+    {
         "title": "Riverton - Beach",
         "video_url": "https://www.youtube.com/embed/QeX3AaFtyY4",
         "latitude": -46.3721,
         "longitude": 168.0285
     },
     {
-        "title": "The Catlins - Baclutha Ward",
-        "video_url": "https://www.youtube.com/embed/IgvovF8tKFg",
-        "latitude": -46.3719,
-        "longitude": 169.7817
+        "title": "The Catlins - Roaring Bay - Penguin Hide",
+        "video_url": "https://www.youtube.com/embed/kcUdBomp8iI",
+        "latitude": -46.4457,
+        "longitude": 169.8036
     },
     {
         "title": "Auckland - Te Henga (Bethells Beach)",
@@ -240,10 +240,10 @@
         "longitude": 169.7818
     },
     {
-        "title": "The Catlins - Roaring Bay - Penguin Hide",
-        "video_url": "https://www.youtube.com/embed/kcUdBomp8iI",
-        "latitude": -46.4457,
-        "longitude": 169.8036
+        "title": "Auckland - Milford Beach",
+        "video_url": "https://www.youtube.com/embed/xwep5PNACbY",
+        "latitude": -36.7692,
+        "longitude": 174.7708
     },
     {
         "title": "Fortrose Freedom Camping site",
@@ -252,40 +252,28 @@
         "longitude": 168.7964
     },
     {
-        "title": "The Catlins - Florence Hill Lookout",
-        "video_url": "https://www.youtube.com/embed/TcQz5ICMEiU",
-        "latitude": -46.5745,
-        "longitude": 169.4593
-    },
-    {
         "title": "Dunedin - Otago Peninsula - Taiaroa Head",
         "video_url": "https://www.youtube.com/embed/dgeBAOx6cUg",
         "latitude": -45.7754,
         "longitude": 170.7305
     },
     {
-        "title": "Auckland - Milford Beach",
-        "video_url": "https://www.youtube.com/embed/xwep5PNACbY",
-        "latitude": -36.7692,
-        "longitude": 174.7708
-    },
-    {
-        "title": "Auckland - Piha Beach",
-        "video_url": "https://www.youtube.com/embed/6k1Yxx5JPOQ",
-        "latitude": -36.9594,
-        "longitude": 174.4644
-    },
-    {
-        "title": "Auckland - Piha Beach",
-        "video_url": "https://www.youtube.com/embed/6k1Yxx5JPOQ",
-        "latitude": -36.9594,
-        "longitude": 174.4644
+        "title": "The Catlins - Florence Hill Lookout",
+        "video_url": "https://www.youtube.com/embed/TcQz5ICMEiU",
+        "latitude": -46.5745,
+        "longitude": 169.4593
     },
     {
         "title": "Dunedin - Brighton Beach 2",
         "video_url": "https://www.youtube.com/embed/FzReBorwa4w",
         "latitude": -45.947,
         "longitude": 170.3349
+    },
+    {
+        "title": "Auckland - Piha Beach",
+        "video_url": "https://www.youtube.com/embed/6k1Yxx5JPOQ",
+        "latitude": -36.9594,
+        "longitude": 174.4644
     },
     {
         "title": "Kurow Dam",
@@ -300,28 +288,16 @@
         "longitude": 170.1643
     },
     {
-        "title": "Dunedin - Otago Peninsula - Harrington Point",
-        "video_url": "https://www.youtube.com/embed/wsfPkr4zals",
-        "latitude": -45.7846,
-        "longitude": 170.7246
-    },
-    {
         "title": "Riverton - Jacobs River Estuary Viewpoint",
         "video_url": "https://www.youtube.com/embed/3vwQ25APN3Q",
         "latitude": -46.3598,
         "longitude": 168.0222
     },
     {
-        "title": "Auckland - Eden Park - FIFA Women's World Cup",
-        "video_url": "https://www.youtube.com/embed/w1hFIdOmius",
-        "latitude": -36.8753,
-        "longitude": 174.7456
-    },
-    {
-        "title": "Wellington - Miramar - Airport Viewpoint",
-        "video_url": "https://www.youtube.com/embed/0tT8_7SR25U",
-        "latitude": -41.3181,
-        "longitude": 174.8111
+        "title": "Dunedin - Otago Peninsula - Harrington Point",
+        "video_url": "https://www.youtube.com/embed/wsfPkr4zals",
+        "latitude": -45.7846,
+        "longitude": 170.7246
     },
     {
         "title": "Auckland - Ambury Regional Park - Walkway",
@@ -330,16 +306,16 @@
         "longitude": 174.7615
     },
     {
-        "title": "Dunedin - University of Otago",
-        "video_url": "https://www.youtube.com/embed/Yhp3KRZNXwc",
-        "latitude": -45.8637,
-        "longitude": 170.5145
-    },
-    {
         "title": "Dunedin - Dunedin Railway Station",
         "video_url": "https://www.youtube.com/embed/tD9UHQI9_FU",
         "latitude": -45.876,
         "longitude": 170.5086
+    },
+    {
+        "title": "Dunedin - University of Otago",
+        "video_url": "https://www.youtube.com/embed/Yhp3KRZNXwc",
+        "latitude": -45.8637,
+        "longitude": 170.5145
     },
     {
         "title": "Auckland - Piha Beach",
@@ -354,16 +330,22 @@
         "longitude": 173.93
     },
     {
-        "title": "Auckland - Muriwai Beach - Horse-riding",
-        "video_url": "https://www.youtube.com/embed/ws68Zh8M2mc",
-        "latitude": -36.8113,
-        "longitude": 174.4175
-    },
-    {
         "title": "Cardrona - Bradrona",
         "video_url": "https://www.youtube.com/embed/4CXrCH-qO60",
         "latitude": -44.8634,
         "longitude": 169.0188
+    },
+    {
+        "title": "Auckland - Eden Park - FIFA Women's World Cup",
+        "video_url": "https://www.youtube.com/embed/w1hFIdOmius",
+        "latitude": -36.8753,
+        "longitude": 174.7456
+    },
+    {
+        "title": "Auckland - Muriwai Beach - Horse-riding",
+        "video_url": "https://www.youtube.com/embed/ws68Zh8M2mc",
+        "latitude": -36.8113,
+        "longitude": 174.4175
     },
     {
         "title": "Lake Waihola Domain",
@@ -384,6 +366,12 @@
         "longitude": 173.3083
     },
     {
+        "title": "Tasman - Split apple rock",
+        "video_url": "https://www.youtube.com/embed/kFZNInlW_IA",
+        "latitude": -41.0183,
+        "longitude": 173.0187
+    },
+    {
         "title": "Auckland - Kiwi Esplanade",
         "video_url": "https://www.youtube.com/embed/LOS1kbrd6Wg",
         "latitude": -36.9402,
@@ -400,12 +388,6 @@
         "video_url": "https://www.youtube.com/embed/6aPi2z-yk2w",
         "latitude": -45.8239,
         "longitude": 170.7218
-    },
-    {
-        "title": "Tasman - Split apple rock",
-        "video_url": "https://www.youtube.com/embed/kFZNInlW_IA",
-        "latitude": -41.0183,
-        "longitude": 173.0187
     },
     {
         "title": "Dunedin - Otago Peninsula - Larnach Castle",
@@ -426,16 +408,28 @@
         "longitude": 170.4502
     },
     {
-        "title": "Ashburton - Clock Tower",
-        "video_url": "https://www.youtube.com/embed/U-LJDjOY4No",
-        "latitude": -43.9031,
-        "longitude": 171.75
+        "title": "Interislander - Approaching Picton Ferry",
+        "video_url": "https://www.youtube.com/embed/v0rs82m3hEU",
+        "latitude": -41.2786,
+        "longitude": 174.0089
     },
     {
         "title": "Auckland - Commercial Bay",
         "video_url": "https://www.youtube.com/embed/Y0GaeM6P18Q",
         "latitude": -36.8438,
         "longitude": 174.7662
+    },
+    {
+        "title": "Ashburton - Clock Tower",
+        "video_url": "https://www.youtube.com/embed/U-LJDjOY4No",
+        "latitude": -43.9031,
+        "longitude": 171.75
+    },
+    {
+        "title": "Nelson - Branford Park - Black Hole",
+        "video_url": "https://www.youtube.com/embed/_9Qlcpc6twI",
+        "latitude": -41.2743,
+        "longitude": 173.3069
     },
     {
         "title": "Port Chalmers - Aramoana Beach - 3",
@@ -450,22 +444,10 @@
         "longitude": 175.0897
     },
     {
-        "title": "Nelson - Branford Park - Black Hole",
-        "video_url": "https://www.youtube.com/embed/_9Qlcpc6twI",
-        "latitude": -41.2743,
-        "longitude": 173.3069
-    },
-    {
         "title": "Christchurch - Margret Mahy Family Playground",
         "video_url": "https://www.youtube.com/embed/VkcwOrM4g4c",
         "latitude": -43.5282,
         "longitude": 172.6414
-    },
-    {
-        "title": "Interislander - Approaching Picton Ferry",
-        "video_url": "https://www.youtube.com/embed/v0rs82m3hEU",
-        "latitude": -41.2786,
-        "longitude": 174.0089
     },
     {
         "title": "Waikouaiti - Hawksbury Lagoon Wildlife Refuge - Waikouaiti Beach",
@@ -492,10 +474,10 @@
         "longitude": 174.8117
     },
     {
-        "title": "Auckland - Piha Beach",
-        "video_url": "https://www.youtube.com/embed/KwGRiMMAv5g",
-        "latitude": -36.9574,
-        "longitude": 174.4677
+        "title": "Port Chalmers - Aramoana Beach - 1",
+        "video_url": "https://www.youtube.com/embed/PAKgCLUE47Q",
+        "latitude": -45.7733,
+        "longitude": 170.7032
     },
     {
         "title": "Nelson - Branford Park - Branford Playground",
@@ -510,10 +492,16 @@
         "longitude": 174.7653
     },
     {
-        "title": "Port Chalmers - Aramoana Beach - 1",
-        "video_url": "https://www.youtube.com/embed/PAKgCLUE47Q",
-        "latitude": -45.7733,
-        "longitude": 170.7032
+        "title": "Te Anau Bird Sanctuary - Takahe 3",
+        "video_url": "https://www.youtube.com/embed/v23y4fo1E0E",
+        "latitude": -45.4337,
+        "longitude": 167.7134
+    },
+    {
+        "title": "Auckland - Piha Beach",
+        "video_url": "https://www.youtube.com/embed/KwGRiMMAv5g",
+        "latitude": -36.9574,
+        "longitude": 174.4677
     },
     {
         "title": "Kaikorua - Kaikorua Peninsula Walkway - 1st Lookout",
@@ -528,10 +516,28 @@
         "longitude": 168.2312
     },
     {
+        "title": "Auckland - Mount Eden Board Walk",
+        "video_url": "https://www.youtube.com/embed/ynhSHZY_aTQ",
+        "latitude": -36.8778,
+        "longitude": 174.7637
+    },
+    {
         "title": "Death stairs lookout",
         "video_url": "https://www.youtube.com/embed/Mwt4E14JB5M",
         "latitude": -45.2458,
         "longitude": 168.7429
+    },
+    {
+        "title": "Mangapouri - Fraser Beach",
+        "video_url": "https://www.youtube.com/embed/pDPijI8n58g",
+        "latitude": -45.5623,
+        "longitude": 167.6126
+    },
+    {
+        "title": "Timaru - Caroline Bay Playground - 1",
+        "video_url": "https://www.youtube.com/embed/ElGpvjqe7jE",
+        "latitude": -44.3893,
+        "longitude": 171.2465
     },
     {
         "title": "Mossburn War Memorial Park",
@@ -540,34 +546,22 @@
         "longitude": 168.2342
     },
     {
-        "title": "Milton - Whale Fossil Lookout",
-        "video_url": "https://www.youtube.com/embed/DWhXBIbWqSQ",
-        "latitude": -46.0535,
-        "longitude": 170.0007
-    },
-    {
-        "title": "Auckland - Mount Eden Board Walk",
-        "video_url": "https://www.youtube.com/embed/ynhSHZY_aTQ",
-        "latitude": -36.8778,
-        "longitude": 174.7637
-    },
-    {
-        "title": "Tuatapere - Jack and Mattie Bennett Memorial Park",
-        "video_url": "https://www.youtube.com/embed/ShGlgzMib3U",
-        "latitude": -46.1288,
-        "longitude": 167.6799
-    },
-    {
         "title": "The Catlins - Matai Falls",
         "video_url": "https://www.youtube.com/embed/bpvxfps31vk",
         "latitude": -46.5176,
         "longitude": 169.561
     },
     {
-        "title": "Mangapouri - Fraser Beach",
-        "video_url": "https://www.youtube.com/embed/pDPijI8n58g",
-        "latitude": -45.5623,
-        "longitude": 167.6126
+        "title": "Milton - Whale Fossil Lookout",
+        "video_url": "https://www.youtube.com/embed/DWhXBIbWqSQ",
+        "latitude": -46.0535,
+        "longitude": 170.0007
+    },
+    {
+        "title": "Tuatapere - Jack and Mattie Bennett Memorial Park",
+        "video_url": "https://www.youtube.com/embed/ShGlgzMib3U",
+        "latitude": -46.1288,
+        "longitude": 167.6799
     },
     {
         "title": "Timaru - Caroline Bay Playground - 1",
@@ -646,6 +640,12 @@
         "video_url": "https://www.youtube.com/embed/hNkxv1QcJy8",
         "latitude": -36.8312,
         "longitude": 174.4254
+    },
+    {
+        "title": "Bluff - Stirling Point",
+        "video_url": "https://www.youtube.com/embed/mBJE4jdtqsM",
+        "latitude": -46.6134,
+        "longitude": 168.3572
     },
     {
         "title": "Auckland - Piha Beach",
@@ -858,12 +858,6 @@
         "longitude": 174.7689
     },
     {
-        "title": "Riverton - Howells Point Reserve",
-        "video_url": "https://www.youtube.com/embed/aTNAtgRrjpo",
-        "latitude": -46.3838,
-        "longitude": 168.0323
-    },
-    {
         "title": "The Catlins - Purakauno Falls Walk",
         "video_url": "https://www.youtube.com/embed/iKCKSnHvtqo",
         "latitude": -46.5176,
@@ -946,12 +940,6 @@
         "video_url": "https://www.youtube.com/embed/ZsKAwLTaas8",
         "latitude": -36.8255,
         "longitude": 174.8129
-    },
-    {
-        "title": "Riverton - Mores Scenic Reserve - Carpark",
-        "video_url": "https://www.youtube.com/embed/CQn3Ge39JA8",
-        "latitude": -46.3694,
-        "longitude": 167.9979
     },
     {
         "title": "Auckland - Ambury Regional Park - Pig and Piglets",
@@ -1152,18 +1140,6 @@
         "longitude": 167.9959
     },
     {
-        "title": "Cape Foulwind - Wall Island",
-        "video_url": "https://www.youtube.com/embed/v15wP2IKmhg",
-        "latitude": -41.7647,
-        "longitude": 171.4562
-    },
-    {
-        "title": "Riverton - Mores Coastal Loop Walk",
-        "video_url": "https://www.youtube.com/embed/IAmhR7yM5XI",
-        "latitude": -46.3755,
-        "longitude": 167.9959
-    },
-    {
         "title": "Dunedin - Kuri Bush",
         "video_url": "https://www.youtube.com/embed/RqDNvl5QFP0",
         "latitude": -46.0125,
@@ -1300,6 +1276,12 @@
         "video_url": "https://www.youtube.com/embed/ovo2gOsLHBw",
         "latitude": -36.9509,
         "longitude": 174.7815
+    },
+    {
+        "title": "Nelson - Stoke - Pic\u2019s peanut world tour",
+        "video_url": "https://www.youtube.com/embed/01V4S6N-JfY",
+        "latitude": -41.3229,
+        "longitude": 173.2145
     },
     {
         "title": "Tuatapere - McKracken\u2019s Rest",
@@ -1444,6 +1426,18 @@
         "video_url": "https://www.youtube.com/embed/rwYJ2BXOMQg",
         "latitude": -44.5645,
         "longitude": 170.1979
+    },
+    {
+        "title": "Auckland - Piha Beach",
+        "video_url": "https://www.youtube.com/embed/Rwcn0_pk22o",
+        "latitude": -36.9614,
+        "longitude": 174.4626
+    },
+    {
+        "title": "Glenorchy - Paradise",
+        "video_url": "https://www.youtube.com/embed/I_iSB2SDcV0",
+        "latitude": -44.724,
+        "longitude": 168.3723
     },
     {
         "title": "Auckland - Piha Beach",
