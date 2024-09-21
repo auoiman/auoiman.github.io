@@ -30,12 +30,6 @@
         "longitude": 174.7829
     },
     {
-        "title": "Taieri Mouth - Taieri Beach",
-        "video_url": "https://www.youtube.com/embed/p3ju-II9mJ8",
-        "latitude": -46.0556,
-        "longitude": 170.1958
-    },
-    {
         "title": "Dunedin - St Clair Hot Salt Water Pool",
         "video_url": "https://www.youtube.com/embed/m9emxtqcRHw",
         "latitude": -45.9139,
@@ -54,22 +48,16 @@
         "longitude": 174.7832
     },
     {
-        "title": "Lake Waihola Holiday Park - Cabin",
-        "video_url": "https://www.youtube.com/embed/4xxip8DknlY",
-        "latitude": -46.0218,
-        "longitude": 170.0942
-    },
-    {
         "title": "Christchurch - Barrington Park",
         "video_url": "https://www.youtube.com/embed/uK6BWoRGarw",
         "latitude": -43.556,
         "longitude": 172.6189
     },
     {
-        "title": "Timaru - Caroline Bay Playground - 3",
-        "video_url": "https://www.youtube.com/embed/qK1cELmgUoE",
-        "latitude": -44.3887,
-        "longitude": 171.2464
+        "title": "Lake Waihola Holiday Park - Cabin",
+        "video_url": "https://www.youtube.com/embed/4xxip8DknlY",
+        "latitude": -46.0218,
+        "longitude": 170.0942
     },
     {
         "title": "Auckland - Cheltenham Beach",
@@ -82,6 +70,12 @@
         "video_url": "https://www.youtube.com/embed/w1hFIdOmius",
         "latitude": -36.8753,
         "longitude": 174.7456
+    },
+    {
+        "title": "Timaru - Caroline Bay Playground - 3",
+        "video_url": "https://www.youtube.com/embed/qK1cELmgUoE",
+        "latitude": -44.3887,
+        "longitude": 171.2464
     },
     {
         "title": "Dunedin - Saint Clair Beach",
@@ -102,22 +96,34 @@
         "longitude": 170.5469
     },
     {
-        "title": "Pahia - Cozy Nook",
-        "video_url": "https://www.youtube.com/embed/5XOZk3GCuCI",
-        "latitude": -46.3328,
-        "longitude": 167.7093
-    },
-    {
         "title": "Christchurch - Christchurch Adventure Park Cafe",
         "video_url": "https://www.youtube.com/embed/ZamTnvIdSe8",
         "latitude": -43.5917,
         "longitude": 172.6316
     },
     {
+        "title": "Pahia - Cozy Nook",
+        "video_url": "https://www.youtube.com/embed/5XOZk3GCuCI",
+        "latitude": -46.3328,
+        "longitude": 167.7093
+    },
+    {
         "title": "Greymouth - The Brunner Mine Industrial Site - 2",
         "video_url": "https://www.youtube.com/embed/Iy-5SP5CNZU",
         "latitude": -42.4332,
         "longitude": 171.3246
+    },
+    {
+        "title": "Dunedin - Saint Clair Beach - 1",
+        "video_url": "https://www.youtube.com/embed/mmgyVEgbu-k",
+        "latitude": -45.9126,
+        "longitude": 170.4885
+    },
+    {
+        "title": "Taieri Mouth - Taieri Beach",
+        "video_url": "https://www.youtube.com/embed/p3ju-II9mJ8",
+        "latitude": -46.0556,
+        "longitude": 170.1958
     },
     {
         "title": "Timaru - Caroline Bay Beach",
@@ -178,6 +184,12 @@
         "video_url": "https://www.youtube.com/embed/8BSQ1i16Dog",
         "latitude": -36.7505,
         "longitude": 174.7267
+    },
+    {
+        "title": "Wellington - East Harbour Regional Park - Orongorongo River",
+        "video_url": "https://www.youtube.com/embed/BG8yVI4mAE4",
+        "latitude": -41.4178,
+        "longitude": 174.9019
     },
     {
         "title": "Dunedin - Long Beach - 2",
@@ -558,10 +570,10 @@
         "longitude": 169.561
     },
     {
-        "title": "Timaru - Caroline Bay Playground - 1",
-        "video_url": "https://www.youtube.com/embed/ElGpvjqe7jE",
-        "latitude": -44.3893,
-        "longitude": 171.2465
+        "title": "Mangapouri - Fraser Beach",
+        "video_url": "https://www.youtube.com/embed/pDPijI8n58g",
+        "latitude": -45.5623,
+        "longitude": 167.6126
     },
     {
         "title": "Timaru - Caroline Bay Playground - 1",
@@ -756,10 +768,10 @@
         "longitude": 174.7481
     },
     {
-        "title": "Dunedin - Otago Peninsula - Okia Reserve / Pyramids",
-        "video_url": "https://www.youtube.com/embed/w1TqjGdP0_w",
-        "latitude": -45.828,
-        "longitude": 170.7081
+        "title": "Riverton - Howell Point Lookout",
+        "video_url": "https://www.youtube.com/embed/969BeODLWzA",
+        "latitude": -46.384,
+        "longitude": 168.0304
     },
     {
         "title": "Kaikorua - Peninsula Walkway - 3",
@@ -850,12 +862,6 @@
         "video_url": "https://www.youtube.com/embed/LdUmrL6cK78",
         "latitude": -36.7773,
         "longitude": 174.7689
-    },
-    {
-        "title": "Mangapouri Holiday Park - Sunset",
-        "video_url": "https://www.youtube.com/embed/K-WsQ5T2waY",
-        "latitude": -45.5586,
-        "longitude": 167.6204
     },
     {
         "title": "Mangapouri Holiday Park - Sunset",
@@ -1152,6 +1158,12 @@
         "longitude": 167.9959
     },
     {
+        "title": "Dunedin - Kuri Bush",
+        "video_url": "https://www.youtube.com/embed/RqDNvl5QFP0",
+        "latitude": -46.0125,
+        "longitude": 170.2405
+    },
+    {
         "title": "Auckland - Piha Beach",
         "video_url": "https://www.youtube.com/embed/SykkN-2BIIo",
         "latitude": -36.9605,
@@ -1338,6 +1350,12 @@
         "longitude": 174.7224
     },
     {
+        "title": "Manapouri - Pearl Harbour",
+        "video_url": "https://www.youtube.com/embed/o0v6D_HobDo",
+        "latitude": -45.5695,
+        "longitude": 167.6158
+    },
+    {
         "title": "Auckland - Huana Falls",
         "video_url": "https://www.youtube.com/embed/WiCUnBEB9ik",
         "latitude": -37.068,
@@ -1432,12 +1450,6 @@
         "video_url": "https://www.youtube.com/embed/Rwcn0_pk22o",
         "latitude": -36.9614,
         "longitude": 174.4626
-    },
-    {
-        "title": "Glenorchy - Paradise",
-        "video_url": "https://www.youtube.com/embed/I_iSB2SDcV0",
-        "latitude": -44.724,
-        "longitude": 168.3723
     },
     {
         "title": "Glenorchy - Paradise",
