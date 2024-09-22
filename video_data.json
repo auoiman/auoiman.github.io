@@ -42,16 +42,16 @@
         "longitude": 170.6828
     },
     {
-        "title": "Auckland - Cornwall Park",
-        "video_url": "https://www.youtube.com/embed/a2pVeY3ME6c",
-        "latitude": -36.897,
-        "longitude": 174.7832
-    },
-    {
         "title": "Christchurch - Barrington Park",
         "video_url": "https://www.youtube.com/embed/uK6BWoRGarw",
         "latitude": -43.556,
         "longitude": 172.6189
+    },
+    {
+        "title": "Auckland - Cornwall Park",
+        "video_url": "https://www.youtube.com/embed/a2pVeY3ME6c",
+        "latitude": -36.897,
+        "longitude": 174.7832
     },
     {
         "title": "Lake Waihola Holiday Park - Cabin",
@@ -60,16 +60,16 @@
         "longitude": 170.0942
     },
     {
-        "title": "Auckland - Cheltenham Beach",
-        "video_url": "https://www.youtube.com/embed/E2gvFX08pKs",
-        "latitude": -36.8201,
-        "longitude": 174.8063
-    },
-    {
         "title": "Auckland - Eden Park - FIFA Women's World Cup",
         "video_url": "https://www.youtube.com/embed/w1hFIdOmius",
         "latitude": -36.8753,
         "longitude": 174.7456
+    },
+    {
+        "title": "Auckland - Cheltenham Beach",
+        "video_url": "https://www.youtube.com/embed/E2gvFX08pKs",
+        "latitude": -36.8201,
+        "longitude": 174.8063
     },
     {
         "title": "Timaru - Caroline Bay Playground - 3",
@@ -1500,12 +1500,6 @@
         "longitude": 172.6789
     },
     {
-        "title": "Auckland - Ambury Regional Park - Peacock on the tree",
-        "video_url": "https://www.youtube.com/embed/t0wws6BtIko",
-        "latitude": -36.9466,
-        "longitude": 174.7598
-    },
-    {
         "title": "Queenstown - Sunshine Bay",
         "video_url": "https://www.youtube.com/embed/MqR_6u57Yyw",
         "latitude": -45.0479,
@@ -1636,6 +1630,12 @@
         "video_url": "https://www.youtube.com/embed/BtBVPr6F3gA",
         "latitude": -46.6214,
         "longitude": 168.3512
+    },
+    {
+        "title": "Auckland - Ambury Regional Park - Peacock on the tree",
+        "video_url": "https://www.youtube.com/embed/t0wws6BtIko",
+        "latitude": -36.9466,
+        "longitude": 174.7598
     },
     {
         "title": "Dunedin - Long Beach - 1",
