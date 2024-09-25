@@ -30,16 +30,16 @@
         "longitude": 174.7829
     },
     {
-        "title": "Waikouaiti - Waikouaiti Beach",
-        "video_url": "https://www.youtube.com/embed/LQ0cO9jWYU8",
-        "latitude": -45.6108,
-        "longitude": 170.6828
-    },
-    {
         "title": "Dunedin - St Clair Hot Salt Water Pool",
         "video_url": "https://www.youtube.com/embed/m9emxtqcRHw",
         "latitude": -45.9139,
         "longitude": 170.4885
+    },
+    {
+        "title": "Waikouaiti - Waikouaiti Beach",
+        "video_url": "https://www.youtube.com/embed/LQ0cO9jWYU8",
+        "latitude": -45.6108,
+        "longitude": 170.6828
     },
     {
         "title": "Auckland - Cornwall Park",
@@ -66,16 +66,16 @@
         "longitude": 174.7456
     },
     {
-        "title": "Auckland - Cheltenham Beach",
-        "video_url": "https://www.youtube.com/embed/E2gvFX08pKs",
-        "latitude": -36.8201,
-        "longitude": 174.8063
-    },
-    {
         "title": "Dunedin - Saint Clair Beach",
         "video_url": "https://www.youtube.com/embed/n-LTGLQlYjQ",
         "latitude": -45.9117,
         "longitude": 170.4906
+    },
+    {
+        "title": "Auckland - Cheltenham Beach",
+        "video_url": "https://www.youtube.com/embed/E2gvFX08pKs",
+        "latitude": -36.8201,
+        "longitude": 174.8063
     },
     {
         "title": "Timaru - Caroline Bay Playground - 3",
@@ -102,12 +102,6 @@
         "longitude": 172.6316
     },
     {
-        "title": "Pahia - Cozy Nook",
-        "video_url": "https://www.youtube.com/embed/5XOZk3GCuCI",
-        "latitude": -46.3328,
-        "longitude": 167.7093
-    },
-    {
         "title": "Greymouth - The Brunner Mine Industrial Site - 2",
         "video_url": "https://www.youtube.com/embed/Iy-5SP5CNZU",
         "latitude": -42.4332,
@@ -130,6 +124,12 @@
         "video_url": "https://www.youtube.com/embed/gIRK6a1z07k",
         "latitude": -44.3866,
         "longitude": 171.2495
+    },
+    {
+        "title": "Pahia - Cozy Nook",
+        "video_url": "https://www.youtube.com/embed/5XOZk3GCuCI",
+        "latitude": -46.3328,
+        "longitude": 167.7093
     },
     {
         "title": "Auckland - Wenderholm Regional Park - Track",
@@ -184,6 +184,12 @@
         "video_url": "https://www.youtube.com/embed/8BSQ1i16Dog",
         "latitude": -36.7505,
         "longitude": 174.7267
+    },
+    {
+        "title": "Gore - Clock Tower",
+        "video_url": "https://www.youtube.com/embed/QqrJltQwS2M",
+        "latitude": -46.098,
+        "longitude": 168.9466
     },
     {
         "title": "Wellington - East Harbour Regional Park - Orongorongo River",
@@ -288,16 +294,16 @@
         "longitude": 174.7708
     },
     {
-        "title": "Auckland - Piha Beach",
-        "video_url": "https://www.youtube.com/embed/6k1Yxx5JPOQ",
-        "latitude": -36.9594,
-        "longitude": 174.4644
-    },
-    {
         "title": "Auckland - Devonport - North Head Historic Reserve",
         "video_url": "https://www.youtube.com/embed/OsODDl4vZo8",
         "latitude": -36.82711,
         "longitude": 174.81168
+    },
+    {
+        "title": "Auckland - Piha Beach",
+        "video_url": "https://www.youtube.com/embed/6k1Yxx5JPOQ",
+        "latitude": -36.9594,
+        "longitude": 174.4644
     },
     {
         "title": "Dunedin - Brighton Beach 2",
@@ -348,16 +354,16 @@
         "longitude": 174.7615
     },
     {
-        "title": "Dunedin - University of Otago",
-        "video_url": "https://www.youtube.com/embed/Yhp3KRZNXwc",
-        "latitude": -45.8637,
-        "longitude": 170.5145
-    },
-    {
         "title": "Dunedin - Dunedin Railway Station",
         "video_url": "https://www.youtube.com/embed/tD9UHQI9_FU",
         "latitude": -45.876,
         "longitude": 170.5086
+    },
+    {
+        "title": "Dunedin - University of Otago",
+        "video_url": "https://www.youtube.com/embed/Yhp3KRZNXwc",
+        "latitude": -45.8637,
+        "longitude": 170.5145
     },
     {
         "title": "Auckland - Piha Beach",
@@ -510,16 +516,16 @@
         "longitude": 173.3065
     },
     {
-        "title": "Auckland - Lake pupuke",
-        "video_url": "https://www.youtube.com/embed/hB2i8Dn1hT0",
-        "latitude": -36.7755,
-        "longitude": 174.7653
-    },
-    {
         "title": "Port Chalmers - Aramoana Beach - 1",
         "video_url": "https://www.youtube.com/embed/PAKgCLUE47Q",
         "latitude": -45.7733,
         "longitude": 170.7032
+    },
+    {
+        "title": "Auckland - Lake pupuke",
+        "video_url": "https://www.youtube.com/embed/hB2i8Dn1hT0",
+        "latitude": -36.7755,
+        "longitude": 174.7653
     },
     {
         "title": "Kaikorua - Kaikorua Peninsula Walkway - 1st Lookout",
@@ -1516,12 +1522,6 @@
         "video_url": "https://www.youtube.com/embed/AZI7P3wMTPQ",
         "latitude": -41.7489,
         "longitude": 171.467
-    },
-    {
-        "title": "Gore - Clock Tower",
-        "video_url": "https://www.youtube.com/embed/QqrJltQwS2M",
-        "latitude": -46.098,
-        "longitude": 168.9466
     },
     {
         "title": "Cromwell - The Bruce Jackson Lookout",
