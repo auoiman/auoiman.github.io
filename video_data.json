@@ -294,16 +294,16 @@
         "longitude": 174.7708
     },
     {
-        "title": "Auckland - Devonport - North Head Historic Reserve",
-        "video_url": "https://www.youtube.com/embed/OsODDl4vZo8",
-        "latitude": -36.82711,
-        "longitude": 174.81168
-    },
-    {
         "title": "Auckland - Piha Beach",
         "video_url": "https://www.youtube.com/embed/6k1Yxx5JPOQ",
         "latitude": -36.9594,
         "longitude": 174.4644
+    },
+    {
+        "title": "Auckland - Devonport - North Head Historic Reserve",
+        "video_url": "https://www.youtube.com/embed/OsODDl4vZo8",
+        "latitude": -36.82711,
+        "longitude": 174.81168
     },
     {
         "title": "Dunedin - Brighton Beach 2",
@@ -354,16 +354,16 @@
         "longitude": 174.7615
     },
     {
-        "title": "Dunedin - Dunedin Railway Station",
-        "video_url": "https://www.youtube.com/embed/tD9UHQI9_FU",
-        "latitude": -45.876,
-        "longitude": 170.5086
-    },
-    {
         "title": "Dunedin - University of Otago",
         "video_url": "https://www.youtube.com/embed/Yhp3KRZNXwc",
         "latitude": -45.8637,
         "longitude": 170.5145
+    },
+    {
+        "title": "Dunedin - Dunedin Railway Station",
+        "video_url": "https://www.youtube.com/embed/tD9UHQI9_FU",
+        "latitude": -45.876,
+        "longitude": 170.5086
     },
     {
         "title": "Auckland - Piha Beach",
@@ -516,16 +516,16 @@
         "longitude": 173.3065
     },
     {
-        "title": "Port Chalmers - Aramoana Beach - 1",
-        "video_url": "https://www.youtube.com/embed/PAKgCLUE47Q",
-        "latitude": -45.7733,
-        "longitude": 170.7032
-    },
-    {
         "title": "Auckland - Lake pupuke",
         "video_url": "https://www.youtube.com/embed/hB2i8Dn1hT0",
         "latitude": -36.7755,
         "longitude": 174.7653
+    },
+    {
+        "title": "Port Chalmers - Aramoana Beach - 1",
+        "video_url": "https://www.youtube.com/embed/PAKgCLUE47Q",
+        "latitude": -45.7733,
+        "longitude": 170.7032
     },
     {
         "title": "Kaikorua - Kaikorua Peninsula Walkway - 1st Lookout",
@@ -1248,6 +1248,12 @@
         "longitude": 168.8275
     },
     {
+        "title": "Auckland - Ambury Regional Park - Peacock on the tree",
+        "video_url": "https://www.youtube.com/embed/t0wws6BtIko",
+        "latitude": -36.9466,
+        "longitude": 174.7598
+    },
+    {
         "title": "Auckland - Muriwai Beach - Sunset",
         "video_url": "https://www.youtube.com/embed/8t_ty_i8JqA",
         "latitude": -36.834,
@@ -1630,12 +1636,6 @@
         "video_url": "https://www.youtube.com/embed/BtBVPr6F3gA",
         "latitude": -46.6214,
         "longitude": 168.3512
-    },
-    {
-        "title": "Auckland - Ambury Regional Park - Peacock on the tree",
-        "video_url": "https://www.youtube.com/embed/t0wws6BtIko",
-        "latitude": -36.9466,
-        "longitude": 174.7598
     },
     {
         "title": "Dunedin - Long Beach - 1",
