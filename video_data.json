@@ -60,6 +60,12 @@
         "longitude": 170.0942
     },
     {
+        "title": "Cullen Point Lookout",
+        "video_url": "https://www.youtube.com/embed/80a5vYyzJCE",
+        "latitude": -41.2687,
+        "longitude": 173.7845
+    },
+    {
         "title": "Auckland - Eden Park - FIFA Women's World Cup",
         "video_url": "https://www.youtube.com/embed/w1hFIdOmius",
         "latitude": -36.8753,
@@ -82,12 +88,6 @@
         "video_url": "https://www.youtube.com/embed/qK1cELmgUoE",
         "latitude": -44.3887,
         "longitude": 171.2464
-    },
-    {
-        "title": "Cullen Point Lookout",
-        "video_url": "https://www.youtube.com/embed/80a5vYyzJCE",
-        "latitude": -41.2687,
-        "longitude": 173.7845
     },
     {
         "title": "Dunedin - Signal Hill Lookout",
@@ -372,12 +372,6 @@
         "longitude": 174.4664
     },
     {
-        "title": "Blenheim - Omaka Landing Reserve",
-        "video_url": "https://www.youtube.com/embed/FRnjcfGo19E",
-        "latitude": -41.5318,
-        "longitude": 173.93
-    },
-    {
         "title": "Auckland - Muriwai Beach - Horse-riding",
         "video_url": "https://www.youtube.com/embed/ws68Zh8M2mc",
         "latitude": -36.8113,
@@ -388,6 +382,12 @@
         "video_url": "https://www.youtube.com/embed/4CXrCH-qO60",
         "latitude": -44.8634,
         "longitude": 169.0188
+    },
+    {
+        "title": "Lake Waihola Domain",
+        "video_url": "https://www.youtube.com/embed/dP4ISIDYJss",
+        "latitude": -46.0236,
+        "longitude": 170.0925
     },
     {
         "title": "Cheviot - Gore Bay",
@@ -852,6 +852,12 @@
         "longitude": 173.7105
     },
     {
+        "title": "IMG 6141",
+        "video_url": "https://www.youtube.com/embed/9RwHO8ZstSA",
+        "latitude": -35.5048,
+        "longitude": 173.391
+    },
+    {
         "title": "Auckland - Long Bay Regional Park",
         "video_url": "https://www.youtube.com/embed/U8jXTUGpdko",
         "latitude": -36.6837,
@@ -966,12 +972,6 @@
         "longitude": 174.8129
     },
     {
-        "title": "Riverton - Mores Scenic Reserve - Carpark",
-        "video_url": "https://www.youtube.com/embed/CQn3Ge39JA8",
-        "latitude": -46.3694,
-        "longitude": 167.9979
-    },
-    {
         "title": "Auckland - Ambury Regional Park - Pig and Piglets",
         "video_url": "https://www.youtube.com/embed/qlCYdnVMRqE",
         "latitude": -36.9459,
@@ -1066,6 +1066,12 @@
         "video_url": "https://www.youtube.com/embed/7JiuCCrBaJY",
         "latitude": -46.6084,
         "longitude": 169.3814
+    },
+    {
+        "title": "Wellington - Kadso place",
+        "video_url": "https://www.youtube.com/embed/zGEqSfjPsr0",
+        "latitude": -41.3312,
+        "longitude": 174.8226
     },
     {
         "title": "Auckland - Devonport - Mount Victoria Lookout",
