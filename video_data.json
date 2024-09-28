@@ -84,16 +84,16 @@
         "longitude": 174.8063
     },
     {
-        "title": "Timaru - Caroline Bay Playground - 3",
-        "video_url": "https://www.youtube.com/embed/qK1cELmgUoE",
-        "latitude": -44.3887,
-        "longitude": 171.2464
-    },
-    {
         "title": "Dunedin - Signal Hill Lookout",
         "video_url": "https://www.youtube.com/embed/owhg_KLqUgg",
         "latitude": -45.8589,
         "longitude": 170.5469
+    },
+    {
+        "title": "Timaru - Caroline Bay Playground - 3",
+        "video_url": "https://www.youtube.com/embed/qK1cELmgUoE",
+        "latitude": -44.3887,
+        "longitude": 171.2464
     },
     {
         "title": "Christchurch - Christchurch Adventure Park Cafe",
@@ -126,16 +126,16 @@
         "longitude": 171.2495
     },
     {
-        "title": "Pahia - Cozy Nook",
-        "video_url": "https://www.youtube.com/embed/5XOZk3GCuCI",
-        "latitude": -46.3328,
-        "longitude": 167.7093
-    },
-    {
         "title": "Auckland - Wenderholm Regional Park - Track",
         "video_url": "https://www.youtube.com/embed/NUYiXCkudBI",
         "latitude": -36.5299,
         "longitude": 174.7139
+    },
+    {
+        "title": "Pahia - Cozy Nook",
+        "video_url": "https://www.youtube.com/embed/5XOZk3GCuCI",
+        "latitude": -46.3328,
+        "longitude": 167.7093
     },
     {
         "title": "Canterbury - Rolleston - Foster Park Playground",
@@ -372,6 +372,12 @@
         "longitude": 174.4664
     },
     {
+        "title": "Blenheim - Omaka Landing Reserve",
+        "video_url": "https://www.youtube.com/embed/FRnjcfGo19E",
+        "latitude": -41.5318,
+        "longitude": 173.93
+    },
+    {
         "title": "Auckland - Muriwai Beach - Horse-riding",
         "video_url": "https://www.youtube.com/embed/ws68Zh8M2mc",
         "latitude": -36.8113,
@@ -582,12 +588,6 @@
         "longitude": 167.6126
     },
     {
-        "title": "Timaru - Caroline Bay Playground - 1",
-        "video_url": "https://www.youtube.com/embed/ElGpvjqe7jE",
-        "latitude": -44.3893,
-        "longitude": 171.2465
-    },
-    {
         "title": "Te Anau Bird Sanctuary - Takahe 3",
         "video_url": "https://www.youtube.com/embed/v23y4fo1E0E",
         "latitude": -45.4337,
@@ -778,6 +778,12 @@
         "video_url": "https://www.youtube.com/embed/969BeODLWzA",
         "latitude": -46.384,
         "longitude": 168.0304
+    },
+    {
+        "title": "Dunedin - Otago Peninsula - Okia Reserve / Pyramids",
+        "video_url": "https://www.youtube.com/embed/w1TqjGdP0_w",
+        "latitude": -45.828,
+        "longitude": 170.7081
     },
     {
         "title": "Kaikorua - Peninsula Walkway - 3",
@@ -1272,12 +1278,6 @@
         "longitude": 170.7223
     },
     {
-        "title": "Port Chalmers - Aramoana Beach - Keyhole rock, sand dune",
-        "video_url": "https://www.youtube.com/embed/rVcsY7e238A",
-        "latitude": -45.772,
-        "longitude": 170.702
-    },
-    {
         "title": "Auckland - Huana Falls - Cosseys Dam",
         "video_url": "https://www.youtube.com/embed/aQDdwaVsg6c",
         "latitude": -37.0607,
@@ -1486,12 +1486,6 @@
         "video_url": "https://www.youtube.com/embed/lbAI4L_8muo",
         "latitude": -34.4289,
         "longitude": 172.682
-    },
-    {
-        "title": "Riverton - Balancing Rock",
-        "video_url": "https://www.youtube.com/embed/ZKpuupGUQ7I",
-        "latitude": -46.3764,
-        "longitude": 167.992
     },
     {
         "title": "Cape Foulwind - Tauranga Bay Seal Colony",
