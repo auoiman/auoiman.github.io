@@ -558,12 +558,6 @@
         "longitude": 168.2342
     },
     {
-        "title": "Milton - Whale Fossil Lookout",
-        "video_url": "https://www.youtube.com/embed/DWhXBIbWqSQ",
-        "latitude": -46.0535,
-        "longitude": 170.0007
-    },
-    {
         "title": "Auckland - Mount Eden Board Walk",
         "video_url": "https://www.youtube.com/embed/ynhSHZY_aTQ",
         "latitude": -36.8778,
@@ -1488,6 +1482,12 @@
         "longitude": 172.682
     },
     {
+        "title": "Riverton - Balancing Rock",
+        "video_url": "https://www.youtube.com/embed/ZKpuupGUQ7I",
+        "latitude": -46.3764,
+        "longitude": 167.992
+    },
+    {
         "title": "Cape Foulwind - Tauranga Bay Seal Colony",
         "video_url": "https://www.youtube.com/embed/usjX1_xmMfU",
         "latitude": -41.7636,
@@ -1606,6 +1606,12 @@
         "video_url": "https://www.youtube.com/embed/EPo-BNNIyRw",
         "latitude": -41.8578,
         "longitude": 171.761
+    },
+    {
+        "title": "Raglan - Bridal Veil Falls",
+        "video_url": "https://www.youtube.com/embed/FlWgWHbweIY",
+        "latitude": -37.9086,
+        "longitude": 174.8959
     },
     {
         "title": "Auckland - Long Bay Regional Park - Track",
