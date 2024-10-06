@@ -18,12 +18,6 @@
         "longitude": 168.3263
     },
     {
-        "title": "Auckland - Muriwai Beach - Kite Surfing",
-        "video_url": "https://www.youtube.com/embed/mhXQ3zMKNP0",
-        "latitude": -36.8264,
-        "longitude": 174.4253
-    },
-    {
         "title": "Auckland - Cornwall Park - Lambing",
         "video_url": "https://www.youtube.com/embed/JoHiGxI5xik",
         "latitude": -36.897,
@@ -42,12 +36,6 @@
         "longitude": 175.3012
     },
     {
-        "title": "Auckland - Cornwall Park",
-        "video_url": "https://www.youtube.com/embed/a2pVeY3ME6c",
-        "latitude": -36.897,
-        "longitude": 174.7832
-    },
-    {
         "title": "Dunedin - St Clair Hot Salt Water Pool",
         "video_url": "https://www.youtube.com/embed/m9emxtqcRHw",
         "latitude": -45.9139,
@@ -64,6 +52,12 @@
         "video_url": "https://www.youtube.com/embed/BSQasqAq5go",
         "latitude": -37.8072,
         "longitude": 175.3011
+    },
+    {
+        "title": "Auckland - Cornwall Park",
+        "video_url": "https://www.youtube.com/embed/a2pVeY3ME6c",
+        "latitude": -36.897,
+        "longitude": 174.7832
     },
     {
         "title": "Dunedin - Saint Clair Beach",
@@ -180,12 +174,6 @@
         "longitude": 168.6604
     },
     {
-        "title": "Pahia - Cozy Nook",
-        "video_url": "https://www.youtube.com/embed/5XOZk3GCuCI",
-        "latitude": -46.3328,
-        "longitude": 167.7093
-    },
-    {
         "title": "Christchurch - The Riccarton Sunday Market - Food Market Section",
         "video_url": "https://www.youtube.com/embed/4HAL2cm3_dE",
         "latitude": -43.5298,
@@ -208,6 +196,12 @@
         "video_url": "https://www.youtube.com/embed/BG8yVI4mAE4",
         "latitude": -41.4178,
         "longitude": 174.9019
+    },
+    {
+        "title": "Pahia - Cozy Nook",
+        "video_url": "https://www.youtube.com/embed/5XOZk3GCuCI",
+        "latitude": -46.3328,
+        "longitude": 167.7093
     },
     {
         "title": "Dunedin - Long Beach - 2",
@@ -414,6 +408,12 @@
         "longitude": 173.006
     },
     {
+        "title": "Bay of Plenty - Karangahake Gorge Historic Walkway",
+        "video_url": "https://www.youtube.com/embed/K-uapg88590",
+        "latitude": -37.4212,
+        "longitude": 175.7312
+    },
+    {
         "title": "Cheviot - Gore Bay",
         "video_url": "https://www.youtube.com/embed/xdsfFAHx1Uc",
         "latitude": -42.8645,
@@ -460,12 +460,6 @@
         "video_url": "https://www.youtube.com/embed/XX0jS8wHj9g",
         "latitude": -45.8236,
         "longitude": 170.7225
-    },
-    {
-        "title": "Bay of Plenty - Karangahake Gorge Historic Walkway",
-        "video_url": "https://www.youtube.com/embed/K-uapg88590",
-        "latitude": -37.4212,
-        "longitude": 175.7312
     },
     {
         "title": "Dunedin - Brockville Park - Disc Golf",
@@ -612,12 +606,6 @@
         "longitude": 168.2342
     },
     {
-        "title": "Bay of Plenty - Karangahake Gorge Historic Walkway",
-        "video_url": "https://www.youtube.com/embed/sex-iEHu_X8",
-        "latitude": -37.4184,
-        "longitude": 175.7179
-    },
-    {
         "title": "Auckland - Mount Eden Board Walk",
         "video_url": "https://www.youtube.com/embed/ynhSHZY_aTQ",
         "latitude": -36.8778,
@@ -678,6 +666,12 @@
         "longitude": 172.7141
     },
     {
+        "title": "Bay of Plenty - Karangahake Gorge Historic Walkway",
+        "video_url": "https://www.youtube.com/embed/sex-iEHu_X8",
+        "latitude": -37.4184,
+        "longitude": 175.7179
+    },
+    {
         "title": "Auckland - Quay Street",
         "video_url": "https://www.youtube.com/embed/6xvqAo3pMJE",
         "latitude": -36.8433,
@@ -720,12 +714,6 @@
         "longitude": 170.5643
     },
     {
-        "title": "Auckland - Cornwall Park",
-        "video_url": "https://www.youtube.com/embed/xrM3si9tmu4",
-        "latitude": -36.8884,
-        "longitude": 174.7756
-    },
-    {
         "title": "Auckland - Muriwai Beach - Shell Collecting",
         "video_url": "https://www.youtube.com/embed/hNkxv1QcJy8",
         "latitude": -36.8312,
@@ -754,12 +742,6 @@
         "video_url": "https://www.youtube.com/embed/TGZMevsgoeM",
         "latitude": -36.6779,
         "longitude": 174.7467
-    },
-    {
-        "title": "Greenpoint - Greenpoint Reserve",
-        "video_url": "https://www.youtube.com/embed/M1aZyPzSK58",
-        "latitude": -46.573,
-        "longitude": 168.3021
     },
     {
         "title": "Auckland - Huana Falls",
@@ -1290,6 +1272,12 @@
         "longitude": 170.2405
     },
     {
+        "title": "Waihi - Bowentown",
+        "video_url": "https://www.youtube.com/embed/PGYEnwjg9ZA",
+        "latitude": -37.465,
+        "longitude": 175.9901
+    },
+    {
         "title": "Auckland - Piha Beach",
         "video_url": "https://www.youtube.com/embed/SykkN-2BIIo",
         "latitude": -36.9605,
@@ -1452,6 +1440,12 @@
         "longitude": 167.6689
     },
     {
+        "title": "Bay of Plenty - Karangahake Gorge Historic Walkway",
+        "video_url": "https://www.youtube.com/embed/_t3Dvrgzn1g",
+        "latitude": -37.4257,
+        "longitude": 175.7226
+    },
+    {
         "title": "Auckland - Long Bay Regional Park - Track",
         "video_url": "https://www.youtube.com/embed/Nsc_yABXa3A",
         "latitude": -36.6066,
@@ -1560,12 +1554,6 @@
         "longitude": 170.6615
     },
     {
-        "title": "Waihi - Bowentown",
-        "video_url": "https://www.youtube.com/embed/PGYEnwjg9ZA",
-        "latitude": -37.465,
-        "longitude": 175.9901
-    },
-    {
         "title": "Hamilton - Hamilton Garden",
         "video_url": "https://www.youtube.com/embed/u2VH6PMHC3U",
         "latitude": -37.8047,
@@ -1584,12 +1572,6 @@
         "longitude": 172.5773
     },
     {
-        "title": "Bay of Plenty - Karangahake Gorge Historic Walkway",
-        "video_url": "https://www.youtube.com/embed/_t3Dvrgzn1g",
-        "latitude": -37.4257,
-        "longitude": 175.7226
-    },
-    {
         "title": "Cromwell Playground",
         "video_url": "https://www.youtube.com/embed/E8hrZBwZKe4",
         "latitude": -45.0356,
@@ -1606,6 +1588,12 @@
         "video_url": "https://www.youtube.com/embed/e2PVHWNc5jA",
         "latitude": -38.3414,
         "longitude": 176.3699
+    },
+    {
+        "title": "Bay of Plenty - Karangahake Gorge Historic Walkway",
+        "video_url": "https://www.youtube.com/embed/fIAUoyns17c",
+        "latitude": -37.4211,
+        "longitude": 175.7312
     },
     {
         "title": "Roaring Meg",
@@ -1822,12 +1810,6 @@
         "video_url": "https://www.youtube.com/embed/bG5Fgpyo9RY",
         "latitude": -38.0361,
         "longitude": 175.8348
-    },
-    {
-        "title": "Bay of Plenty - Karangahake Gorge Historic Walkway",
-        "video_url": "https://www.youtube.com/embed/fIAUoyns17c",
-        "latitude": -37.4211,
-        "longitude": 175.7312
     },
     {
         "title": "Raglan - Bridal Veil Falls",
