@@ -36,16 +36,16 @@
         "longitude": 174.7456
     },
     {
-        "title": "Waikouaiti - Waikouaiti Beach",
-        "video_url": "https://www.youtube.com/embed/LQ0cO9jWYU8",
-        "latitude": -45.6108,
-        "longitude": 170.6828
-    },
-    {
         "title": "Hamilton - Hamilton Garden",
         "video_url": "https://www.youtube.com/embed/BSQasqAq5go",
         "latitude": -37.8072,
         "longitude": 175.3011
+    },
+    {
+        "title": "Waikouaiti - Waikouaiti Beach",
+        "video_url": "https://www.youtube.com/embed/LQ0cO9jWYU8",
+        "latitude": -45.6108,
+        "longitude": 170.6828
     },
     {
         "title": "Auckland - Cornwall Park",
@@ -138,6 +138,12 @@
         "longitude": 174.7139
     },
     {
+        "title": "Orepuki - Gemstone Beach",
+        "video_url": "https://www.youtube.com/embed/Pk8-y3s2OVs",
+        "latitude": -46.2754,
+        "longitude": 167.729
+    },
+    {
         "title": "Canterbury - Rolleston - Foster Park Playground",
         "video_url": "https://www.youtube.com/embed/-CeihHZgD7s",
         "latitude": -43.6064,
@@ -196,12 +202,6 @@
         "video_url": "https://www.youtube.com/embed/Qzhziaa53Uk",
         "latitude": -45.748,
         "longitude": 170.6446
-    },
-    {
-        "title": "Orepuki - Gemstone Beach",
-        "video_url": "https://www.youtube.com/embed/Pk8-y3s2OVs",
-        "latitude": -46.2754,
-        "longitude": 167.729
     },
     {
         "title": "Pahia - Cozy Nook",
@@ -700,6 +700,12 @@
         "video_url": "https://www.youtube.com/embed/8Tam7dngKFU",
         "latitude": -45.8852,
         "longitude": 170.5643
+    },
+    {
+        "title": "Port Chalmers - Aramoana Beach - Keyhole rock, sand dune",
+        "video_url": "https://www.youtube.com/embed/rVcsY7e238A",
+        "latitude": -45.772,
+        "longitude": 170.702
     },
     {
         "title": "Auckland - Muriwai Beach - Shell Collecting",
@@ -1366,12 +1372,6 @@
         "video_url": "https://www.youtube.com/embed/diaq3AMftMA",
         "latitude": -45.8241,
         "longitude": 170.7223
-    },
-    {
-        "title": "Port Chalmers - Aramoana Beach - Keyhole rock, sand dune",
-        "video_url": "https://www.youtube.com/embed/rVcsY7e238A",
-        "latitude": -45.772,
-        "longitude": 170.702
     },
     {
         "title": "Omapere - Signal Station Track",
