@@ -48,12 +48,6 @@
         "longitude": 170.6828
     },
     {
-        "title": "Auckland - Cornwall Park",
-        "video_url": "https://www.youtube.com/embed/a2pVeY3ME6c",
-        "latitude": -36.897,
-        "longitude": 174.7832
-    },
-    {
         "title": "Hamilton - Hamilton Garden - Surrealist Garden",
         "video_url": "https://www.youtube.com/embed/1ohpot5VATA",
         "latitude": -37.8071,
@@ -64,6 +58,12 @@
         "video_url": "https://www.youtube.com/embed/n-LTGLQlYjQ",
         "latitude": -45.9117,
         "longitude": 170.4906
+    },
+    {
+        "title": "Auckland - Cornwall Park",
+        "video_url": "https://www.youtube.com/embed/a2pVeY3ME6c",
+        "latitude": -36.897,
+        "longitude": 174.7832
     },
     {
         "title": "Dunedin - University of Otago",
@@ -1482,12 +1482,6 @@
         "longitude": 175.1581
     },
     {
-        "title": "Hamilton - Hamilton Garden",
-        "video_url": "https://www.youtube.com/embed/KYUtQ_1_il0",
-        "latitude": -37.8065,
-        "longitude": 175.302
-    },
-    {
         "title": "Manapouri - Pearl Harbour",
         "video_url": "https://www.youtube.com/embed/o0v6D_HobDo",
         "latitude": -45.5695,
@@ -1672,6 +1666,12 @@
         "video_url": "https://www.youtube.com/embed/AZI7P3wMTPQ",
         "latitude": -41.7489,
         "longitude": 171.467
+    },
+    {
+        "title": "Hamilton - Hamilton Garden",
+        "video_url": "https://www.youtube.com/embed/KYUtQ_1_il0",
+        "latitude": -37.8065,
+        "longitude": 175.302
     },
     {
         "title": "Cromwell - The Bruce Jackson Lookout",
