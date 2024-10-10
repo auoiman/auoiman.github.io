@@ -24,12 +24,6 @@
         "longitude": 174.7829
     },
     {
-        "title": "Dunedin - St Clair Hot Salt Water Pool",
-        "video_url": "https://www.youtube.com/embed/m9emxtqcRHw",
-        "latitude": -45.9139,
-        "longitude": 170.4885
-    },
-    {
         "title": "Auckland - Eden Park - FIFA Women's World Cup",
         "video_url": "https://www.youtube.com/embed/w1hFIdOmius",
         "latitude": -36.8753,
@@ -58,6 +52,18 @@
         "video_url": "https://www.youtube.com/embed/n-LTGLQlYjQ",
         "latitude": -45.9117,
         "longitude": 170.4906
+    },
+    {
+        "title": "Dunedin - St Clair Hot Salt Water Pool",
+        "video_url": "https://www.youtube.com/embed/m9emxtqcRHw",
+        "latitude": -45.9139,
+        "longitude": 170.4885
+    },
+    {
+        "title": "Tauranga - Bobbys Fresh Fish Market Tauranga Waterfront",
+        "video_url": "https://www.youtube.com/embed/lFLOaIA5unI",
+        "latitude": -37.681,
+        "longitude": 176.1707
     },
     {
         "title": "Auckland - Cornwall Park",
@@ -292,12 +298,6 @@
         "video_url": "https://www.youtube.com/embed/xwep5PNACbY",
         "latitude": -36.7692,
         "longitude": 174.7708
-    },
-    {
-        "title": "Tauranga - Bobbys Fresh Fish Market Tauranga Waterfront",
-        "video_url": "https://www.youtube.com/embed/lFLOaIA5unI",
-        "latitude": -37.681,
-        "longitude": 176.1707
     },
     {
         "title": "Auckland - Piha Beach",
@@ -1038,12 +1038,6 @@
         "longitude": 174.8129
     },
     {
-        "title": "Waihi - Bowentown - Lookout",
-        "video_url": "https://www.youtube.com/embed/aN9Y4f9Qmek",
-        "latitude": -37.4644,
-        "longitude": 175.9897
-    },
-    {
         "title": "Riverton - Mores Scenic Reserve - Carpark",
         "video_url": "https://www.youtube.com/embed/CQn3Ge39JA8",
         "latitude": -46.3694,
@@ -1476,12 +1470,6 @@
         "longitude": 174.7224
     },
     {
-        "title": "Omaru Falls",
-        "video_url": "https://www.youtube.com/embed/iDNciOPmHOo",
-        "latitude": -38.525,
-        "longitude": 175.1581
-    },
-    {
         "title": "Manapouri - Pearl Harbour",
         "video_url": "https://www.youtube.com/embed/o0v6D_HobDo",
         "latitude": -45.5695,
@@ -1770,6 +1758,12 @@
         "longitude": 170.4583
     },
     {
+        "title": "Waihi - Bowentown - Lookout",
+        "video_url": "https://www.youtube.com/embed/aN9Y4f9Qmek",
+        "latitude": -37.4644,
+        "longitude": 175.9897
+    },
+    {
         "title": "Ambury Regional Park",
         "video_url": "https://www.youtube.com/embed/IEyfEvgFnM8",
         "latitude": -36.6071,
@@ -1792,6 +1786,12 @@
         "video_url": "https://www.youtube.com/embed/bG5Fgpyo9RY",
         "latitude": -38.0361,
         "longitude": 175.8348
+    },
+    {
+        "title": "Omaru Falls",
+        "video_url": "https://www.youtube.com/embed/iDNciOPmHOo",
+        "latitude": -38.525,
+        "longitude": 175.1581
     },
     {
         "title": "Raglan - Bridal Veil Falls",
