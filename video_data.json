@@ -54,12 +54,6 @@
         "longitude": 170.4906
     },
     {
-        "title": "Dunedin - St Clair Hot Salt Water Pool",
-        "video_url": "https://www.youtube.com/embed/m9emxtqcRHw",
-        "latitude": -45.9139,
-        "longitude": 170.4885
-    },
-    {
         "title": "Tauranga - Bobbys Fresh Fish Market Tauranga Waterfront",
         "video_url": "https://www.youtube.com/embed/lFLOaIA5unI",
         "latitude": -37.681,
@@ -76,6 +70,12 @@
         "video_url": "https://www.youtube.com/embed/Yhp3KRZNXwc",
         "latitude": -45.8637,
         "longitude": 170.5145
+    },
+    {
+        "title": "Dunedin - St Clair Hot Salt Water Pool",
+        "video_url": "https://www.youtube.com/embed/m9emxtqcRHw",
+        "latitude": -45.9139,
+        "longitude": 170.4885
     },
     {
         "title": "Dunedin - Otago Peninsula - Okia Reserve - Beach Access",
@@ -132,6 +132,12 @@
         "longitude": 170.1958
     },
     {
+        "title": "Coromandel - Shelly Beach TOP 10 Holiday Park",
+        "video_url": "https://www.youtube.com/embed/NyQ6eormtsM",
+        "latitude": -36.8645,
+        "longitude": 175.4365
+    },
+    {
         "title": "Timaru - Caroline Bay Beach",
         "video_url": "https://www.youtube.com/embed/gIRK6a1z07k",
         "latitude": -44.3866,
@@ -148,6 +154,12 @@
         "video_url": "https://www.youtube.com/embed/NUYiXCkudBI",
         "latitude": -36.5299,
         "longitude": 174.7139
+    },
+    {
+        "title": "Dunedin - Long Beach - 2",
+        "video_url": "https://www.youtube.com/embed/Qzhziaa53Uk",
+        "latitude": -45.748,
+        "longitude": 170.6446
     },
     {
         "title": "Orepuki - Gemstone Beach",
@@ -184,12 +196,6 @@
         "video_url": "https://www.youtube.com/embed/E2gvFX08pKs",
         "latitude": -36.8201,
         "longitude": 174.8063
-    },
-    {
-        "title": "Dunedin - Long Beach - 2",
-        "video_url": "https://www.youtube.com/embed/Qzhziaa53Uk",
-        "latitude": -45.748,
-        "longitude": 170.6446
     },
     {
         "title": "Dunedin - Macandrew Bay Beach",
@@ -232,6 +238,12 @@
         "video_url": "https://www.youtube.com/embed/xwozR5_gHUU",
         "latitude": -46.6134,
         "longitude": 168.3572
+    },
+    {
+        "title": "Waihi - Bowentown - Lookout",
+        "video_url": "https://www.youtube.com/embed/aN9Y4f9Qmek",
+        "latitude": -37.4644,
+        "longitude": 175.9897
     },
     {
         "title": "Riverton - Hilltop Lookout",
@@ -360,12 +372,6 @@
         "longitude": 170.7246
     },
     {
-        "title": "Coromandel - Shelly Beach TOP 10 Holiday Park",
-        "video_url": "https://www.youtube.com/embed/NyQ6eormtsM",
-        "latitude": -36.8645,
-        "longitude": 175.4365
-    },
-    {
         "title": "Riverton - Jacobs River Estuary Viewpoint",
         "video_url": "https://www.youtube.com/embed/3vwQ25APN3Q",
         "latitude": -46.3598,
@@ -402,6 +408,12 @@
         "longitude": 173.93
     },
     {
+        "title": "Bay of Plenty - Karangahake Gorge Historic Walkway",
+        "video_url": "https://www.youtube.com/embed/K-uapg88590",
+        "latitude": -37.4212,
+        "longitude": 175.7312
+    },
+    {
         "title": "Auckland - Muriwai Beach - Horse-riding",
         "video_url": "https://www.youtube.com/embed/ws68Zh8M2mc",
         "latitude": -36.8113,
@@ -418,12 +430,6 @@
         "video_url": "https://www.youtube.com/embed/PcMBHWlESjc",
         "latitude": -40.9945,
         "longitude": 173.006
-    },
-    {
-        "title": "Bay of Plenty - Karangahake Gorge Historic Walkway",
-        "video_url": "https://www.youtube.com/embed/K-uapg88590",
-        "latitude": -37.4212,
-        "longitude": 175.7312
     },
     {
         "title": "Cheviot - Gore Bay",
@@ -504,6 +510,12 @@
         "longitude": 173.3069
     },
     {
+        "title": "Bay of Plenty - Karangahake Gorge Historic Walkway",
+        "video_url": "https://www.youtube.com/embed/Ko4K5ksyax0",
+        "latitude": -37.4239,
+        "longitude": 175.7222
+    },
+    {
         "title": "Christchurch - Margret Mahy Family Playground",
         "video_url": "https://www.youtube.com/embed/VkcwOrM4g4c",
         "latitude": -43.5282,
@@ -520,12 +532,6 @@
         "video_url": "https://www.youtube.com/embed/t1ac6HPN7eE",
         "latitude": -45.6098,
         "longitude": 170.6824
-    },
-    {
-        "title": "Bay of Plenty - Karangahake Gorge Historic Walkway",
-        "video_url": "https://www.youtube.com/embed/Ko4K5ksyax0",
-        "latitude": -37.4239,
-        "longitude": 175.7222
     },
     {
         "title": "Wellington - Skatepark & BMX",
@@ -580,6 +586,12 @@
         "video_url": "https://www.youtube.com/embed/hB2i8Dn1hT0",
         "latitude": -36.7755,
         "longitude": 174.7653
+    },
+    {
+        "title": "Bay of Plenty - Karangahake Gorge Historic Walkway",
+        "video_url": "https://www.youtube.com/embed/_t3Dvrgzn1g",
+        "latitude": -37.4257,
+        "longitude": 175.7226
     },
     {
         "title": "Kaikorua - Kaikorua Peninsula Walkway - 1st Lookout",
@@ -1062,6 +1074,12 @@
         "longitude": 174.7862
     },
     {
+        "title": "Omaru Falls",
+        "video_url": "https://www.youtube.com/embed/iDNciOPmHOo",
+        "latitude": -38.525,
+        "longitude": 175.1581
+    },
+    {
         "title": "Port Chalmers - Flagstaff Lookout - 1",
         "video_url": "https://www.youtube.com/embed/pw6GgBKs4sQ",
         "latitude": -45.8158,
@@ -1422,12 +1440,6 @@
         "longitude": 167.6689
     },
     {
-        "title": "Bay of Plenty - Karangahake Gorge Historic Walkway",
-        "video_url": "https://www.youtube.com/embed/_t3Dvrgzn1g",
-        "latitude": -37.4257,
-        "longitude": 175.7226
-    },
-    {
         "title": "Auckland - Long Bay Regional Park - Track",
         "video_url": "https://www.youtube.com/embed/Nsc_yABXa3A",
         "latitude": -36.6066,
@@ -1758,12 +1770,6 @@
         "longitude": 170.4583
     },
     {
-        "title": "Waihi - Bowentown - Lookout",
-        "video_url": "https://www.youtube.com/embed/aN9Y4f9Qmek",
-        "latitude": -37.4644,
-        "longitude": 175.9897
-    },
-    {
         "title": "Ambury Regional Park",
         "video_url": "https://www.youtube.com/embed/IEyfEvgFnM8",
         "latitude": -36.6071,
@@ -1786,12 +1792,6 @@
         "video_url": "https://www.youtube.com/embed/bG5Fgpyo9RY",
         "latitude": -38.0361,
         "longitude": 175.8348
-    },
-    {
-        "title": "Omaru Falls",
-        "video_url": "https://www.youtube.com/embed/iDNciOPmHOo",
-        "latitude": -38.525,
-        "longitude": 175.1581
     },
     {
         "title": "Raglan - Bridal Veil Falls",
