@@ -78,16 +78,16 @@
         "longitude": 170.4885
     },
     {
-        "title": "Dunedin - Otago Peninsula - Okia Reserve - Beach Access",
-        "video_url": "https://www.youtube.com/embed/XX0jS8wHj9g",
-        "latitude": -45.8236,
-        "longitude": 170.7225
-    },
-    {
         "title": "Lake Waihola Holiday Park - Cabin",
         "video_url": "https://www.youtube.com/embed/4xxip8DknlY",
         "latitude": -46.0218,
         "longitude": 170.0942
+    },
+    {
+        "title": "Dunedin - Otago Peninsula - Okia Reserve - Beach Access",
+        "video_url": "https://www.youtube.com/embed/XX0jS8wHj9g",
+        "latitude": -45.8236,
+        "longitude": 170.7225
     },
     {
         "title": "Dunedin - Signal Hill Lookout",
@@ -1050,6 +1050,12 @@
         "longitude": 167.9979
     },
     {
+        "title": "Port Chalmers - Flagstaff Lookout - 1",
+        "video_url": "https://www.youtube.com/embed/pw6GgBKs4sQ",
+        "latitude": -45.8158,
+        "longitude": 170.6265
+    },
+    {
         "title": "Auckland - Ambury Regional Park - Pig and Piglets",
         "video_url": "https://www.youtube.com/embed/qlCYdnVMRqE",
         "latitude": -36.9459,
@@ -1078,12 +1084,6 @@
         "video_url": "https://www.youtube.com/embed/iDNciOPmHOo",
         "latitude": -38.525,
         "longitude": 175.1581
-    },
-    {
-        "title": "Port Chalmers - Flagstaff Lookout - 1",
-        "video_url": "https://www.youtube.com/embed/pw6GgBKs4sQ",
-        "latitude": -45.8158,
-        "longitude": 170.6265
     },
     {
         "title": "Mangapouri Holiday Park - Reception Area",
