@@ -774,12 +774,6 @@
         "longitude": 167.6204
     },
     {
-        "title": "Waihi - Owharoa Falls",
-        "video_url": "https://www.youtube.com/embed/QPCbOlQ2i9s",
-        "latitude": -37.4194,
-        "longitude": 175.764
-    },
-    {
         "title": "Bluff - Te Araroa Trail",
         "video_url": "https://www.youtube.com/embed/xukoZFtUCPY",
         "latitude": -46.6183,
@@ -1314,12 +1308,6 @@
         "longitude": 169.8028
     },
     {
-        "title": "Waihi - Owharoa Falls",
-        "video_url": "https://www.youtube.com/embed/AQAkpWM_QeQ",
-        "latitude": -37.4196,
-        "longitude": 175.7641
-    },
-    {
         "title": "Riverton - Taramea Bay Playground",
         "video_url": "https://www.youtube.com/embed/FBKoRVJpdUg",
         "latitude": -46.3663,
@@ -1828,6 +1816,18 @@
         "video_url": "https://www.youtube.com/embed/s3PqaBHKyIk",
         "latitude": -46.1221,
         "longitude": 169.9578
+    },
+    {
+        "title": "Waihi - Owharoa Falls",
+        "video_url": "https://www.youtube.com/embed/QPCbOlQ2i9s",
+        "latitude": -37.4194,
+        "longitude": 175.764
+    },
+    {
+        "title": "Waihi - Owharoa Falls",
+        "video_url": "https://www.youtube.com/embed/AQAkpWM_QeQ",
+        "latitude": -37.4196,
+        "longitude": 175.7641
     },
     {
         "title": "Christchurch - Sign of Bellbird",
