@@ -60,12 +60,6 @@
         "longitude": 176.1707
     },
     {
-        "title": "Auckland - Cornwall Park",
-        "video_url": "https://www.youtube.com/embed/a2pVeY3ME6c",
-        "latitude": -36.897,
-        "longitude": 174.7832
-    },
-    {
         "title": "Dunedin - University of Otago",
         "video_url": "https://www.youtube.com/embed/Yhp3KRZNXwc",
         "latitude": -45.8637,
@@ -112,6 +106,12 @@
         "video_url": "https://www.youtube.com/embed/ZamTnvIdSe8",
         "latitude": -43.5917,
         "longitude": 172.6316
+    },
+    {
+        "title": "Auckland - Cornwall Park",
+        "video_url": "https://www.youtube.com/embed/a2pVeY3ME6c",
+        "latitude": -36.897,
+        "longitude": 174.7832
     },
     {
         "title": "Greymouth - The Brunner Mine Industrial Site - 2",
@@ -192,12 +192,6 @@
         "longitude": 174.7865
     },
     {
-        "title": "Auckland - Cheltenham Beach",
-        "video_url": "https://www.youtube.com/embed/E2gvFX08pKs",
-        "latitude": -36.8201,
-        "longitude": 174.8063
-    },
-    {
         "title": "Dunedin - Macandrew Bay Beach",
         "video_url": "https://www.youtube.com/embed/n0emvPm6R4o",
         "latitude": -45.8677,
@@ -216,6 +210,12 @@
         "longitude": 172.5404
     },
     {
+        "title": "Auckland - Cheltenham Beach",
+        "video_url": "https://www.youtube.com/embed/E2gvFX08pKs",
+        "latitude": -36.8201,
+        "longitude": 174.8063
+    },
+    {
         "title": "Auckland - Constellation Drive",
         "video_url": "https://www.youtube.com/embed/8BSQ1i16Dog",
         "latitude": -36.7505,
@@ -232,6 +232,12 @@
         "video_url": "https://www.youtube.com/embed/PAKgCLUE47Q",
         "latitude": -45.7733,
         "longitude": 170.7032
+    },
+    {
+        "title": "Dunedin - Long Beach - 1",
+        "video_url": "https://www.youtube.com/embed/JzoNewM8H3o",
+        "latitude": -45.7475,
+        "longitude": 170.644
     },
     {
         "title": "Bluff - Bluff Hill Lookout",
@@ -1068,16 +1074,16 @@
         "longitude": 174.448
     },
     {
-        "title": "Auckland - Mangere Bridge",
-        "video_url": "https://www.youtube.com/embed/UA0Sb5TZy78",
-        "latitude": -36.9363,
-        "longitude": 174.7862
-    },
-    {
         "title": "Omaru Falls",
         "video_url": "https://www.youtube.com/embed/iDNciOPmHOo",
         "latitude": -38.525,
         "longitude": 175.1581
+    },
+    {
+        "title": "Auckland - Mangere Bridge",
+        "video_url": "https://www.youtube.com/embed/UA0Sb5TZy78",
+        "latitude": -36.9363,
+        "longitude": 174.7862
     },
     {
         "title": "Mangapouri Holiday Park - Reception Area",
@@ -1840,12 +1846,6 @@
         "video_url": "https://www.youtube.com/embed/BtBVPr6F3gA",
         "latitude": -46.6214,
         "longitude": 168.3512
-    },
-    {
-        "title": "Dunedin - Long Beach - 1",
-        "video_url": "https://www.youtube.com/embed/JzoNewM8H3o",
-        "latitude": -45.7475,
-        "longitude": 170.644
     },
     {
         "title": "Ahuriri Ward",
