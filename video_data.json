@@ -108,16 +108,16 @@
         "longitude": 172.6316
     },
     {
-        "title": "Auckland - Cornwall Park",
-        "video_url": "https://www.youtube.com/embed/a2pVeY3ME6c",
-        "latitude": -36.897,
-        "longitude": 174.7832
-    },
-    {
         "title": "Greymouth - The Brunner Mine Industrial Site - 2",
         "video_url": "https://www.youtube.com/embed/Iy-5SP5CNZU",
         "latitude": -42.4332,
         "longitude": 171.3246
+    },
+    {
+        "title": "Auckland - Cornwall Park",
+        "video_url": "https://www.youtube.com/embed/a2pVeY3ME6c",
+        "latitude": -36.897,
+        "longitude": 174.7832
     },
     {
         "title": "Dunedin - Saint Clair Beach - 1",
@@ -126,16 +126,16 @@
         "longitude": 170.4885
     },
     {
-        "title": "Taieri Mouth - Taieri Beach",
-        "video_url": "https://www.youtube.com/embed/p3ju-II9mJ8",
-        "latitude": -46.0556,
-        "longitude": 170.1958
-    },
-    {
         "title": "Coromandel - Shelly Beach TOP 10 Holiday Park",
         "video_url": "https://www.youtube.com/embed/NyQ6eormtsM",
         "latitude": -36.8645,
         "longitude": 175.4365
+    },
+    {
+        "title": "Taieri Mouth - Taieri Beach",
+        "video_url": "https://www.youtube.com/embed/p3ju-II9mJ8",
+        "latitude": -46.0556,
+        "longitude": 170.1958
     },
     {
         "title": "Timaru - Caroline Bay Beach",
@@ -276,12 +276,6 @@
         "longitude": 169.7817
     },
     {
-        "title": "Pahia - Cozy Nook",
-        "video_url": "https://www.youtube.com/embed/5XOZk3GCuCI",
-        "latitude": -46.3328,
-        "longitude": 167.7093
-    },
-    {
         "title": "Auckland - Te Henga (Bethells Beach)",
         "video_url": "https://www.youtube.com/embed/5yO4RU4934k",
         "latitude": -36.902,
@@ -304,6 +298,12 @@
         "video_url": "https://www.youtube.com/embed/kcUdBomp8iI",
         "latitude": -46.4457,
         "longitude": 169.8036
+    },
+    {
+        "title": "Pahia - Cozy Nook",
+        "video_url": "https://www.youtube.com/embed/5XOZk3GCuCI",
+        "latitude": -46.3328,
+        "longitude": 167.7093
     },
     {
         "title": "Hamilton - Hamilton Garden",
@@ -1734,12 +1734,6 @@
         "longitude": 174.7467
     },
     {
-        "title": "Rotorua - Waiotapu Mud Pool",
-        "video_url": "https://www.youtube.com/embed/EUkAP_QKRw4",
-        "latitude": -38.3417,
-        "longitude": 176.3697
-    },
-    {
         "title": "Domett - Cathedral Gully",
         "video_url": "https://www.youtube.com/embed/f6eKMVSjNyE",
         "latitude": -42.8679,
@@ -1846,6 +1840,12 @@
         "video_url": "https://www.youtube.com/embed/BtBVPr6F3gA",
         "latitude": -46.6214,
         "longitude": 168.3512
+    },
+    {
+        "title": "Rotorua - Waiotapu Mud Pool",
+        "video_url": "https://www.youtube.com/embed/EUkAP_QKRw4",
+        "latitude": -38.3417,
+        "longitude": 176.3697
     },
     {
         "title": "Ahuriri Ward",
