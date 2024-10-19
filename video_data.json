@@ -12,6 +12,18 @@
         "longitude": 174.7668
     },
     {
+        "title": "Dunedin - Otago Peninsula - Okia Reserve - Beach Access",
+        "video_url": "https://www.youtube.com/embed/XX0jS8wHj9g",
+        "latitude": -45.8236,
+        "longitude": 170.7225
+    },
+    {
+        "title": "Lake Waihola Holiday Park - Cabin",
+        "video_url": "https://www.youtube.com/embed/4xxip8DknlY",
+        "latitude": -46.0218,
+        "longitude": 170.0942
+    },
+    {
         "title": "Glenorchy - Isengard Lookout",
         "video_url": "https://www.youtube.com/embed/ds6DGYMQxLk",
         "latitude": -44.7737,
@@ -72,18 +84,6 @@
         "longitude": 170.4885
     },
     {
-        "title": "Lake Waihola Holiday Park - Cabin",
-        "video_url": "https://www.youtube.com/embed/4xxip8DknlY",
-        "latitude": -46.0218,
-        "longitude": 170.0942
-    },
-    {
-        "title": "Dunedin - Otago Peninsula - Okia Reserve - Beach Access",
-        "video_url": "https://www.youtube.com/embed/XX0jS8wHj9g",
-        "latitude": -45.8236,
-        "longitude": 170.7225
-    },
-    {
         "title": "Dunedin - Signal Hill Lookout",
         "video_url": "https://www.youtube.com/embed/owhg_KLqUgg",
         "latitude": -45.8589,
@@ -114,6 +114,12 @@
         "longitude": 171.3246
     },
     {
+        "title": "Coromandel - Shelly Beach TOP 10 Holiday Park",
+        "video_url": "https://www.youtube.com/embed/NyQ6eormtsM",
+        "latitude": -36.8645,
+        "longitude": 175.4365
+    },
+    {
         "title": "Auckland - Cornwall Park",
         "video_url": "https://www.youtube.com/embed/a2pVeY3ME6c",
         "latitude": -36.897,
@@ -124,12 +130,6 @@
         "video_url": "https://www.youtube.com/embed/mmgyVEgbu-k",
         "latitude": -45.9126,
         "longitude": 170.4885
-    },
-    {
-        "title": "Coromandel - Shelly Beach TOP 10 Holiday Park",
-        "video_url": "https://www.youtube.com/embed/NyQ6eormtsM",
-        "latitude": -36.8645,
-        "longitude": 175.4365
     },
     {
         "title": "Taieri Mouth - Taieri Beach",
@@ -1476,6 +1476,12 @@
         "longitude": 174.7224
     },
     {
+        "title": "Waihi - Owharoa Falls",
+        "video_url": "https://www.youtube.com/embed/QPCbOlQ2i9s",
+        "latitude": -37.4194,
+        "longitude": 175.764
+    },
+    {
         "title": "Manapouri - Pearl Harbour",
         "video_url": "https://www.youtube.com/embed/o0v6D_HobDo",
         "latitude": -45.5695,
@@ -1722,24 +1728,6 @@
         "longitude": 175.3019
     },
     {
-        "title": "IMG 6524",
-        "video_url": "https://www.youtube.com/embed/tnPKof3brQQ",
-        "latitude": -38.3192,
-        "longitude": 176.3882
-    },
-    {
-        "title": "Auckland - Long Bay Regional Park",
-        "video_url": "https://www.youtube.com/embed/TGZMevsgoeM",
-        "latitude": -36.6779,
-        "longitude": 174.7467
-    },
-    {
-        "title": "Domett - Cathedral Gully",
-        "video_url": "https://www.youtube.com/embed/f6eKMVSjNyE",
-        "latitude": -42.8679,
-        "longitude": 173.3043
-    },
-    {
         "title": "Dunedin - Tunnel Beach Track 3",
         "video_url": "https://www.youtube.com/embed/rC5xPWUVTzg",
         "latitude": -45.9208,
@@ -1816,12 +1804,6 @@
         "video_url": "https://www.youtube.com/embed/s3PqaBHKyIk",
         "latitude": -46.1221,
         "longitude": 169.9578
-    },
-    {
-        "title": "Waihi - Owharoa Falls",
-        "video_url": "https://www.youtube.com/embed/QPCbOlQ2i9s",
-        "latitude": -37.4194,
-        "longitude": 175.764
     },
     {
         "title": "Waihi - Owharoa Falls",
