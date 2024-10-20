@@ -60,16 +60,16 @@
         "longitude": 175.3012
     },
     {
-        "title": "Dunedin - Saint Clair Beach",
-        "video_url": "https://www.youtube.com/embed/n-LTGLQlYjQ",
-        "latitude": -45.9117,
-        "longitude": 170.4906
-    },
-    {
         "title": "Tauranga - Bobbys Fresh Fish Market Tauranga Waterfront",
         "video_url": "https://www.youtube.com/embed/lFLOaIA5unI",
         "latitude": -37.681,
         "longitude": 176.1707
+    },
+    {
+        "title": "Dunedin - Saint Clair Beach",
+        "video_url": "https://www.youtube.com/embed/n-LTGLQlYjQ",
+        "latitude": -45.9117,
+        "longitude": 170.4906
     },
     {
         "title": "Dunedin - University of Otago",
@@ -562,6 +562,12 @@
         "video_url": "https://www.youtube.com/embed/5M-5zHzQlgw",
         "latitude": -38.0361,
         "longitude": 175.8349
+    },
+    {
+        "title": "Waihi - Owharoa Falls",
+        "video_url": "https://www.youtube.com/embed/AQAkpWM_QeQ",
+        "latitude": -37.4196,
+        "longitude": 175.7641
     },
     {
         "title": "Auckland - Devonport - The Summit",
@@ -1728,6 +1734,24 @@
         "longitude": 175.3019
     },
     {
+        "title": "IMG 6524",
+        "video_url": "https://www.youtube.com/embed/tnPKof3brQQ",
+        "latitude": -38.3192,
+        "longitude": 176.3882
+    },
+    {
+        "title": "Auckland - Long Bay Regional Park",
+        "video_url": "https://www.youtube.com/embed/TGZMevsgoeM",
+        "latitude": -36.6779,
+        "longitude": 174.7467
+    },
+    {
+        "title": "Domett - Cathedral Gully",
+        "video_url": "https://www.youtube.com/embed/f6eKMVSjNyE",
+        "latitude": -42.8679,
+        "longitude": 173.3043
+    },
+    {
         "title": "Dunedin - Tunnel Beach Track 3",
         "video_url": "https://www.youtube.com/embed/rC5xPWUVTzg",
         "latitude": -45.9208,
@@ -1804,12 +1828,6 @@
         "video_url": "https://www.youtube.com/embed/s3PqaBHKyIk",
         "latitude": -46.1221,
         "longitude": 169.9578
-    },
-    {
-        "title": "Waihi - Owharoa Falls",
-        "video_url": "https://www.youtube.com/embed/AQAkpWM_QeQ",
-        "latitude": -37.4196,
-        "longitude": 175.7641
     },
     {
         "title": "Christchurch - Sign of Bellbird",
