@@ -30,10 +30,10 @@
         "longitude": 168.3263
     },
     {
-        "title": "Auckland - Cornwall Park - Lambing",
-        "video_url": "https://www.youtube.com/embed/JoHiGxI5xik",
-        "latitude": -36.897,
-        "longitude": 174.7829
+        "title": "Auckland - Eden Park - FIFA Women's World Cup",
+        "video_url": "https://www.youtube.com/embed/w1hFIdOmius",
+        "latitude": -36.8753,
+        "longitude": 174.7456
     },
     {
         "title": "Hamilton - Hamilton Garden",
@@ -42,22 +42,16 @@
         "longitude": 175.3011
     },
     {
-        "title": "Auckland - Eden Park - FIFA Women's World Cup",
-        "video_url": "https://www.youtube.com/embed/w1hFIdOmius",
-        "latitude": -36.8753,
-        "longitude": 174.7456
-    },
-    {
-        "title": "Waikouaiti - Waikouaiti Beach",
-        "video_url": "https://www.youtube.com/embed/LQ0cO9jWYU8",
-        "latitude": -45.6108,
-        "longitude": 170.6828
-    },
-    {
         "title": "Hamilton - Hamilton Garden - Surrealist Garden",
         "video_url": "https://www.youtube.com/embed/1ohpot5VATA",
         "latitude": -37.8071,
         "longitude": 175.3012
+    },
+    {
+        "title": "Auckland - Cornwall Park - Lambing",
+        "video_url": "https://www.youtube.com/embed/JoHiGxI5xik",
+        "latitude": -36.897,
+        "longitude": 174.7829
     },
     {
         "title": "Tauranga - Bobbys Fresh Fish Market Tauranga Waterfront",
@@ -84,6 +78,18 @@
         "longitude": 170.4885
     },
     {
+        "title": "Christchurch - Christchurch Adventure Park Cafe",
+        "video_url": "https://www.youtube.com/embed/ZamTnvIdSe8",
+        "latitude": -43.5917,
+        "longitude": 172.6316
+    },
+    {
+        "title": "Timaru - Caroline Bay Playground - 3",
+        "video_url": "https://www.youtube.com/embed/qK1cELmgUoE",
+        "latitude": -44.3887,
+        "longitude": 171.2464
+    },
+    {
         "title": "Dunedin - Signal Hill Lookout",
         "video_url": "https://www.youtube.com/embed/owhg_KLqUgg",
         "latitude": -45.8589,
@@ -96,16 +102,10 @@
         "longitude": 172.6189
     },
     {
-        "title": "Timaru - Caroline Bay Playground - 3",
-        "video_url": "https://www.youtube.com/embed/qK1cELmgUoE",
-        "latitude": -44.3887,
-        "longitude": 171.2464
-    },
-    {
-        "title": "Christchurch - Christchurch Adventure Park Cafe",
-        "video_url": "https://www.youtube.com/embed/ZamTnvIdSe8",
-        "latitude": -43.5917,
-        "longitude": 172.6316
+        "title": "Port Chalmers - Aramoana Beach - Keyhole rock, sand dune",
+        "video_url": "https://www.youtube.com/embed/rVcsY7e238A",
+        "latitude": -45.772,
+        "longitude": 170.702
     },
     {
         "title": "Greymouth - The Brunner Mine Industrial Site - 2",
@@ -120,6 +120,12 @@
         "longitude": 175.4365
     },
     {
+        "title": "Waikouaiti - Waikouaiti Beach",
+        "video_url": "https://www.youtube.com/embed/LQ0cO9jWYU8",
+        "latitude": -45.6108,
+        "longitude": 170.6828
+    },
+    {
         "title": "Auckland - Cornwall Park",
         "video_url": "https://www.youtube.com/embed/a2pVeY3ME6c",
         "latitude": -36.897,
@@ -132,28 +138,28 @@
         "longitude": 170.4885
     },
     {
+        "title": "Dunedin - Marlow Park",
+        "video_url": "https://www.youtube.com/embed/uSvSRBtZ1vQ",
+        "latitude": -45.9081,
+        "longitude": 170.5095
+    },
+    {
         "title": "Taieri Mouth - Taieri Beach",
         "video_url": "https://www.youtube.com/embed/p3ju-II9mJ8",
         "latitude": -46.0556,
         "longitude": 170.1958
     },
     {
+        "title": "Christchurch - The Riccarton Sunday Market - Food Market Section",
+        "video_url": "https://www.youtube.com/embed/4HAL2cm3_dE",
+        "latitude": -43.5298,
+        "longitude": 172.5404
+    },
+    {
         "title": "Timaru - Caroline Bay Beach",
         "video_url": "https://www.youtube.com/embed/gIRK6a1z07k",
         "latitude": -44.3866,
         "longitude": 171.2495
-    },
-    {
-        "title": "Port Chalmers - Aramoana Beach - Keyhole rock, sand dune",
-        "video_url": "https://www.youtube.com/embed/rVcsY7e238A",
-        "latitude": -45.772,
-        "longitude": 170.702
-    },
-    {
-        "title": "Auckland - Wenderholm Regional Park - Track",
-        "video_url": "https://www.youtube.com/embed/NUYiXCkudBI",
-        "latitude": -36.5299,
-        "longitude": 174.7139
     },
     {
         "title": "Dunedin - Long Beach - 2",
@@ -174,10 +180,10 @@
         "longitude": 172.3876
     },
     {
-        "title": "Dunedin - Marlow Park",
-        "video_url": "https://www.youtube.com/embed/uSvSRBtZ1vQ",
-        "latitude": -45.9081,
-        "longitude": 170.5095
+        "title": "Auckland - Wenderholm Regional Park - Track",
+        "video_url": "https://www.youtube.com/embed/NUYiXCkudBI",
+        "latitude": -36.5299,
+        "longitude": 174.7139
     },
     {
         "title": "Beaumont Bridge",
@@ -204,22 +210,16 @@
         "longitude": 168.6604
     },
     {
-        "title": "Christchurch - The Riccarton Sunday Market - Food Market Section",
-        "video_url": "https://www.youtube.com/embed/4HAL2cm3_dE",
-        "latitude": -43.5298,
-        "longitude": 172.5404
+        "title": "Dunedin - Larnach Castle - Larnach Lodge - Room 20 (Sea)",
+        "video_url": "https://www.youtube.com/embed/eXKRI8K6hA0",
+        "latitude": -45.861,
+        "longitude": 170.6275
     },
     {
         "title": "Auckland - Cheltenham Beach",
         "video_url": "https://www.youtube.com/embed/E2gvFX08pKs",
         "latitude": -36.8201,
         "longitude": 174.8063
-    },
-    {
-        "title": "Auckland - Constellation Drive",
-        "video_url": "https://www.youtube.com/embed/8BSQ1i16Dog",
-        "latitude": -36.7505,
-        "longitude": 174.7267
     },
     {
         "title": "Gore - Clock Tower",
@@ -234,6 +234,12 @@
         "longitude": 170.7032
     },
     {
+        "title": "Auckland - Constellation Drive",
+        "video_url": "https://www.youtube.com/embed/8BSQ1i16Dog",
+        "latitude": -36.7505,
+        "longitude": 174.7267
+    },
+    {
         "title": "Dunedin - Long Beach - 1",
         "video_url": "https://www.youtube.com/embed/JzoNewM8H3o",
         "latitude": -45.7475,
@@ -246,28 +252,28 @@
         "longitude": 168.3572
     },
     {
-        "title": "Waihi - Bowentown - Lookout",
-        "video_url": "https://www.youtube.com/embed/aN9Y4f9Qmek",
-        "latitude": -37.4644,
-        "longitude": 175.9897
-    },
-    {
         "title": "Riverton - Hilltop Lookout",
         "video_url": "https://www.youtube.com/embed/SbFqLCNapo8",
         "latitude": -46.3708,
         "longitude": 167.9957
     },
     {
-        "title": "Dunedin - Larnach Castle - Larnach Lodge - Room 20 (Sea)",
-        "video_url": "https://www.youtube.com/embed/eXKRI8K6hA0",
-        "latitude": -45.861,
-        "longitude": 170.6275
-    },
-    {
         "title": "Bluff - Te Araroa Trail",
         "video_url": "https://www.youtube.com/embed/hRg_j6Tn2TA",
         "latitude": -46.6223,
         "longitude": 168.3491
+    },
+    {
+        "title": "Waihi - Bowentown - Lookout",
+        "video_url": "https://www.youtube.com/embed/aN9Y4f9Qmek",
+        "latitude": -37.4644,
+        "longitude": 175.9897
+    },
+    {
+        "title": "The Catlins - Baclutha Ward",
+        "video_url": "https://www.youtube.com/embed/IgvovF8tKFg",
+        "latitude": -46.3719,
+        "longitude": 169.7817
     },
     {
         "title": "The Catlins - Baclutha Ward",
