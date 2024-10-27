@@ -576,6 +576,12 @@
         "longitude": 170.6824
     },
     {
+        "title": "Rotorua - Tupapakurua Stream",
+        "video_url": "https://www.youtube.com/embed/WEpPas7hPoc",
+        "latitude": -38.0716,
+        "longitude": 176.2155
+    },
+    {
         "title": "Wellington - Skatepark & BMX",
         "video_url": "https://www.youtube.com/embed/7tIZIRyulhQ",
         "latitude": -41.2792,
@@ -646,12 +652,6 @@
         "video_url": "https://www.youtube.com/embed/hB2i8Dn1hT0",
         "latitude": -36.7755,
         "longitude": 174.7653
-    },
-    {
-        "title": "Rotorua - Tupapakurua Stream",
-        "video_url": "https://www.youtube.com/embed/WEpPas7hPoc",
-        "latitude": -38.0716,
-        "longitude": 176.2155
     },
     {
         "title": "Bay of Plenty - Karangahake Gorge Historic Walkway",
@@ -2052,6 +2052,12 @@
         "longitude": 176.1419
     },
     {
+        "title": "Thames - The Bird Hide",
+        "video_url": "https://www.youtube.com/embed/0eWGAISuojo",
+        "latitude": -37.137,
+        "longitude": 175.539
+    },
+    {
         "title": "Taupo - Disc Golf Course",
         "video_url": "https://www.youtube.com/embed/5NqFHoDjUJU",
         "latitude": -38.6749,
@@ -2092,12 +2098,6 @@
         "video_url": "https://www.youtube.com/embed/r-J8qrOTM_k",
         "latitude": -38.1297,
         "longitude": 176.2641
-    },
-    {
-        "title": "Thames - The Bird Hide",
-        "video_url": "https://www.youtube.com/embed/0eWGAISuojo",
-        "latitude": -37.137,
-        "longitude": 175.539
     },
     {
         "title": "Dunedin - Tunnel Beach Track 2",
