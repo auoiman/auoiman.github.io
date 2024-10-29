@@ -522,6 +522,12 @@
         "longitude": 175.0897
     },
     {
+        "title": "Karangahake Gorge",
+        "video_url": "https://www.youtube.com/embed/39VxBCTWqeE",
+        "latitude": -37.4183,
+        "longitude": 175.7182
+    },
+    {
         "title": "Nelson - Branford Park - Black Hole",
         "video_url": "https://www.youtube.com/embed/_9Qlcpc6twI",
         "latitude": -41.2743,
@@ -606,6 +612,12 @@
         "longitude": 175.8349
     },
     {
+        "title": "Tauranga - Walk to Mt Maunganui - SH2",
+        "video_url": "https://www.youtube.com/embed/KlRbotfibo4",
+        "latitude": -37.6745,
+        "longitude": 176.1721
+    },
+    {
         "title": "Waihi - Owharoa Falls",
         "video_url": "https://www.youtube.com/embed/AQAkpWM_QeQ",
         "latitude": -37.4196,
@@ -664,12 +676,6 @@
         "video_url": "https://www.youtube.com/embed/QAjB1wc3mH0",
         "latitude": -42.424,
         "longitude": 173.7162
-    },
-    {
-        "title": "Karangahake Gorge",
-        "video_url": "https://www.youtube.com/embed/39VxBCTWqeE",
-        "latitude": -37.4183,
-        "longitude": 175.7182
     },
     {
         "title": "Oreti Beach",
@@ -1086,6 +1092,12 @@
         "longitude": 176.1721
     },
     {
+        "title": "Tauranga - Mount Maunganui Track",
+        "video_url": "https://www.youtube.com/embed/YFcN6elfqTE",
+        "latitude": -37.6262,
+        "longitude": 176.1752
+    },
+    {
         "title": "Waihola - Titri Creek Walk - 1",
         "video_url": "https://www.youtube.com/embed/eSev4ptxSlU",
         "latitude": -46.0031,
@@ -1156,12 +1168,6 @@
         "video_url": "https://www.youtube.com/embed/FdKxl2GWSGs",
         "latitude": -36.9012,
         "longitude": 174.448
-    },
-    {
-        "title": "Omaru Falls",
-        "video_url": "https://www.youtube.com/embed/iDNciOPmHOo",
-        "latitude": -38.525,
-        "longitude": 175.1581
     },
     {
         "title": "Auckland - Mangere Bridge",
@@ -1384,12 +1390,6 @@
         "video_url": "https://www.youtube.com/embed/SykkN-2BIIo",
         "latitude": -36.9605,
         "longitude": 174.4627
-    },
-    {
-        "title": "Tauranga - Walk to Mt Maunganui - SH2",
-        "video_url": "https://www.youtube.com/embed/KlRbotfibo4",
-        "latitude": -37.6745,
-        "longitude": 176.1721
     },
     {
         "title": "Waikouaiti - Hawksbury Lagoon Wildlife Refuge - 2",
@@ -1944,12 +1944,6 @@
         "longitude": 169.5073
     },
     {
-        "title": "Tauranga - Mount Maunganui Track",
-        "video_url": "https://www.youtube.com/embed/YFcN6elfqTE",
-        "latitude": -37.6262,
-        "longitude": 176.1752
-    },
-    {
         "title": "Okere Falls / Tutea Falls",
         "video_url": "https://www.youtube.com/embed/WU55WBT5MAk",
         "latitude": -38.0113,
@@ -2284,5 +2278,11 @@
         "video_url": "https://www.youtube.com/embed/2CixonduKo8",
         "latitude": -45.4335,
         "longitude": 167.7134
+    },
+    {
+        "title": "Omaru Falls",
+        "video_url": "https://www.youtube.com/embed/iDNciOPmHOo",
+        "latitude": -38.525,
+        "longitude": 175.1581
     }
 ]
