@@ -12,16 +12,16 @@
         "longitude": 174.7668
     },
     {
-        "title": "Dunedin - Otago Peninsula - Okia Reserve - Beach Access",
-        "video_url": "https://www.youtube.com/embed/XX0jS8wHj9g",
-        "latitude": -45.8236,
-        "longitude": 170.7225
-    },
-    {
         "title": "Dunedin - St Clair Hot Salt Water Pool",
         "video_url": "https://www.youtube.com/embed/m9emxtqcRHw",
         "latitude": -45.9139,
         "longitude": 170.4885
+    },
+    {
+        "title": "Dunedin - Otago Peninsula - Okia Reserve - Beach Access",
+        "video_url": "https://www.youtube.com/embed/XX0jS8wHj9g",
+        "latitude": -45.8236,
+        "longitude": 170.7225
     },
     {
         "title": "Lake Waihola Holiday Park - Cabin",
@@ -108,6 +108,12 @@
         "longitude": 172.6316
     },
     {
+        "title": "Tauranga - Matapihi train bridge",
+        "video_url": "https://www.youtube.com/embed/1RVSdpoIxZ0",
+        "latitude": -37.687,
+        "longitude": 176.1706
+    },
+    {
         "title": "Greymouth - The Brunner Mine Industrial Site - 2",
         "video_url": "https://www.youtube.com/embed/Iy-5SP5CNZU",
         "latitude": -42.4332,
@@ -124,6 +130,12 @@
         "video_url": "https://www.youtube.com/embed/mmgyVEgbu-k",
         "latitude": -45.9126,
         "longitude": 170.4885
+    },
+    {
+        "title": "Coromandel - Top 10 Shelly Bay Beach",
+        "video_url": "https://www.youtube.com/embed/4Ax3GniTwFA",
+        "latitude": -36.7353,
+        "longitude": 175.4817
     },
     {
         "title": "Taieri Mouth - Taieri Beach",
@@ -286,6 +298,12 @@
         "video_url": "https://www.youtube.com/embed/MabnAVmTh1w",
         "latitude": -46.3868,
         "longitude": 169.7818
+    },
+    {
+        "title": "Rotorua - Waiotapu Mud Pool",
+        "video_url": "https://www.youtube.com/embed/MCvZdGgLR-I",
+        "latitude": -38.342,
+        "longitude": 176.3696
     },
     {
         "title": "The Catlins - Roaring Bay - Penguin Hide",
@@ -544,12 +562,6 @@
         "video_url": "https://www.youtube.com/embed/e5Q4cmWP0-w",
         "latitude": -38.6991,
         "longitude": 176.0844
-    },
-    {
-        "title": "Tauranga - Matapihi train bridge",
-        "video_url": "https://www.youtube.com/embed/1RVSdpoIxZ0",
-        "latitude": -37.687,
-        "longitude": 176.1706
     },
     {
         "title": "Tauranga - Walk to Mt. Maunganui",
@@ -820,6 +832,12 @@
         "video_url": "https://www.youtube.com/embed/Cq-s1lVGDx8",
         "latitude": -37.0668,
         "longitude": 175.0898
+    },
+    {
+        "title": "Dunedin - Otago Peninsula - Sandfly Bay",
+        "video_url": "https://www.youtube.com/embed/F52ggY20Pxc",
+        "latitude": -45.8954,
+        "longitude": 170.6427
     },
     {
         "title": "Invercargill - Invercargill Estuary Walkway - 2",
@@ -1206,12 +1224,6 @@
         "longitude": 170.5083
     },
     {
-        "title": "Rotorua - Waiotapu Mud Pool",
-        "video_url": "https://www.youtube.com/embed/MCvZdGgLR-I",
-        "latitude": -38.342,
-        "longitude": 176.3696
-    },
-    {
         "title": "Auckland - Long Bay Regional Park - Lamb",
         "video_url": "https://www.youtube.com/embed/LY97px3iMx8",
         "latitude": -36.6047,
@@ -1318,12 +1330,6 @@
         "video_url": "https://www.youtube.com/embed/oE2oK3c-lE0",
         "latitude": -37.3875,
         "longitude": 175.8383
-    },
-    {
-        "title": "Dunedin - Otago Peninsula - Sandfly Bay",
-        "video_url": "https://www.youtube.com/embed/F52ggY20Pxc",
-        "latitude": -45.8954,
-        "longitude": 170.6427
     },
     {
         "title": "Westport - Kilkenny Lookout",
@@ -2014,12 +2020,6 @@
         "video_url": "https://www.youtube.com/embed/RlmEIr6N6Bc",
         "latitude": -38.6749,
         "longitude": 176.0895
-    },
-    {
-        "title": "Coromandel - Top 10 Shelly Bay Beach",
-        "video_url": "https://www.youtube.com/embed/4Ax3GniTwFA",
-        "latitude": -36.7353,
-        "longitude": 175.4817
     },
     {
         "title": "Waiotapu Mud Pool",
