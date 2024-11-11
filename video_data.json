@@ -180,6 +180,12 @@
         "longitude": 170.6446
     },
     {
+        "title": "Timaru - Caroline Bay Playground - 1",
+        "video_url": "https://www.youtube.com/embed/ElGpvjqe7jE",
+        "latitude": -44.3893,
+        "longitude": 171.2465
+    },
+    {
         "title": "Canterbury - Rolleston - Foster Park Playground",
         "video_url": "https://www.youtube.com/embed/-CeihHZgD7s",
         "latitude": -43.6064,
@@ -750,12 +756,6 @@
         "longitude": 175.8825
     },
     {
-        "title": "Timaru - Caroline Bay Playground - 1",
-        "video_url": "https://www.youtube.com/embed/ElGpvjqe7jE",
-        "latitude": -44.3893,
-        "longitude": 171.2465
-    },
-    {
         "title": "Dunedin - Mount Cargill",
         "video_url": "https://www.youtube.com/embed/h27KyWmmGbE",
         "latitude": -45.8134,
@@ -940,12 +940,6 @@
         "video_url": "https://www.youtube.com/embed/969BeODLWzA",
         "latitude": -46.384,
         "longitude": 168.0304
-    },
-    {
-        "title": "Waihi - Bowentown - Shelly Bay Beach",
-        "video_url": "https://www.youtube.com/embed/LNR8dtfie4g",
-        "latitude": -37.4662,
-        "longitude": 175.9779
     },
     {
         "title": "Dunedin - Otago Peninsula - Okia Reserve / Pyramids",
@@ -2092,6 +2086,12 @@
         "video_url": "https://www.youtube.com/embed/6UqtwQyn3U0",
         "latitude": -45.9212,
         "longitude": 170.4583
+    },
+    {
+        "title": "Waihi - Bowentown - Shelly Bay Beach",
+        "video_url": "https://www.youtube.com/embed/LNR8dtfie4g",
+        "latitude": -37.4662,
+        "longitude": 175.9779
     },
     {
         "title": "Coromandel - Manaia Road Saddle and Lookout",
