@@ -120,12 +120,6 @@
         "longitude": 175.4365
     },
     {
-        "title": "Dunedin - Otago Peninsula - Sandfly Bay Lookout",
-        "video_url": "https://www.youtube.com/embed/IlFZ0RblfKg",
-        "latitude": -45.8935,
-        "longitude": 170.6393
-    },
-    {
         "title": "Tauranga - Matapihi train bridge",
         "video_url": "https://www.youtube.com/embed/1RVSdpoIxZ0",
         "latitude": -37.687,
@@ -288,16 +282,16 @@
         "longitude": 170.6275
     },
     {
-        "title": "Dunedin - Otago Peninsula - Sandfly Bay",
-        "video_url": "https://www.youtube.com/embed/F52ggY20Pxc",
-        "latitude": -45.8954,
-        "longitude": 170.6427
-    },
-    {
         "title": "The Catlins - Baclutha Ward",
         "video_url": "https://www.youtube.com/embed/IgvovF8tKFg",
         "latitude": -46.3719,
         "longitude": 169.7817
+    },
+    {
+        "title": "Dunedin - Brighton Beach",
+        "video_url": "https://www.youtube.com/embed/hccXeJXQMLw",
+        "latitude": -45.9475,
+        "longitude": 170.3327
     },
     {
         "title": "Auckland - Te Henga (Bethells Beach)",
@@ -540,6 +534,12 @@
         "longitude": 171.75
     },
     {
+        "title": "Dunedin - Otago Peninsula - Sandfly Bay",
+        "video_url": "https://www.youtube.com/embed/F52ggY20Pxc",
+        "latitude": -45.8954,
+        "longitude": 170.6427
+    },
+    {
         "title": "Auckland - Commercial Bay",
         "video_url": "https://www.youtube.com/embed/Y0GaeM6P18Q",
         "latitude": -36.8438,
@@ -768,6 +768,12 @@
         "longitude": 175.731
     },
     {
+        "title": "Dunedin - Otago Peninsula - Sandfly Bay Lookout",
+        "video_url": "https://www.youtube.com/embed/IlFZ0RblfKg",
+        "latitude": -45.8935,
+        "longitude": 170.6393
+    },
+    {
         "title": "Auckland - Kiwi Esplanade",
         "video_url": "https://www.youtube.com/embed/dfcifYpDo9U",
         "latitude": -36.9394,
@@ -790,12 +796,6 @@
         "video_url": "https://www.youtube.com/embed/6xvqAo3pMJE",
         "latitude": -36.8433,
         "longitude": 174.7675
-    },
-    {
-        "title": "Waihi - Bowentown - Shelly Bay Beach",
-        "video_url": "https://www.youtube.com/embed/g2QxpkTCsio",
-        "latitude": -37.4666,
-        "longitude": 175.978
     },
     {
         "title": "Whangarei Falls",
@@ -2200,6 +2200,12 @@
         "video_url": "https://www.youtube.com/embed/E2pM5i0t1Qg",
         "latitude": -36.6071,
         "longitude": 174.828
+    },
+    {
+        "title": "Waihi - Bowentown - Shelly Bay Beach",
+        "video_url": "https://www.youtube.com/embed/g2QxpkTCsio",
+        "latitude": -37.4666,
+        "longitude": 175.978
     },
     {
         "title": "Hamilton - Blue Springs - Te Waihou Walkway",
