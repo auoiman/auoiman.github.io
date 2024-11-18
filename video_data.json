@@ -120,16 +120,16 @@
         "longitude": 175.4365
     },
     {
-        "title": "Tauranga - Matapihi train bridge",
-        "video_url": "https://www.youtube.com/embed/1RVSdpoIxZ0",
-        "latitude": -37.687,
-        "longitude": 176.1706
-    },
-    {
         "title": "Greymouth - The Brunner Mine Industrial Site - 2",
         "video_url": "https://www.youtube.com/embed/Iy-5SP5CNZU",
         "latitude": -42.4332,
         "longitude": 171.3246
+    },
+    {
+        "title": "Tauranga - Matapihi train bridge",
+        "video_url": "https://www.youtube.com/embed/1RVSdpoIxZ0",
+        "latitude": -37.687,
+        "longitude": 176.1706
     },
     {
         "title": "Dunedin - Saint Clair Beach - 1",
@@ -462,6 +462,12 @@
         "longitude": 169.8036
     },
     {
+        "title": "Tauranga - Memorial Park Railway #train #newzealand",
+        "video_url": "https://www.youtube.com/embed/6JfSXcK0lPY",
+        "latitude": -37.6988,
+        "longitude": 176.1651
+    },
+    {
         "title": "The Lakes Waterpark #newzealand",
         "video_url": "https://www.youtube.com/embed/15MrEU0u_uA",
         "latitude": -37.7642,
@@ -484,12 +490,6 @@
         "video_url": "https://www.youtube.com/embed/xdsfFAHx1Uc",
         "latitude": -42.8645,
         "longitude": 173.3083
-    },
-    {
-        "title": "Tauranga - Memorial Park Railway #train #newzealand",
-        "video_url": "https://www.youtube.com/embed/6JfSXcK0lPY",
-        "latitude": -37.6988,
-        "longitude": 176.1651
     },
     {
         "title": "Waihi - Bowentown Domain",
@@ -610,6 +610,12 @@
         "video_url": "https://www.youtube.com/embed/p5I2zkind5I",
         "latitude": -37.675,
         "longitude": 176.1752
+    },
+    {
+        "title": "Auckland - Waterview Reserve (Oakley Park)",
+        "video_url": "https://www.youtube.com/embed/8lF6iZAGWR0",
+        "latitude": -36.8751,
+        "longitude": 174.7017
     },
     {
         "title": "Bay of Plenty - Karangahake Gorge Historic Walkway",
@@ -996,12 +1002,6 @@
         "longitude": 168.0304
     },
     {
-        "title": "Auckland - Waterview Reserve (Oakley Park)",
-        "video_url": "https://www.youtube.com/embed/8lF6iZAGWR0",
-        "latitude": -36.8751,
-        "longitude": 174.7017
-    },
-    {
         "title": "Dunedin - Otago Peninsula - Okia Reserve / Pyramids",
         "video_url": "https://www.youtube.com/embed/w1TqjGdP0_w",
         "latitude": -45.828,
@@ -1162,12 +1162,6 @@
         "video_url": "https://www.youtube.com/embed/GJTJcDwE-Gs",
         "latitude": -37.6482,
         "longitude": 176.03
-    },
-    {
-        "title": "Tauranga - Gordon Spratt Reserve Skate Park",
-        "video_url": "https://www.youtube.com/embed/9SiLWLdXU28",
-        "latitude": -37.7123,
-        "longitude": 176.3105
     },
     {
         "title": "Auckland - Ambury Regional Park - Walkway",
@@ -1476,12 +1470,6 @@
         "longitude": 176.2758
     },
     {
-        "title": "Tauranga - Gordon Spratt Reserve Skate Park",
-        "video_url": "https://www.youtube.com/embed/yyO8AnGBlaI",
-        "latitude": -37.7124,
-        "longitude": 176.3105
-    },
-    {
         "title": "Cape Foulwind - Wall Island",
         "video_url": "https://www.youtube.com/embed/v15wP2IKmhg",
         "latitude": -41.7647,
@@ -1554,6 +1542,12 @@
         "longitude": 169.8028
     },
     {
+        "title": "Bay of Plenty - Wairere Falls",
+        "video_url": "https://www.youtube.com/embed/4wI97HlQTrg",
+        "latitude": -37.7345,
+        "longitude": 175.8753
+    },
+    {
         "title": "Riverton - Taramea Bay Playground",
         "video_url": "https://www.youtube.com/embed/FBKoRVJpdUg",
         "latitude": -46.3663,
@@ -1596,16 +1590,16 @@
         "longitude": 173.0851
     },
     {
-        "title": "Bay of Plenty - Wairere Falls",
-        "video_url": "https://www.youtube.com/embed/4wI97HlQTrg",
-        "latitude": -37.7345,
-        "longitude": 175.8753
-    },
-    {
         "title": "Gore - Dolamore Playground",
         "video_url": "https://www.youtube.com/embed/cUtFCVL3QjU",
         "latitude": -46.0623,
         "longitude": 168.8275
+    },
+    {
+        "title": "Tauranga - Gordon Spratt Reserve Skate Park",
+        "video_url": "https://www.youtube.com/embed/9SiLWLdXU28",
+        "latitude": -37.7123,
+        "longitude": 176.3105
     },
     {
         "title": "Downtown - Bowentown lookout",
@@ -1624,6 +1618,12 @@
         "video_url": "https://www.youtube.com/embed/8t_ty_i8JqA",
         "latitude": -36.834,
         "longitude": 174.4282
+    },
+    {
+        "title": "Tauranga - Gordon Spratt Reserve Skate Park",
+        "video_url": "https://www.youtube.com/embed/yyO8AnGBlaI",
+        "latitude": -37.7124,
+        "longitude": 176.3105
     },
     {
         "title": "Auckland - Ambury Regional Park - Peacock on the tree",
@@ -2052,12 +2052,6 @@
         "longitude": 175.8774
     },
     {
-        "title": "Bethells Beach Sand Dunes",
-        "video_url": "https://www.youtube.com/embed/0Ue3D-0fREw",
-        "latitude": -36.8836,
-        "longitude": 174.4599
-    },
-    {
         "title": "Dunedin - McLean Falls",
         "video_url": "https://www.youtube.com/embed/VhBOdhCGXGE",
         "latitude": -46.5695,
@@ -2302,6 +2296,12 @@
         "video_url": "https://www.youtube.com/embed/6UqtwQyn3U0",
         "latitude": -45.9212,
         "longitude": 170.4583
+    },
+    {
+        "title": "Bethells Beach Sand Dunes",
+        "video_url": "https://www.youtube.com/embed/0Ue3D-0fREw",
+        "latitude": -36.8836,
+        "longitude": 174.4599
     },
     {
         "title": "Bay of Plenty - Wairere Falls",
