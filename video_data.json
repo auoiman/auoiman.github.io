@@ -270,6 +270,12 @@
         "longitude": 171.3244
     },
     {
+        "title": "Auckland - Waterview Reserve (Oakley Park)",
+        "video_url": "https://www.youtube.com/embed/8lF6iZAGWR0",
+        "latitude": -36.8751,
+        "longitude": 174.7017
+    },
+    {
         "title": "Bluff - Bluff Hill Lookout",
         "video_url": "https://www.youtube.com/embed/xwozR5_gHUU",
         "latitude": -46.6134,
@@ -1174,12 +1180,6 @@
         "video_url": "https://www.youtube.com/embed/bD_m_c-R6MY",
         "latitude": -42.1196,
         "longitude": 171.8663
-    },
-    {
-        "title": "Auckland - Waterview Reserve (Oakley Park)",
-        "video_url": "https://www.youtube.com/embed/8lF6iZAGWR0",
-        "latitude": -36.8751,
-        "longitude": 174.7017
     },
     {
         "title": "Tauranga - Mauao / Mount Maunganui summit",
