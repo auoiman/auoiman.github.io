@@ -276,6 +276,12 @@
         "longitude": 174.7017
     },
     {
+        "title": "Tauranga - Hairy Maclary and Friends Sculpture",
+        "video_url": "https://www.youtube.com/embed/3zIVKpAlPkg",
+        "latitude": -37.6826,
+        "longitude": 176.1706
+    },
+    {
         "title": "Bluff - Bluff Hill Lookout",
         "video_url": "https://www.youtube.com/embed/xwozR5_gHUU",
         "latitude": -46.6134,
@@ -1606,12 +1612,6 @@
         "video_url": "https://www.youtube.com/embed/8qaRlhoMhJg",
         "latitude": -37.4682,
         "longitude": 175.9867
-    },
-    {
-        "title": "Tauranga - Hairy Maclary and Friends Sculpture",
-        "video_url": "https://www.youtube.com/embed/3zIVKpAlPkg",
-        "latitude": -37.6826,
-        "longitude": 176.1706
     },
     {
         "title": "Auckland - Muriwai Beach - Sunset",
