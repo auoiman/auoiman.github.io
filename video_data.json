@@ -780,6 +780,12 @@
         "longitude": 174.7637
     },
     {
+        "title": "Bay of Plenty - Pukehina Beach",
+        "video_url": "https://www.youtube.com/embed/6xGEZmJo5nY",
+        "latitude": -37.7598,
+        "longitude": 176.4841
+    },
+    {
         "title": "Tuatapere - Jack and Mattie Bennett Memorial Park",
         "video_url": "https://www.youtube.com/embed/ShGlgzMib3U",
         "latitude": -46.1288,
@@ -856,12 +862,6 @@
         "video_url": "https://www.youtube.com/embed/6xvqAo3pMJE",
         "latitude": -36.8433,
         "longitude": 174.7675
-    },
-    {
-        "title": "Bay of Plenty - Pukehina Beach",
-        "video_url": "https://www.youtube.com/embed/6xGEZmJo5nY",
-        "latitude": -37.7598,
-        "longitude": 176.4841
     },
     {
         "title": "Whangarei Falls",
@@ -1006,12 +1006,6 @@
         "video_url": "https://www.youtube.com/embed/969BeODLWzA",
         "latitude": -46.384,
         "longitude": 168.0304
-    },
-    {
-        "title": "Dunedin - Otago Peninsula - Okia Reserve / Pyramids",
-        "video_url": "https://www.youtube.com/embed/w1TqjGdP0_w",
-        "latitude": -45.828,
-        "longitude": 170.7081
     },
     {
         "title": "Kaikorua - Peninsula Walkway - 3",
@@ -1440,6 +1434,12 @@
         "longitude": 175.8383
     },
     {
+        "title": "Waihi Goldmine Lookout Path #goldmines",
+        "video_url": "https://www.youtube.com/embed/oE2oK3c-lE0",
+        "latitude": -37.3875,
+        "longitude": 175.8383
+    },
+    {
         "title": "Matamata - Matamata isite Visitor Information Centre",
         "video_url": "https://www.youtube.com/embed/YUafC8RpRq0",
         "latitude": -37.8094,
@@ -1578,6 +1578,12 @@
         "longitude": 173.391
     },
     {
+        "title": "Auckland - Western Springs Park Playground",
+        "video_url": "https://www.youtube.com/embed/M5oQIKuVeYg",
+        "latitude": -36.8646,
+        "longitude": 174.7217
+    },
+    {
         "title": "Dunedin - Baldwin Street (The World\u2019s Steepest Street)",
         "video_url": "https://www.youtube.com/embed/q2bZ3Ja05Bg",
         "latitude": -45.8499,
@@ -1666,12 +1672,6 @@
         "video_url": "https://www.youtube.com/embed/73ucd0q4ItA",
         "latitude": -41.1601,
         "longitude": 173.4142
-    },
-    {
-        "title": "Auckland - Western Springs Park Playground",
-        "video_url": "https://www.youtube.com/embed/M5oQIKuVeYg",
-        "latitude": -36.8646,
-        "longitude": 174.7217
     },
     {
         "title": "Auckland - Mercer Bay Loop Walk",
@@ -2016,12 +2016,6 @@
         "longitude": 174.7988
     },
     {
-        "title": "Cape Regina - Track Entrance",
-        "video_url": "https://www.youtube.com/embed/lbAI4L_8muo",
-        "latitude": -34.4289,
-        "longitude": 172.682
-    },
-    {
         "title": "Riverton - Balancing Rock",
         "video_url": "https://www.youtube.com/embed/ZKpuupGUQ7I",
         "latitude": -46.3764,
@@ -2302,6 +2296,12 @@
         "video_url": "https://www.youtube.com/embed/c97utUAZVZo",
         "latitude": -38.1502,
         "longitude": 176.2713
+    },
+    {
+        "title": "Dunedin - Tunnel Beach Track 2",
+        "video_url": "https://www.youtube.com/embed/6UqtwQyn3U0",
+        "latitude": -45.9212,
+        "longitude": 170.4583
     },
     {
         "title": "Dunedin - Tunnel Beach Track 2",
