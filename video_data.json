@@ -450,12 +450,6 @@
         "longitude": 175.6084
     },
     {
-        "title": "Taupo - Taharepa Hot Water",
-        "video_url": "https://www.youtube.com/embed/e5Q4cmWP0-w",
-        "latitude": -38.6991,
-        "longitude": 176.0844
-    },
-    {
         "title": "Tauranga Memorial Park Railway",
         "video_url": "https://www.youtube.com/embed/85jM2-LfE4U",
         "latitude": -37.6989,
@@ -858,6 +852,24 @@
         "longitude": 170.6273
     },
     {
+        "title": "Whataroa - \u014ck\u0101rito Beach",
+        "video_url": "https://www.youtube.com/embed/EsbLvl6c7qg",
+        "latitude": -43.2236,
+        "longitude": 170.1563
+    },
+    {
+        "title": "Queenstown - Queenstown Garden Waterfront - Frankton Arm",
+        "video_url": "https://www.youtube.com/embed/konUVe3ZGzk",
+        "latitude": -45.0378,
+        "longitude": 168.6619
+    },
+    {
+        "title": "Port Chalmers - Hotere Garden Oputae - Viewpoint",
+        "video_url": "https://www.youtube.com/embed/orwHmgznOl4",
+        "latitude": -45.8165,
+        "longitude": 170.6273
+    },
+    {
         "title": "Tongariro Northern Circuit - Day 3/4",
         "video_url": "https://www.youtube.com/embed/S2zKe6aPDbk",
         "latitude": -39.2078,
@@ -1138,24 +1150,6 @@
         "video_url": "https://www.youtube.com/embed/gSrXzAk8N0k",
         "latitude": -39.4946,
         "longitude": 176.9189
-    },
-    {
-        "title": "Auckland - Ambury Regional Park - Lamb",
-        "video_url": "https://www.youtube.com/embed/ib8dxPphQdU",
-        "latitude": -36.9473,
-        "longitude": 174.7598
-    },
-    {
-        "title": "Interislander - Approaching South Island",
-        "video_url": "https://www.youtube.com/embed/yUI1kwKjhtM",
-        "latitude": -41.2188,
-        "longitude": 174.3284
-    },
-    {
-        "title": "Auckland - Devonport - The Cove",
-        "video_url": "https://www.youtube.com/embed/ZsKAwLTaas8",
-        "latitude": -36.8255,
-        "longitude": 174.8129
     },
     {
         "title": "New Plymouth - Rainbow Crossing Road with Maori Traffic Lights",
@@ -1446,6 +1440,12 @@
         "longitude": 176.2758
     },
     {
+        "title": "New Plymouth - View of Paritutu Beach, Snapper Rock",
+        "video_url": "https://www.youtube.com/embed/fxIxlDD0zHw",
+        "latitude": -39.0596,
+        "longitude": 174.0234
+    },
+    {
         "title": "Napier - Te Awa Beach",
         "video_url": "https://www.youtube.com/embed/zMhA95mv51w",
         "latitude": -39.4936,
@@ -1692,12 +1692,6 @@
         "longitude": 175.4018
     },
     {
-        "title": "Nelson - Cable Bay",
-        "video_url": "https://www.youtube.com/embed/73ucd0q4ItA",
-        "latitude": -41.1601,
-        "longitude": 173.4142
-    },
-    {
         "title": "Auckland - Mercer Bay Loop Walk",
         "video_url": "https://www.youtube.com/embed/vCa_PThR9wA",
         "latitude": -36.9761,
@@ -1726,12 +1720,6 @@
         "video_url": "https://www.youtube.com/embed/KYUtQ_1_il0",
         "latitude": -37.8065,
         "longitude": 175.302
-    },
-    {
-        "title": "Nelson - Stoke - Pic\u2019s peanut world tour",
-        "video_url": "https://www.youtube.com/embed/01V4S6N-JfY",
-        "latitude": -41.3229,
-        "longitude": 173.2145
     },
     {
         "title": "Nelson - Stoke - Pic\u2019s peanut world tour",
@@ -2638,6 +2626,12 @@
         "video_url": "https://www.youtube.com/embed/o6KEDeLbQs4",
         "latitude": -38.9248,
         "longitude": 174.7835
+    },
+    {
+        "title": "Bethells Beach Sand Dunes",
+        "video_url": "https://www.youtube.com/embed/0Ue3D-0fREw",
+        "latitude": -36.8836,
+        "longitude": 174.4599
     },
     {
         "title": "Bay of Plenty - Wairere Falls",
