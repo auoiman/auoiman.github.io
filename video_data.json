@@ -72,12 +72,6 @@
         "longitude": 172.6316
     },
     {
-        "title": "Wairaka Statue, Turuturu Roimata, Whakat\u0101ne Heads",
-        "video_url": "https://www.youtube.com/embed/APyk9Nkxno0",
-        "latitude": -37.9443,
-        "longitude": 177.0107
-    },
-    {
         "title": "Rotorua - Waiotapu Mud Pool",
         "video_url": "https://www.youtube.com/embed/MCvZdGgLR-I",
         "latitude": -38.342,
@@ -114,16 +108,16 @@
         "longitude": 170.644
     },
     {
-        "title": "Gore - Clock Tower",
-        "video_url": "https://www.youtube.com/embed/QqrJltQwS2M",
-        "latitude": -46.098,
-        "longitude": 168.9466
-    },
-    {
         "title": "Auckland - Western Springs Park Playground",
         "video_url": "https://www.youtube.com/embed/M5oQIKuVeYg",
         "latitude": -36.8646,
         "longitude": 174.7217
+    },
+    {
+        "title": "Gore - Clock Tower",
+        "video_url": "https://www.youtube.com/embed/QqrJltQwS2M",
+        "latitude": -46.098,
+        "longitude": 168.9466
     },
     {
         "title": "Bluff - Bluff Hill Lookout",
@@ -250,12 +244,6 @@
         "video_url": "https://www.youtube.com/embed/tD9UHQI9_FU",
         "latitude": -45.876,
         "longitude": 170.5086
-    },
-    {
-        "title": "Taupo - Maori Rock Carving",
-        "video_url": "https://www.youtube.com/embed/25b9wc2sbKA",
-        "latitude": -38.7332,
-        "longitude": 176.0073
     },
     {
         "title": "Karangahake Gorge - Tunnel",
@@ -546,12 +534,6 @@
         "longitude": 175.8349
     },
     {
-        "title": "Tauranga - Walk to Mt Maunganui - SH2",
-        "video_url": "https://www.youtube.com/embed/KlRbotfibo4",
-        "latitude": -37.6745,
-        "longitude": 176.1721
-    },
-    {
         "title": "Auckland - Devonport - The Summit",
         "video_url": "https://www.youtube.com/embed/76eW166Rle8",
         "latitude": -36.8271,
@@ -646,12 +628,6 @@
         "video_url": "https://www.youtube.com/embed/BPh2Oks-7o4",
         "latitude": -37.7841,
         "longitude": 176.5187
-    },
-    {
-        "title": "The Catlins - Matai Falls",
-        "video_url": "https://www.youtube.com/embed/bpvxfps31vk",
-        "latitude": -46.5176,
-        "longitude": 169.561
     },
     {
         "title": "Mangapouri - Fraser Beach",
@@ -808,12 +784,6 @@
         "video_url": "https://www.youtube.com/embed/19WZx48nVg8",
         "latitude": -36.7586,
         "longitude": 175.4894
-    },
-    {
-        "title": "Taupo - Taharepa Hot Water",
-        "video_url": "https://www.youtube.com/embed/PHVrSWAjCAk",
-        "latitude": -38.6991,
-        "longitude": 176.0844
     },
     {
         "title": "Bluff - Te Araroa Trail",
@@ -1164,30 +1134,6 @@
         "longitude": 174.7598
     },
     {
-        "title": "New Plymouth - Brooklands Zoo",
-        "video_url": "https://www.youtube.com/embed/jj-Vh9kiy1E",
-        "latitude": -39.0705,
-        "longitude": 174.0861
-    },
-    {
-        "title": "Auckland - Trafalgar Street",
-        "video_url": "https://www.youtube.com/embed/6orrgThJ7mc",
-        "latitude": -36.9163,
-        "longitude": 174.7793
-    },
-    {
-        "title": "Napier - New Zealand Christmas Tree - P\u014dhutukawa",
-        "video_url": "https://www.youtube.com/embed/gSrXzAk8N0k",
-        "latitude": -39.4946,
-        "longitude": 176.9189
-    },
-    {
-        "title": "Auckland - Ambury Regional Park - Lamb",
-        "video_url": "https://www.youtube.com/embed/ib8dxPphQdU",
-        "latitude": -36.9473,
-        "longitude": 174.7598
-    },
-    {
         "title": "Interislander - Approaching South Island",
         "video_url": "https://www.youtube.com/embed/yUI1kwKjhtM",
         "latitude": -41.2188,
@@ -1458,6 +1404,30 @@
         "longitude": 175.8383
     },
     {
+        "title": "Matamata - Matamata isite Visitor Information Centre",
+        "video_url": "https://www.youtube.com/embed/YUafC8RpRq0",
+        "latitude": -37.8094,
+        "longitude": 175.7718
+    },
+    {
+        "title": "Westport - Kilkenny Lookout",
+        "video_url": "https://www.youtube.com/embed/jZJ_t3avMpE",
+        "latitude": -41.8637,
+        "longitude": 171.7821
+    },
+    {
+        "title": "Auckland - Devonport - Mount Victoria",
+        "video_url": "https://www.youtube.com/embed/STbEtFm7CrM",
+        "latitude": -36.826,
+        "longitude": 174.7996
+    },
+    {
+        "title": "Tongariro Northern Circuit - Day 3/4 - Taranaki Falls",
+        "video_url": "https://www.youtube.com/embed/ogrqRmuUQdc",
+        "latitude": -39.1944,
+        "longitude": 175.5611
+    },
+    {
         "title": "Owaka Playground",
         "video_url": "https://www.youtube.com/embed/cWOupHGRQS8",
         "latitude": -46.4738,
@@ -1546,12 +1516,6 @@
         "video_url": "https://www.youtube.com/embed/yZflTICrW2U",
         "latitude": -39.2003,
         "longitude": 175.5759
-    },
-    {
-        "title": "Opunake - Opunake Beach",
-        "video_url": "https://www.youtube.com/embed/1dnp0WHwrao",
-        "latitude": -39.4588,
-        "longitude": 173.8567
     },
     {
         "title": "Coromandel - Kaipawa Trig Track",
@@ -1704,10 +1668,28 @@
         "longitude": 175.426
     },
     {
+        "title": "Auckland - Huana Falls - Cosseys Dam",
+        "video_url": "https://www.youtube.com/embed/aQDdwaVsg6c",
+        "latitude": -37.0607,
+        "longitude": 175.1063
+    },
+    {
         "title": "Auckland - Wenderholm Regional Park - Rodney Ward",
         "video_url": "https://www.youtube.com/embed/-DrOneXJ2iQ",
         "latitude": -36.5318,
         "longitude": 174.7135
+    },
+    {
+        "title": "Tongariro Northern Circuit - Day 1/4 - 1",
+        "video_url": "https://www.youtube.com/embed/QDfUVGSplsk",
+        "latitude": -39.172,
+        "longitude": 175.4018
+    },
+    {
+        "title": "Huka Falls Jet Ride",
+        "video_url": "https://www.youtube.com/embed/PAkd_msa4RM",
+        "latitude": 38.64784,
+        "longitude": 176.09042
     },
     {
         "title": "Auckland - Mercer Bay Loop Walk",
@@ -2020,6 +2002,12 @@
         "video_url": "https://www.youtube.com/embed/ektRe0U7rhA",
         "latitude": -39.1985,
         "longitude": 175.538
+    },
+    {
+        "title": "Auckland - Mahuhu ki te Rangi Park",
+        "video_url": "https://www.youtube.com/embed/9sfT8RiTNEk",
+        "latitude": -36.8472,
+        "longitude": 174.7749
     },
     {
         "title": "Three Sisters and the Elephant",
@@ -2652,12 +2640,6 @@
         "longitude": 175.4365
     },
     {
-        "title": "Huka Falls Jet Ride",
-        "video_url": "https://www.youtube.com/embed/PAkd_msa4RM",
-        "latitude": 38.64784,
-        "longitude": 176.09042
-    },
-    {
         "title": "Thames - The Bird Hide",
         "video_url": "https://www.youtube.com/embed/_L3S11tUh4E",
         "latitude": -37.1368,
@@ -2808,6 +2790,12 @@
         "longitude": 174.0407
     },
     {
+        "title": "Whakatane - Wairere Falls",
+        "video_url": "https://www.youtube.com/embed/Smstza2uIb4",
+        "latitude": -37.9517,
+        "longitude": 177.0012
+    },
+    {
         "title": "Auckland - Long Bay Regional Park - Track",
         "video_url": "https://www.youtube.com/embed/E2pM5i0t1Qg",
         "latitude": -36.6071,
@@ -2826,12 +2814,6 @@
         "longitude": 174.7882
     },
     {
-        "title": "Whakatane - Wairere Falls",
-        "video_url": "https://www.youtube.com/embed/Smstza2uIb4",
-        "latitude": -37.9517,
-        "longitude": 177.0012
-    },
-    {
         "title": "Aratiatia Rapids Mid Viewpoint",
         "video_url": "https://www.youtube.com/embed/9jEM6N--1Jc",
         "latitude": -38.6177,
@@ -2842,6 +2824,12 @@
         "video_url": "https://www.youtube.com/embed/t76goufxp1Q",
         "latitude": -38.0369,
         "longitude": 175.8337
+    },
+    {
+        "title": "Wairaka Statue, Turuturu Roimata, Whakat\u0101ne Heads",
+        "video_url": "https://www.youtube.com/embed/APyk9Nkxno0",
+        "latitude": -37.9443,
+        "longitude": 177.0107
     },
     {
         "title": "Aratiatia Rapids Mid Viewpoint",
@@ -2860,6 +2848,12 @@
         "video_url": "https://www.youtube.com/embed/3o7XK8SQtT0",
         "latitude": -38.0382,
         "longitude": 175.8311
+    },
+    {
+        "title": "Romeo and Juliet Clock",
+        "video_url": "https://www.youtube.com/embed/b09CkrUTOhs",
+        "latitude": -39.3395,
+        "longitude": 174.2847
     },
     {
         "title": "Moki Tunnel - SH43",
@@ -2890,12 +2884,6 @@
         "video_url": "https://www.youtube.com/embed/pCztC1JmizM",
         "latitude": -37.8575,
         "longitude": 175.6814
-    },
-    {
-        "title": "Te Anau Bird Sanctuary - Takahe 1",
-        "video_url": "https://www.youtube.com/embed/eqULPsvQKRY",
-        "latitude": -45.4331,
-        "longitude": 167.7135
     },
     {
         "title": "Te Anau Bird Sanctuary - Takahe 2",
