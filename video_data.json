@@ -126,6 +126,12 @@
         "longitude": 168.9466
     },
     {
+        "title": "Port Chalmers - Aramoana Beach - 1",
+        "video_url": "https://www.youtube.com/embed/PAKgCLUE47Q",
+        "latitude": -45.7733,
+        "longitude": 170.7032
+    },
+    {
         "title": "Bluff - Bluff Hill Lookout",
         "video_url": "https://www.youtube.com/embed/xwozR5_gHUU",
         "latitude": -46.6134,
@@ -168,16 +174,16 @@
         "longitude": 175.3033
     },
     {
-        "title": "Pahia - Cozy Nook",
-        "video_url": "https://www.youtube.com/embed/5XOZk3GCuCI",
-        "latitude": -46.3328,
-        "longitude": 167.7093
-    },
-    {
         "title": "Fortrose Freedom Camping site",
         "video_url": "https://www.youtube.com/embed/sg2eCwhIqNs",
         "latitude": -46.5749,
         "longitude": 168.7964
+    },
+    {
+        "title": "Pahia - Cozy Nook",
+        "video_url": "https://www.youtube.com/embed/5XOZk3GCuCI",
+        "latitude": -46.3328,
+        "longitude": 167.7093
     },
     {
         "title": "The Catlins - Florence Hill Lookout",
@@ -870,6 +876,12 @@
         "longitude": 168.0304
     },
     {
+        "title": "Riverton - Howell Point Lookout",
+        "video_url": "https://www.youtube.com/embed/969BeODLWzA",
+        "latitude": -46.384,
+        "longitude": 168.0304
+    },
+    {
         "title": "Kaikorua - Peninsula Walkway - 3",
         "video_url": "https://www.youtube.com/embed/O9n1rEjIWQ4",
         "latitude": -42.4269,
@@ -1162,12 +1174,6 @@
         "video_url": "https://www.youtube.com/embed/D6mCEOuy1Vg",
         "latitude": -39.0571,
         "longitude": 174.0737
-    },
-    {
-        "title": "Riverton - Mores Scenic Reserve - Carpark",
-        "video_url": "https://www.youtube.com/embed/CQn3Ge39JA8",
-        "latitude": -46.3694,
-        "longitude": 167.9979
     },
     {
         "title": "Port Chalmers - Flagstaff Lookout - 1",
@@ -1680,6 +1686,12 @@
         "longitude": 175.1063
     },
     {
+        "title": "Auckland - One Tree Hill",
+        "video_url": "https://www.youtube.com/embed/f1yE2NZSEu0",
+        "latitude": -36.8997,
+        "longitude": 174.7834
+    },
+    {
         "title": "Auckland - Wenderholm Regional Park - Rodney Ward",
         "video_url": "https://www.youtube.com/embed/-DrOneXJ2iQ",
         "latitude": -36.5318,
@@ -1738,6 +1750,12 @@
         "video_url": "https://www.youtube.com/embed/01V4S6N-JfY",
         "latitude": -41.3229,
         "longitude": 173.2145
+    },
+    {
+        "title": "Tongariro Northern Circuit - Day 1/4",
+        "video_url": "https://www.youtube.com/embed/8atp_Y6TykQ",
+        "latitude": -39.145,
+        "longitude": 175.5964
     },
     {
         "title": "Tongariro Northern Circuit - Day 1/4",
@@ -2034,6 +2052,24 @@
         "longitude": 172.5773
     },
     {
+        "title": "Auckland - Mahuhu ki te Rangi Park",
+        "video_url": "https://www.youtube.com/embed/9sfT8RiTNEk",
+        "latitude": -36.8472,
+        "longitude": 174.7749
+    },
+    {
+        "title": "Three Sisters and the Elephant",
+        "video_url": "https://www.youtube.com/embed/Om-Y90kVjLQ",
+        "latitude": -38.8162,
+        "longitude": 174.5842
+    },
+    {
+        "title": "Christchurch - University of Canterbury - Ilam Fields",
+        "video_url": "https://www.youtube.com/embed/YcLUG91jjHM",
+        "latitude": -43.5229,
+        "longitude": 172.5773
+    },
+    {
         "title": "Coromandel - New Chums Beach",
         "video_url": "https://www.youtube.com/embed/0xR-r9WtEyY",
         "latitude": -36.7011,
@@ -2166,18 +2202,6 @@
         "longitude": 174.1077
     },
     {
-        "title": "Bay of Plenty - Kaiate Falls",
-        "video_url": "https://www.youtube.com/embed/onwGJMnHDwA",
-        "latitude": -37.7595,
-        "longitude": 176.2418
-    },
-    {
-        "title": "Auckland - Devonport - Mount Victoria",
-        "video_url": "https://www.youtube.com/embed/Zqh8oUYWrtc",
-        "latitude": -36.8257,
-        "longitude": 174.7988
-    },
-    {
         "title": "Cape Regina - Track Entrance",
         "video_url": "https://www.youtube.com/embed/lbAI4L_8muo",
         "latitude": -34.4289,
@@ -2256,12 +2280,6 @@
         "longitude": 176.1389
     },
     {
-        "title": "Akitio Camp Seaside",
-        "video_url": "https://www.youtube.com/embed/R5WuJvGJQwA",
-        "latitude": -40.6221,
-        "longitude": 176.4153
-    },
-    {
         "title": "Bay of Plenty - Raparapahoe Falls",
         "video_url": "https://www.youtube.com/embed/wCk2Z8DB3jo",
         "latitude": -37.8208,
@@ -2326,18 +2344,6 @@
         "video_url": "https://www.youtube.com/embed/ZH613a9zQ-o",
         "latitude": -45.7995,
         "longitude": 169.5073
-    },
-    {
-        "title": "Tongariro Northern Circuit - Day 3/4",
-        "video_url": "https://www.youtube.com/embed/uWw8CpY0c0Q",
-        "latitude": -39.1975,
-        "longitude": 175.5805
-    },
-    {
-        "title": "Mangorei Track to Pouakai Tarn",
-        "video_url": "https://www.youtube.com/embed/uzqbyZMY8Ug",
-        "latitude": -39.2328,
-        "longitude": 174.037
     },
     {
         "title": "Okere Falls / Tutea Falls",
@@ -2800,12 +2806,6 @@
         "video_url": "https://www.youtube.com/embed/Smstza2uIb4",
         "latitude": -37.9517,
         "longitude": 177.0012
-    },
-    {
-        "title": "Auckland - Long Bay Regional Park - Track",
-        "video_url": "https://www.youtube.com/embed/E2pM5i0t1Qg",
-        "latitude": -36.6071,
-        "longitude": 174.828
     },
     {
         "title": "Rotorua Red Woods Disc Golf",
