@@ -1,11 +1,5 @@
 [
     {
-        "title": "Port Chalmers - Aramoana Beach - 2",
-        "video_url": "https://www.youtube.com/embed/wmsA1G006tM",
-        "latitude": -45.7715,
-        "longitude": 170.7016
-    },
-    {
         "title": "Auckland - Britomart Train Station",
         "video_url": "https://www.youtube.com/embed/6MfUTQHW4K0",
         "latitude": -36.8439,
@@ -54,10 +48,22 @@
         "longitude": 167.729
     },
     {
+        "title": "Auckland - Eden Park - FIFA Women's World Cup",
+        "video_url": "https://www.youtube.com/embed/w1hFIdOmius",
+        "latitude": -36.8753,
+        "longitude": 174.7456
+    },
+    {
         "title": "Hamilton - Hamilton Garden",
         "video_url": "https://www.youtube.com/embed/BSQasqAq5go",
         "latitude": -37.8072,
         "longitude": 175.3011
+    },
+    {
+        "title": "Dunedin - Otago Peninsula - Okia Reserve - Beach Access",
+        "video_url": "https://www.youtube.com/embed/XX0jS8wHj9g",
+        "latitude": -45.8236,
+        "longitude": 170.7225
     },
     {
         "title": "Hamilton - Hamilton Garden - Surrealist Garden",
@@ -78,6 +84,12 @@
         "longitude": 174.7829
     },
     {
+        "title": "Christchurch - Barrington Park",
+        "video_url": "https://www.youtube.com/embed/uK6BWoRGarw",
+        "latitude": -43.556,
+        "longitude": 172.6189
+    },
+    {
         "title": "Timaru - Caroline Bay Playground - 3",
         "video_url": "https://www.youtube.com/embed/qK1cELmgUoE",
         "latitude": -44.3887,
@@ -90,10 +102,22 @@
         "longitude": 172.6316
     },
     {
+        "title": "Lake Waihola Holiday Park - Cabin",
+        "video_url": "https://www.youtube.com/embed/4xxip8DknlY",
+        "latitude": -46.0218,
+        "longitude": 170.0942
+    },
+    {
         "title": "Rotorua - Waiotapu Mud Pool",
         "video_url": "https://www.youtube.com/embed/MCvZdGgLR-I",
         "latitude": -38.342,
         "longitude": 176.3696
+    },
+    {
+        "title": "Timaru - Caroline Bay Beach",
+        "video_url": "https://www.youtube.com/embed/gIRK6a1z07k",
+        "latitude": -44.3866,
+        "longitude": 171.2495
     },
     {
         "title": "Port Chalmers - Aramoana Beach - Keyhole rock, sand dune",
@@ -148,6 +172,12 @@
         "video_url": "https://www.youtube.com/embed/xwozR5_gHUU",
         "latitude": -46.6134,
         "longitude": 168.3572
+    },
+    {
+        "title": "Riverton - Hilltop Lookout",
+        "video_url": "https://www.youtube.com/embed/SbFqLCNapo8",
+        "latitude": -46.3708,
+        "longitude": 167.9957
     },
     {
         "title": "The Catlins - Baclutha Ward",
@@ -316,6 +346,12 @@
         "video_url": "https://www.youtube.com/embed/kcUdBomp8iI",
         "latitude": -46.4457,
         "longitude": 169.8036
+    },
+    {
+        "title": "Whangamomona Hotel",
+        "video_url": "https://www.youtube.com/embed/vmh4b81kIdE",
+        "latitude": -39.1447,
+        "longitude": 174.7356
     },
     {
         "title": "Napier - Marine Parade viewing platform",
@@ -550,24 +586,6 @@
         "video_url": "https://www.youtube.com/embed/BMGRk-JHcoo",
         "latitude": -40.62,
         "longitude": 176.415
-    },
-    {
-        "title": "Interislander Ferry - Wellington to Picton - Leaving Wellington Harbour",
-        "video_url": "https://www.youtube.com/embed/Be3fTehbucE",
-        "latitude": -41.3118,
-        "longitude": 174.8591
-    },
-    {
-        "title": "Akitio Esplanade",
-        "video_url": "https://www.youtube.com/embed/abGVR-tmzQA",
-        "latitude": -40.6192,
-        "longitude": 176.4147
-    },
-    {
-        "title": "Hamilton - Blue Springs - Te Waihou Walkway",
-        "video_url": "https://www.youtube.com/embed/5M-5zHzQlgw",
-        "latitude": -38.0361,
-        "longitude": 175.8349
     },
     {
         "title": "Auckland - Devonport - The Summit",
@@ -858,6 +876,18 @@
         "longitude": 168.6619
     },
     {
+        "title": "Whataroa - \u014ck\u0101rito Beach",
+        "video_url": "https://www.youtube.com/embed/EsbLvl6c7qg",
+        "latitude": -43.2236,
+        "longitude": 170.1563
+    },
+    {
+        "title": "Queenstown - Queenstown Garden Waterfront - Frankton Arm",
+        "video_url": "https://www.youtube.com/embed/konUVe3ZGzk",
+        "latitude": -45.0378,
+        "longitude": 168.6619
+    },
+    {
         "title": "Port Chalmers - Hotere Garden Oputae - Viewpoint",
         "video_url": "https://www.youtube.com/embed/orwHmgznOl4",
         "latitude": -45.8165,
@@ -886,12 +916,6 @@
         "video_url": "https://www.youtube.com/embed/O9n1rEjIWQ4",
         "latitude": -42.4269,
         "longitude": 173.7083
-    },
-    {
-        "title": "Clutha River - 4",
-        "video_url": "https://www.youtube.com/embed/zeZHlaIvX_o",
-        "latitude": -45.8004,
-        "longitude": 169.509
     },
     {
         "title": "Cardrona Alpine Resort - Entrance",
@@ -1254,12 +1278,6 @@
         "longitude": 176.128
     },
     {
-        "title": "Riverton - Riverton Gemstone Beach",
-        "video_url": "https://www.youtube.com/embed/jOWHe-WH2nw",
-        "latitude": -46.3717,
-        "longitude": 168.028
-    },
-    {
         "title": "Clutha River - 3",
         "video_url": "https://www.youtube.com/embed/5ig8cEsrwqc",
         "latitude": -45.7994,
@@ -1312,12 +1330,6 @@
         "video_url": "https://www.youtube.com/embed/zGEqSfjPsr0",
         "latitude": -41.3312,
         "longitude": 174.8226
-    },
-    {
-        "title": "Auckland - Devonport - Mount Victoria Lookout",
-        "video_url": "https://www.youtube.com/embed/-1dyozKnANo",
-        "latitude": -36.8269,
-        "longitude": 174.7985
     },
     {
         "title": "Waimarama - Waimarama Beach",
@@ -1662,12 +1674,6 @@
         "longitude": 175.9867
     },
     {
-        "title": "Auckland - Muriwai Beach - Sunset",
-        "video_url": "https://www.youtube.com/embed/8t_ty_i8JqA",
-        "latitude": -36.834,
-        "longitude": 174.4282
-    },
-    {
         "title": "Cambridge Farmers Market",
         "video_url": "https://www.youtube.com/embed/MxD9nSAcBqk",
         "latitude": -37.8931,
@@ -1786,12 +1792,6 @@
         "video_url": "https://www.youtube.com/embed/tms_v7pmpA8",
         "latitude": -37.6323,
         "longitude": 176.0526
-    },
-    {
-        "title": "On the way up to Paritutu Rock",
-        "video_url": "https://www.youtube.com/embed/98NeoWR1Cbc",
-        "latitude": -39.0596,
-        "longitude": 174.0239
     },
     {
         "title": "Tongariro Northern Circuit - Day 2/4",
@@ -2634,16 +2634,166 @@
         "longitude": 170.4583
     },
     {
-        "title": "Bay of Plenty - Wairere Falls",
-        "video_url": "https://www.youtube.com/embed/5-QIHK0H6mY",
-        "latitude": -37.7341,
-        "longitude": 175.8756
+        "title": "Taupo - Huka Falls #waterfall #newzealand",
+        "video_url": "https://www.youtube.com/embed/3KHkBk3BcFs",
+        "latitude": -38.6487,
+        "longitude": 176.0901
     },
     {
-        "title": "Tongariro Northern Circuit - Day 4/4",
-        "video_url": "https://www.youtube.com/embed/5lihzGlxHcI",
-        "latitude": -39.2077,
-        "longitude": 175.6659
+        "title": "Rotorua - Spa Thermal Park",
+        "video_url": "https://www.youtube.com/embed/Xez-My3mK_0",
+        "latitude": -38.6729,
+        "longitude": 176.0901
+    },
+    {
+        "title": "Coromandel - New Chums Beach",
+        "video_url": "https://www.youtube.com/embed/0xR-r9WtEyY",
+        "latitude": -36.7011,
+        "longitude": 175.6109
+    },
+    {
+        "title": "Taupo - Huka Falls #waterfall",
+        "video_url": "https://www.youtube.com/embed/i94F-H73R10",
+        "latitude": -38.6486,
+        "longitude": 176.0905
+    },
+    {
+        "title": "Rotorua - Redwoods \u2013 Whakarewarewa Forest",
+        "video_url": "https://www.youtube.com/embed/g_ex7cGu2NI",
+        "latitude": -38.1557,
+        "longitude": 176.2748
+    },
+    {
+        "title": "Lake Taurikura Drainage Reserve",
+        "video_url": "https://www.youtube.com/embed/2m5sgWN3bM8",
+        "latitude": -37.7447,
+        "longitude": 176.1089
+    },
+    {
+        "title": "Auckland - Auckland Botanic Gardens - Cherry Blossoms",
+        "video_url": "https://www.youtube.com/embed/6vYBrvVbCso",
+        "latitude": -37.0112,
+        "longitude": 174.9066
+    },
+    {
+        "title": "Taupo - Aratiatia Rapids",
+        "video_url": "https://www.youtube.com/embed/uZtL8BevTFA",
+        "latitude": -38.6176,
+        "longitude": 176.1389
+    },
+    {
+        "title": "Tauranga - Mount Maunganui Track",
+        "video_url": "https://www.youtube.com/embed/P53-iZ3mZac",
+        "latitude": -37.6262,
+        "longitude": 176.1751
+    },
+    {
+        "title": "Tauranga - Pilot Bay Sunset",
+        "video_url": "https://www.youtube.com/embed/-Tc0o7oRgVQ",
+        "latitude": -37.6372,
+        "longitude": 176.1798
+    },
+    {
+        "title": "Okere Falls / Tutea Falls",
+        "video_url": "https://www.youtube.com/embed/0FzdlOGtApo",
+        "latitude": -38.0138,
+        "longitude": 176.3443
+    },
+    {
+        "title": "Taupo - Huka Falls",
+        "video_url": "https://www.youtube.com/embed/r6rqnM1-DeY",
+        "latitude": -38.6476,
+        "longitude": 176.0901
+    },
+    {
+        "title": "Taupo - Aratiatia Rapids",
+        "video_url": "https://www.youtube.com/embed/dJ7zZIWwKHo",
+        "latitude": -38.6176,
+        "longitude": 176.1389
+    },
+    {
+        "title": "Karangahake Gorge",
+        "video_url": "https://www.youtube.com/embed/FjmZ22SCB6E",
+        "latitude": -37.4229,
+        "longitude": 175.7213
+    },
+    {
+        "title": "Taupo - Aratiatia Rapids",
+        "video_url": "https://www.youtube.com/embed/P2kUFb_Z8HI",
+        "latitude": -38.6176,
+        "longitude": 176.1389
+    },
+    {
+        "title": "Okere Falls / Tutea Falls",
+        "video_url": "https://www.youtube.com/embed/WU55WBT5MAk",
+        "latitude": -38.0113,
+        "longitude": 176.3446
+    },
+    {
+        "title": "Okere Falls / Tutea Falls",
+        "video_url": "https://www.youtube.com/embed/MI_zBf_63PI",
+        "latitude": -38.0112,
+        "longitude": 176.3447
+    },
+    {
+        "title": "Karangahake Gorge",
+        "video_url": "https://www.youtube.com/embed/uRzMvvM-4qs",
+        "latitude": -37.4229,
+        "longitude": 175.7213
+    },
+    {
+        "title": "Okere Falls / Tutea Falls",
+        "video_url": "https://www.youtube.com/embed/wITgbE_Bbvg",
+        "latitude": -38.0113,
+        "longitude": 176.3446
+    },
+    {
+        "title": "Omapere - Signal Station Track",
+        "video_url": "https://www.youtube.com/embed/cephszmzg0s",
+        "latitude": -35.5342,
+        "longitude": 173.3678
+    },
+    {
+        "title": "Taupo - Taupo Disc Golf Course",
+        "video_url": "https://www.youtube.com/embed/AndZk9QtSkI",
+        "latitude": -38.6729,
+        "longitude": 176.09
+    },
+    {
+        "title": "Tauranga - Moturiki Island (Leisure Island)",
+        "video_url": "https://www.youtube.com/embed/ZI5-3CGNIlA",
+        "latitude": -37.6324,
+        "longitude": 176.1842
+    },
+    {
+        "title": "Taupo - Spa Thermal Park - MTB",
+        "video_url": "https://www.youtube.com/embed/RlmEIr6N6Bc",
+        "latitude": -38.6749,
+        "longitude": 176.0895
+    },
+    {
+        "title": "Taupo - Aratiatia Rapids",
+        "video_url": "https://www.youtube.com/embed/bbeHVFlvWZw",
+        "latitude": -38.6175,
+        "longitude": 176.1419
+    },
+    {
+        "title": "Taupo - Disc Golf Course",
+        "video_url": "https://www.youtube.com/embed/5NqFHoDjUJU",
+        "latitude": -38.6749,
+        "longitude": 176.0895
+    },
+    {
+        "title": "Okere Falls / Tutea Falls #rafting",
+        "video_url": "https://www.youtube.com/embed/3JcpFe3nvbs",
+        "latitude": -38.0111,
+        "longitude": 176.3445
+    },
+    {
+        "title": "Rotorua - Hatupatu Dr Car Park and Scenic Point",
+        "video_url": "https://www.youtube.com/embed/r-J8qrOTM_k",
+        "latitude": -38.1297,
+        "longitude": 176.2641
     },
     {
         "title": "Coromandel - Manaia Road Saddle and Lookout",
@@ -2658,42 +2808,6 @@
         "longitude": 175.5383
     },
     {
-        "title": "Tongariro Northern Circuit - Day 3/4 - Taranaki Falls",
-        "video_url": "https://www.youtube.com/embed/Xf23GVBiZyY",
-        "latitude": -39.1944,
-        "longitude": 175.5611
-    },
-    {
-        "title": "Ambury Regional Park",
-        "video_url": "https://www.youtube.com/embed/IEyfEvgFnM8",
-        "latitude": -36.6071,
-        "longitude": 174.828
-    },
-    {
-        "title": "Westport- T-Rex Tree & Buller River",
-        "video_url": "https://www.youtube.com/embed/EPo-BNNIyRw",
-        "latitude": -41.8578,
-        "longitude": 171.761
-    },
-    {
-        "title": "SH3",
-        "video_url": "https://www.youtube.com/embed/bOFTx-DX6qw",
-        "latitude": -38.4862,
-        "longitude": 174.9435
-    },
-    {
-        "title": "Tongariro Northern Circuit - Day 4/4",
-        "video_url": "https://www.youtube.com/embed/yN9Hd8--pKE",
-        "latitude": -39.1988,
-        "longitude": 175.596
-    },
-    {
-        "title": "Hamilton - Blue Springs - Te Waihou Walkway",
-        "video_url": "https://www.youtube.com/embed/RF1uicrHHcA",
-        "latitude": -38.0372,
-        "longitude": 175.8336
-    },
-    {
         "title": "Tauranga - Mount Maunganui",
         "video_url": "https://www.youtube.com/embed/1_jYWwgrOcQ",
         "latitude": -37.6286,
@@ -2706,34 +2820,10 @@
         "longitude": 176.2641
     },
     {
-        "title": "Rotorua Disc Golf Course - Red Woods",
-        "video_url": "https://www.youtube.com/embed/ded5YIgL0fk",
-        "latitude": -38.1502,
-        "longitude": 176.2749
-    },
-    {
         "title": "Omapere - Arai te Uru Nature Reserve - Martin's Beach",
         "video_url": "https://www.youtube.com/embed/_ut0ce416xo",
         "latitude": -35.5361,
         "longitude": 173.3716
-    },
-    {
-        "title": "Hamilton - Blue Springs - Te Waihou Walkway",
-        "video_url": "https://www.youtube.com/embed/bG5Fgpyo9RY",
-        "latitude": -38.0361,
-        "longitude": 175.8348
-    },
-    {
-        "title": "Bay of Plenty - Te Puna Quarry Park",
-        "video_url": "https://www.youtube.com/embed/AF-eemIolEo",
-        "latitude": -37.7048,
-        "longitude": 176.0446
-    },
-    {
-        "title": "Hastings - Te Mata Peak",
-        "video_url": "https://www.youtube.com/embed/YiaiMPo7s4A",
-        "latitude": -39.7031,
-        "longitude": 176.9091
     },
     {
         "title": "Okere Falls / Tutea Falls #waterfall",
@@ -2760,18 +2850,6 @@
         "longitude": 175.7211
     },
     {
-        "title": "Near Te Rewa Rewa Bridge",
-        "video_url": "https://www.youtube.com/embed/-E_8qtykIaY",
-        "latitude": -39.0358,
-        "longitude": 174.1118
-    },
-    {
-        "title": "Huka Falls Bridge",
-        "video_url": "https://www.youtube.com/embed/nqe1krZlCuY",
-        "latitude": -38.6496,
-        "longitude": 176.0894
-    },
-    {
         "title": "Rainbow Mountain Scenic Reserve",
         "video_url": "https://www.youtube.com/embed/KKIKPHtXHPI",
         "latitude": -38.3208,
@@ -2784,94 +2862,16 @@
         "longitude": 176.0845
     },
     {
-        "title": "Raglan - Bridal Veil Falls",
-        "video_url": "https://www.youtube.com/embed/FlWgWHbweIY",
-        "latitude": -37.9086,
-        "longitude": 174.8959
-    },
-    {
         "title": "Okere Falls / Tutea Falls",
         "video_url": "https://www.youtube.com/embed/N3_T5QbnluY",
         "latitude": -38.0112,
         "longitude": 176.3445
     },
     {
-        "title": "Mangorei Track to Pouakai Tarn",
-        "video_url": "https://www.youtube.com/embed/renOMPrUH-o",
-        "latitude": -39.2358,
-        "longitude": 174.0407
-    },
-    {
-        "title": "Whakatane - Wairere Falls",
-        "video_url": "https://www.youtube.com/embed/Smstza2uIb4",
-        "latitude": -37.9517,
-        "longitude": 177.0012
-    },
-    {
-        "title": "Rotorua Red Woods Disc Golf",
-        "video_url": "https://www.youtube.com/embed/Vz5sBg4LZ4I",
-        "latitude": -38.1513,
-        "longitude": 176.2696
-    },
-    {
-        "title": "Mount Damper Falls",
-        "video_url": "https://www.youtube.com/embed/wqlFiyp5M7Q",
-        "latitude": -38.92,
-        "longitude": 174.7882
-    },
-    {
-        "title": "Aratiatia Rapids Mid Viewpoint",
-        "video_url": "https://www.youtube.com/embed/9jEM6N--1Jc",
-        "latitude": -38.6177,
-        "longitude": 176.1388
-    },
-    {
-        "title": "Hamilton - Blue Springs - Te Waihou Walkway",
-        "video_url": "https://www.youtube.com/embed/t76goufxp1Q",
-        "latitude": -38.0369,
-        "longitude": 175.8337
-    },
-    {
-        "title": "Aratiatia Rapids Mid Viewpoint",
-        "video_url": "https://www.youtube.com/embed/xaETNllH150",
-        "latitude": -38.6177,
-        "longitude": 176.1388
-    },
-    {
-        "title": "Bay of Plenty - Wairere Falls",
-        "video_url": "https://www.youtube.com/embed/GqMmGv8MhZM",
-        "latitude": -37.7343,
-        "longitude": 175.8796
-    },
-    {
-        "title": "Hamilton - Blue Springs - Te Waihou Walkway",
-        "video_url": "https://www.youtube.com/embed/3o7XK8SQtT0",
-        "latitude": -38.0382,
-        "longitude": 175.8311
-    },
-    {
-        "title": "Romeo and Juliet Clock",
-        "video_url": "https://www.youtube.com/embed/b09CkrUTOhs",
-        "latitude": -39.3395,
-        "longitude": 174.2847
-    },
-    {
-        "title": "Moki Tunnel - SH43",
-        "video_url": "https://www.youtube.com/embed/oFRQMfNppeA",
-        "latitude": -39.0175,
-        "longitude": 174.8029
-    },
-    {
         "title": "Auckland - Mutukaroa / Hamlins Hill Regional Park",
         "video_url": "https://www.youtube.com/embed/LinUiYCSE7Q",
         "latitude": -36.9217,
         "longitude": 174.8322
-    },
-    {
-        "title": "Hammer String",
-        "video_url": "https://www.youtube.com/embed/7VGUym-v2AM",
-        "latitude": -42.5854,
-        "longitude": 172.7818
     },
     {
         "title": "Tauranga - Memorial Park Railway #train #newzealand",
@@ -2886,12 +2886,6 @@
         "longitude": 175.6814
     },
     {
-        "title": "Te Anau Bird Sanctuary - Takahe 1",
-        "video_url": "https://www.youtube.com/embed/eqULPsvQKRY",
-        "latitude": -45.4331,
-        "longitude": 167.7135
-    },
-    {
         "title": "Omaru Falls",
         "video_url": "https://www.youtube.com/embed/iDNciOPmHOo",
         "latitude": -38.525,
@@ -2904,10 +2898,10 @@
         "longitude": 167.7134
     },
     {
-        "title": "Tauranga - Mount Maunganui Track",
-        "video_url": "https://www.youtube.com/embed/YFcN6elfqTE",
-        "latitude": -37.6262,
-        "longitude": 176.1752
+        "title": "2023 Tauranga Bay Superbowl and Fireworks",
+        "video_url": "https://www.youtube.com/embed/DJJAuPMIsdc",
+        "latitude": -37.6845,
+        "longitude": 176.2253
     },
     {
         "title": "2023 Tauranga Bay Superbowl and Fireworks",
