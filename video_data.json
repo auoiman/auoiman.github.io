@@ -48,6 +48,12 @@
         "longitude": 170.5083
     },
     {
+        "title": "Kepler Track - Luxmore Hut to Iris Burn Hut",
+        "video_url": "https://www.youtube.com/embed/5DVmU-AUIqI",
+        "latitude": -45.3947,
+        "longitude": 167.5162
+    },
+    {
         "title": "Glenorchy - Isengard Lookout",
         "video_url": "https://www.youtube.com/embed/ds6DGYMQxLk",
         "latitude": -44.7737,
@@ -78,22 +84,10 @@
         "longitude": 174.7829
     },
     {
-        "title": "Timaru - Caroline Bay Playground - 3",
-        "video_url": "https://www.youtube.com/embed/qK1cELmgUoE",
-        "latitude": -44.3887,
-        "longitude": 171.2464
-    },
-    {
         "title": "Christchurch - Christchurch Adventure Park Cafe",
         "video_url": "https://www.youtube.com/embed/ZamTnvIdSe8",
         "latitude": -43.5917,
         "longitude": 172.6316
-    },
-    {
-        "title": "Routeburn Track - Routeburn Shelter to Lake Mackenzie Hut - Day 2",
-        "video_url": "https://www.youtube.com/embed/ZEMCpf1LN6E",
-        "latitude": -44.7262,
-        "longitude": 168.1984
     },
     {
         "title": "Routeburn Track - Routeburn Shelter to Lake Mackenzie Hut - Day 2",
@@ -102,28 +96,10 @@
         "longitude": 168.1931
     },
     {
-        "title": "Routeburn Track - Routeburn Shelter to Routeburn Falls Hut - Day 1",
-        "video_url": "https://www.youtube.com/embed/1PdZ5qrfwzM",
-        "latitude": -44.7124,
-        "longitude": 168.2687
-    },
-    {
-        "title": "Domett - Cathedral Gully",
-        "video_url": "https://www.youtube.com/embed/f6eKMVSjNyE",
-        "latitude": -42.8679,
-        "longitude": 173.3043
-    },
-    {
         "title": "Port Chalmers - Aramoana Beach - Keyhole rock, sand dune",
         "video_url": "https://www.youtube.com/embed/rVcsY7e238A",
         "latitude": -45.772,
         "longitude": 170.702
-    },
-    {
-        "title": "Rotorua - Waiotapu Mud Pool",
-        "video_url": "https://www.youtube.com/embed/MCvZdGgLR-I",
-        "latitude": -38.342,
-        "longitude": 176.3696
     },
     {
         "title": "Dunedin - Long Beach - 2",
@@ -136,12 +112,6 @@
         "video_url": "https://www.youtube.com/embed/ElGpvjqe7jE",
         "latitude": -44.3893,
         "longitude": 171.2465
-    },
-    {
-        "title": "Kepler Track - Luxmore Hut to Iris Burn Hut",
-        "video_url": "https://www.youtube.com/embed/5DVmU-AUIqI",
-        "latitude": -45.3947,
-        "longitude": 167.5162
     },
     {
         "title": "Auckland - Western Springs Park Playground",
@@ -192,12 +162,6 @@
         "longitude": 167.7093
     },
     {
-        "title": "The Catlins - Florence Hill Lookout",
-        "video_url": "https://www.youtube.com/embed/TcQz5ICMEiU",
-        "latitude": -46.5745,
-        "longitude": 169.4593
-    },
-    {
         "title": "Foxton Beach",
         "video_url": "https://www.youtube.com/embed/eG9IHYnyMVQ",
         "latitude": -40.4573,
@@ -240,6 +204,12 @@
         "longitude": 172.7431
     },
     {
+        "title": "Dunedin - University of Otago - Water of Leith",
+        "video_url": "https://www.youtube.com/embed/_qmd6j1DM_8",
+        "latitude": -45.8637,
+        "longitude": 170.5145
+    },
+    {
         "title": "Routeburn Track - Routeburn Shelter to Lake Mackenzie Hut - Day 2",
         "video_url": "https://www.youtube.com/embed/ueo85E6bYLw",
         "latitude": -44.7274,
@@ -276,40 +246,16 @@
         "longitude": 176.919
     },
     {
-        "title": "Karangahake Gorge - Tunnel",
-        "video_url": "https://www.youtube.com/embed/CAtor1UrGIw",
-        "latitude": -37.4183,
-        "longitude": 175.7191
-    },
-    {
-        "title": "Timaru - Caroline Bay Beach",
-        "video_url": "https://www.youtube.com/embed/gIRK6a1z07k",
-        "latitude": -44.3866,
-        "longitude": 171.2495
-    },
-    {
-        "title": "Tasman - Split apple rock",
-        "video_url": "https://www.youtube.com/embed/kFZNInlW_IA",
-        "latitude": -41.0183,
-        "longitude": 173.0187
+        "title": "Blenheim - Omaka Landing Reserve",
+        "video_url": "https://www.youtube.com/embed/FRnjcfGo19E",
+        "latitude": -41.5318,
+        "longitude": 173.93
     },
     {
         "title": "Wellington - Point Halswell Lighthouse",
         "video_url": "https://www.youtube.com/embed/ydBcdp72f-w",
         "latitude": -41.2842,
         "longitude": 174.8259
-    },
-    {
-        "title": "Karangahake Gorge - Tunnel",
-        "video_url": "https://www.youtube.com/embed/CAtor1UrGIw",
-        "latitude": -37.4183,
-        "longitude": 175.7191
-    },
-    {
-        "title": "The Three Sisters",
-        "video_url": "https://www.youtube.com/embed/ThqeGyPS9ls",
-        "latitude": -38.8164,
-        "longitude": 174.5838
     },
     {
         "title": "Routeburn Track - Routeburn Shelter to Lake Mackenzie Hut - Day 2",
@@ -324,58 +270,16 @@
         "longitude": 175.7312
     },
     {
-        "title": "Interislander - Approaching Picton Ferry",
-        "video_url": "https://www.youtube.com/embed/v0rs82m3hEU",
-        "latitude": -41.2786,
-        "longitude": 174.0089
+        "title": "Auckland - Muriwai Beach - Horse-riding",
+        "video_url": "https://www.youtube.com/embed/ws68Zh8M2mc",
+        "latitude": -36.8113,
+        "longitude": 174.4175
     },
     {
-        "title": "Cheviot - Gore Bay",
-        "video_url": "https://www.youtube.com/embed/xdsfFAHx1Uc",
-        "latitude": -42.8645,
-        "longitude": 173.3083
-    },
-    {
-        "title": "Tauranga - Walk to Mt Maunganui - SH2",
-        "video_url": "https://www.youtube.com/embed/KaP3pDR6fh4",
-        "latitude": -37.675,
-        "longitude": 176.1774
-    },
-    {
-        "title": "Waikanae Beach",
-        "video_url": "https://www.youtube.com/embed/w6CgfNbdvbI",
-        "latitude": -40.871,
-        "longitude": 175.0039
-    },
-    {
-        "title": "The Victoria Esplanade Minitrain",
-        "video_url": "https://www.youtube.com/embed/NiSbYQ6epCQ",
-        "latitude": -40.3715,
-        "longitude": 175.618
-    },
-    {
-        "title": "Wellington - View of City and Sea",
-        "video_url": "https://www.youtube.com/embed/g96brDUFiAE",
-        "latitude": -41.29,
-        "longitude": 174.79
-    },
-    {
-        "title": "Fortrose - Cliffs at Fortrose (Mataura River Mouth)",
-        "video_url": "https://www.youtube.com/embed/jbB7e8rbJ60",
-        "latitude": -46.5859,
-        "longitude": 168.8001
-    },
-    {
-        "title": "Bay of Plenty - The Lakes Waterpark",
-        "video_url": "https://www.youtube.com/embed/FDgdnkOhDzI",
-        "latitude": -37.7646,
-        "longitude": 176.1143
-    },
-    {
-        "title": "Tasman Bay - Split Apple Rock",
-        "video_url": "https://www.youtube.com/embed/qoggFcE8p5w",
-        "latitude": -41.01835,
-        "longitude": 173.01842
+        "title": "Routeburn Track - Routeburn Shelter to Routeburn Falls Hut - Day 1",
+        "video_url": "https://www.youtube.com/embed/Pa7q5cTNeL4",
+        "latitude": -44.711,
+        "longitude": 168.2587
     },
     {
         "title": "Napier - Marine Parade viewing platform",
@@ -384,10 +288,34 @@
         "longitude": 176.9202
     },
     {
+        "title": "Timaru - Caroline Bay Beach",
+        "video_url": "https://www.youtube.com/embed/gIRK6a1z07k",
+        "latitude": -44.3866,
+        "longitude": 171.2495
+    },
+    {
+        "title": "Waikanae Beach",
+        "video_url": "https://www.youtube.com/embed/w6CgfNbdvbI",
+        "latitude": -40.871,
+        "longitude": 175.0039
+    },
+    {
         "title": "Keeley reserve - Wakesurfing",
         "video_url": "https://www.youtube.com/embed/L6-K8M6w4xM",
         "latitude": -37.9463,
         "longitude": 175.5852
+    },
+    {
+        "title": "Tauranga - Walk to Mt Maunganui - SH2",
+        "video_url": "https://www.youtube.com/embed/KaP3pDR6fh4",
+        "latitude": -37.675,
+        "longitude": 176.1774
+    },
+    {
+        "title": "Cheviot - Gore Bay",
+        "video_url": "https://www.youtube.com/embed/xdsfFAHx1Uc",
+        "latitude": -42.8645,
+        "longitude": 173.3083
     },
     {
         "title": "Tongariro Northern Circuit - Day 1/4 - Mangatepopo Hut",
@@ -396,22 +324,10 @@
         "longitude": 175.5967
     },
     {
-        "title": "The Lakes Waterpark #newzealand",
-        "video_url": "https://www.youtube.com/embed/15MrEU0u_uA",
-        "latitude": -37.7642,
-        "longitude": 176.1147
-    },
-    {
-        "title": "Auckland - Commercial Bay",
-        "video_url": "https://www.youtube.com/embed/Y0GaeM6P18Q",
-        "latitude": -36.8438,
-        "longitude": 174.7662
-    },
-    {
-        "title": "Bay of Plenty - Karangahake Gorge Historic Walkway",
-        "video_url": "https://www.youtube.com/embed/Ko4K5ksyax0",
-        "latitude": -37.4239,
-        "longitude": 175.7222
+        "title": "The Victoria Esplanade Minitrain",
+        "video_url": "https://www.youtube.com/embed/NiSbYQ6epCQ",
+        "latitude": -40.3715,
+        "longitude": 175.618
     },
     {
         "title": "Auckland - Kiwi Esplanade",
@@ -420,22 +336,22 @@
         "longitude": 174.7658
     },
     {
-        "title": "Nelson - Branford Park - Black Hole",
-        "video_url": "https://www.youtube.com/embed/_9Qlcpc6twI",
-        "latitude": -41.2743,
-        "longitude": 173.3069
+        "title": "Routeburn Track - Routeburn Shelter to Routeburn Falls Hut - Day 1",
+        "video_url": "https://www.youtube.com/embed/1PdZ5qrfwzM",
+        "latitude": -44.7124,
+        "longitude": 168.2687
     },
     {
-        "title": "Cardrona - Bradrona",
-        "video_url": "https://www.youtube.com/embed/4CXrCH-qO60",
-        "latitude": -44.8634,
-        "longitude": 169.0188
+        "title": "Tasman - Split apple rock",
+        "video_url": "https://www.youtube.com/embed/kFZNInlW_IA",
+        "latitude": -41.0183,
+        "longitude": 173.0187
     },
     {
-        "title": "Skyline Rotorua - Luge",
-        "video_url": "https://www.youtube.com/embed/biwrkSX-A-A",
-        "latitude": -38.1131,
-        "longitude": 176.2144
+        "title": "Dunedin - Long Dog Cafe",
+        "video_url": "https://www.youtube.com/embed/wEOCbRO_hss",
+        "latitude": -45.9138,
+        "longitude": 170.4881
     },
     {
         "title": "Bay of Plenty - Kaiate Falls",
@@ -444,58 +360,16 @@
         "longitude": 176.2412
     },
     {
-        "title": "Ashburton - Clock Tower",
-        "video_url": "https://www.youtube.com/embed/U-LJDjOY4No",
-        "latitude": -43.9031,
-        "longitude": 171.75
+        "title": "Wellington - View of City and Sea",
+        "video_url": "https://www.youtube.com/embed/g96brDUFiAE",
+        "latitude": -41.29,
+        "longitude": 174.79
     },
     {
-        "title": "Routeburn Track - Routeburn Shelter to Routeburn Falls Hut - Day 1",
-        "video_url": "https://www.youtube.com/embed/lpfGYJOk_uI",
-        "latitude": -44.7163,
-        "longitude": 168.2441
-    },
-    {
-        "title": "Christchurch - Margret Mahy Family Playground",
-        "video_url": "https://www.youtube.com/embed/VkcwOrM4g4c",
-        "latitude": -43.5282,
-        "longitude": 172.6414
-    },
-    {
-        "title": "Port Chalmers - Aramoana Beach - 3",
-        "video_url": "https://www.youtube.com/embed/mkNjq5kUYPQ",
-        "latitude": -45.774,
-        "longitude": 170.7055
-    },
-    {
-        "title": "Kepler Track - Luxmore Hut to Iris Burn Hut",
-        "video_url": "https://www.youtube.com/embed/AnXavhKsokw",
-        "latitude": -45.3857,
-        "longitude": 167.6002
-    },
-    {
-        "title": "Wellington - View of Point Dorset",
-        "video_url": "https://www.youtube.com/embed/LHpCuasDMl4",
-        "latitude": -41.329,
-        "longitude": 174.8346
-    },
-    {
-        "title": "Herbertville - Seaview Road",
-        "video_url": "https://www.youtube.com/embed/6svZEzvS8S4",
-        "latitude": -40.5048,
-        "longitude": 176.5447
-    },
-    {
-        "title": "Memorial Park Railway, Tauranga",
-        "video_url": "https://www.youtube.com/embed/XXCGtwrLjgg",
-        "latitude": -37.69903,
-        "longitude": 176.163876
-    },
-    {
-        "title": "Riverton - Howells Point Reserve",
-        "video_url": "https://www.youtube.com/embed/NX1KqebXt44",
-        "latitude": -46.3841,
-        "longitude": 168.0362
+        "title": "Cardrona - Bradrona",
+        "video_url": "https://www.youtube.com/embed/4CXrCH-qO60",
+        "latitude": -44.8634,
+        "longitude": 169.0188
     },
     {
         "title": "New Plymouth - Climbing Paritutu Rock",
@@ -504,34 +378,34 @@
         "longitude": 174.0235
     },
     {
-        "title": "Cape Palliser - Ngawi Bay",
-        "video_url": "https://www.youtube.com/embed/-SrqXw1v2g4",
-        "latitude": -41.5863,
-        "longitude": 175.2342
-    },
-    {
-        "title": "Waikouaiti - Hawksbury Lagoon Wildlife Refuge - Waikouaiti Beach",
-        "video_url": "https://www.youtube.com/embed/t1ac6HPN7eE",
-        "latitude": -45.6098,
-        "longitude": 170.6824
+        "title": "Ashburton - Clock Tower",
+        "video_url": "https://www.youtube.com/embed/U-LJDjOY4No",
+        "latitude": -43.9031,
+        "longitude": 171.75
     },
     {
         "title": "Kepler Track - Luxmore Hut to Iris Burn Hut",
-        "video_url": "https://www.youtube.com/embed/aN9mFfmYjmE",
-        "latitude": -45.3932,
-        "longitude": 167.5244
+        "video_url": "https://www.youtube.com/embed/AnXavhKsokw",
+        "latitude": -45.3857,
+        "longitude": 167.6002
     },
     {
-        "title": "Roseneath Park & Lookout",
-        "video_url": "https://www.youtube.com/embed/PtgqfEia9Eo",
-        "latitude": -41.289,
-        "longitude": 174.8
+        "title": "Tasman Bay - Split Apple Rock",
+        "video_url": "https://www.youtube.com/embed/qoggFcE8p5w",
+        "latitude": -41.01835,
+        "longitude": 173.01842
     },
     {
-        "title": "Dunedin - Macandrew Bay Beach",
-        "video_url": "https://www.youtube.com/embed/n0emvPm6R4o",
-        "latitude": -45.8677,
-        "longitude": 170.5974
+        "title": "Auckland - Commercial Bay",
+        "video_url": "https://www.youtube.com/embed/Y0GaeM6P18Q",
+        "latitude": -36.8438,
+        "longitude": 174.7662
+    },
+    {
+        "title": "Port Chalmers - Aramoana Beach - 3",
+        "video_url": "https://www.youtube.com/embed/mkNjq5kUYPQ",
+        "latitude": -45.774,
+        "longitude": 170.7055
     },
     {
         "title": "Auckland - Huana Falls",
@@ -540,28 +414,130 @@
         "longitude": 175.0897
     },
     {
-        "title": "Interislander - Approaching Picton",
-        "video_url": "https://www.youtube.com/embed/ZiTrlWdhiuk",
-        "latitude": -41.289,
-        "longitude": 174.0089
-    },
-    {
         "title": "Karangahake Gorge",
         "video_url": "https://www.youtube.com/embed/39VxBCTWqeE",
         "latitude": -37.4183,
         "longitude": 175.7182
     },
     {
-        "title": "Auckland - Devonport - The Summit",
-        "video_url": "https://www.youtube.com/embed/76eW166Rle8",
-        "latitude": -36.8271,
-        "longitude": 174.8117
+        "title": "Fortrose - Cliffs at Fortrose (Mataura River Mouth)",
+        "video_url": "https://www.youtube.com/embed/jbB7e8rbJ60",
+        "latitude": -46.5859,
+        "longitude": 168.8001
     },
     {
-        "title": "Mangapouri - Fraser Beach",
-        "video_url": "https://www.youtube.com/embed/pDPijI8n58g",
-        "latitude": -45.5623,
-        "longitude": 167.6126
+        "title": "Routeburn Track - Routeburn Shelter to Routeburn Falls Hut - Day 1",
+        "video_url": "https://www.youtube.com/embed/lpfGYJOk_uI",
+        "latitude": -44.7163,
+        "longitude": 168.2441
+    },
+    {
+        "title": "Whangamata - Whangamata Beach",
+        "video_url": "https://www.youtube.com/embed/oSKg0blLQlo",
+        "latitude": -36.706,
+        "longitude": 175.6084
+    },
+    {
+        "title": "Wellington - View of Point Dorset",
+        "video_url": "https://www.youtube.com/embed/LHpCuasDMl4",
+        "latitude": -41.329,
+        "longitude": 174.8346
+    },
+    {
+        "title": "Tauranga - Walk to Mt. Maunganui",
+        "video_url": "https://www.youtube.com/embed/p5I2zkind5I",
+        "latitude": -37.675,
+        "longitude": 176.1752
+    },
+    {
+        "title": "Riverton - Howells Point Reserve",
+        "video_url": "https://www.youtube.com/embed/NX1KqebXt44",
+        "latitude": -46.3841,
+        "longitude": 168.0362
+    },
+    {
+        "title": "Bay of Plenty - Karangahake Gorge Historic Walkway",
+        "video_url": "https://www.youtube.com/embed/Ko4K5ksyax0",
+        "latitude": -37.4239,
+        "longitude": 175.7222
+    },
+    {
+        "title": "Christchurch - Margret Mahy Family Playground",
+        "video_url": "https://www.youtube.com/embed/VkcwOrM4g4c",
+        "latitude": -43.5282,
+        "longitude": 172.6414
+    },
+    {
+        "title": "Interislander - Approaching Picton Ferry",
+        "video_url": "https://www.youtube.com/embed/v0rs82m3hEU",
+        "latitude": -41.2786,
+        "longitude": 174.0089
+    },
+    {
+        "title": "Waikouaiti - Hawksbury Lagoon Wildlife Refuge - Waikouaiti Beach",
+        "video_url": "https://www.youtube.com/embed/t1ac6HPN7eE",
+        "latitude": -45.6098,
+        "longitude": 170.6824
+    },
+    {
+        "title": "Rotorua - Tupapakurua Stream",
+        "video_url": "https://www.youtube.com/embed/WEpPas7hPoc",
+        "latitude": -38.0716,
+        "longitude": 176.2155
+    },
+    {
+        "title": "The Catlins - Nugget Point Rocks/ Lighthouse",
+        "video_url": "https://www.youtube.com/embed/NrlnEwvAQ5c",
+        "latitude": -46.4477,
+        "longitude": 169.8152
+    },
+    {
+        "title": "Bay of Plenty - The Lakes Waterpark",
+        "video_url": "https://www.youtube.com/embed/FDgdnkOhDzI",
+        "latitude": -37.7646,
+        "longitude": 176.1143
+    },
+    {
+        "title": "Akitio Fish and Chips",
+        "video_url": "https://www.youtube.com/embed/BMGRk-JHcoo",
+        "latitude": -40.62,
+        "longitude": 176.415
+    },
+    {
+        "title": "Whanganui River near Kowhai Park",
+        "video_url": "https://www.youtube.com/embed/fy7Miekgjm0",
+        "latitude": -39.9216,
+        "longitude": 175.0537
+    },
+    {
+        "title": "Kepler Track - Luxmore Hut to Iris Burn Hut",
+        "video_url": "https://www.youtube.com/embed/aN9mFfmYjmE",
+        "latitude": -45.3932,
+        "longitude": 167.5244
+    },
+    {
+        "title": "Akitio Esplanade",
+        "video_url": "https://www.youtube.com/embed/abGVR-tmzQA",
+        "latitude": -40.6192,
+        "longitude": 176.4147
+    },
+    {
+        "title": "Routeburn Track - Routeburn Shelter to Lake Mackenzie Hut - Day 2",
+        "video_url": "https://www.youtube.com/embed/zTYmKaPSwec",
+        "latitude": -44.7609,
+        "longitude": 168.1665
+    },
+    {
+        "title": "Kepler Track - Luxmore Hut to Iris Burn Hut",
+        "video_url": "https://www.youtube.com/embed/7jdpb-a5BhA",
+        "latitude": -45.3933,
+        "longitude": 167.5247
+    },
+    {
+        "title": "Wellington - Mount Victoria Lookout",
+        "video_url": "https://www.youtube.com/embed/Ejgc4K6ttyg",
+        "latitude": -41.296,
+        "longitude": 174.7943
     },
     {
         "title": "Auckland - Devonport - The Summit",
@@ -582,28 +558,22 @@
         "longitude": 175.2967
     },
     {
-        "title": "Coromandel - Tapu Beach",
-        "video_url": "https://www.youtube.com/embed/Hly_trfy5D0",
-        "latitude": -36.988,
-        "longitude": 175.5014
-    },
-    {
         "title": "Nelson - Branford Park - Branford Playground",
         "video_url": "https://www.youtube.com/embed/c39sPkbUa9I",
         "latitude": -41.2737,
         "longitude": 173.3065
     },
     {
-        "title": "Auckland - Piha Beach",
-        "video_url": "https://www.youtube.com/embed/KwGRiMMAv5g",
-        "latitude": -36.9574,
-        "longitude": 174.4677
-    },
-    {
         "title": "Auckland - Lake pupuke",
         "video_url": "https://www.youtube.com/embed/hB2i8Dn1hT0",
         "latitude": -36.7755,
         "longitude": 174.7653
+    },
+    {
+        "title": "Dunedin - Royal Albatross Centre - Waiwhakaheke Seabird Lookout",
+        "video_url": "https://www.youtube.com/embed/r9xwfYbY87c",
+        "latitude": -45.7762,
+        "longitude": 170.7286
     },
     {
         "title": "Interislander - Approaching Picton",
@@ -642,12 +612,6 @@
         "longitude": 175.0182
     },
     {
-        "title": "Routeburn Track - Routeburn Shelter to Routeburn Falls Hut - Day 1",
-        "video_url": "https://www.youtube.com/embed/Pa7q5cTNeL4",
-        "latitude": -44.711,
-        "longitude": 168.2587
-    },
-    {
         "title": "Mossburn War Memorial Park",
         "video_url": "https://www.youtube.com/embed/27A1V-CvAEM",
         "latitude": -45.668,
@@ -670,12 +634,6 @@
         "video_url": "https://www.youtube.com/embed/6xGEZmJo5nY",
         "latitude": -37.7598,
         "longitude": 176.4841
-    },
-    {
-        "title": "Auckland - Mount Eden Board Walk",
-        "video_url": "https://www.youtube.com/embed/ynhSHZY_aTQ",
-        "latitude": -36.8778,
-        "longitude": 174.7637
     },
     {
         "title": "Bay of Plenty - Maramarua Park",
@@ -708,12 +666,6 @@
         "longitude": 167.6126
     },
     {
-        "title": "The Catlins - Nugget Point Rocks/ Lighthouse",
-        "video_url": "https://www.youtube.com/embed/NrlnEwvAQ5c",
-        "latitude": -46.4477,
-        "longitude": 169.8152
-    },
-    {
         "title": "Whangamata - Whangamata Beach",
         "video_url": "https://www.youtube.com/embed/yRVK7Ego4s0",
         "latitude": -37.2154,
@@ -726,22 +678,16 @@
         "longitude": 174.7921
     },
     {
-        "title": "Karangahake Gorge",
-        "video_url": "https://www.youtube.com/embed/kYjpgq-y6dI",
-        "latitude": -37.421,
-        "longitude": 175.731
+        "title": "Whanganui - North Mole",
+        "video_url": "https://www.youtube.com/embed/iT8OoeIo3L4",
+        "latitude": -39.9487,
+        "longitude": 174.9802
     },
     {
         "title": "Kepler Track - Luxmore Hut to Iris Burn Hut",
         "video_url": "https://www.youtube.com/embed/8jY15mHdFuI",
         "latitude": -45.3928,
         "longitude": 167.5253
-    },
-    {
-        "title": "Whanganui - North Mole",
-        "video_url": "https://www.youtube.com/embed/iT8OoeIo3L4",
-        "latitude": -39.9487,
-        "longitude": 174.9802
     },
     {
         "title": "Auckland - Kiwi Esplanade",
@@ -804,28 +750,22 @@
         "longitude": 172.6696
     },
     {
+        "title": "Lake Pukaki",
+        "video_url": "https://www.youtube.com/embed/SEGHuz5G2Tw",
+        "latitude": -44.168,
+        "longitude": 170.2086
+    },
+    {
         "title": "Routeburn Track - Lake Mackenzie Hut to The Divide Shelter - Day 3",
         "video_url": "https://www.youtube.com/embed/7b_5gb1mtsM",
         "latitude": -44.8249,
         "longitude": 168.1176
     },
     {
-        "title": "New Zealand - The Longest Place Name in The World",
-        "video_url": "https://www.youtube.com/embed/fy0Y_9nPaTQ",
-        "latitude": -40.344,
-        "longitude": 176.5835
-    },
-    {
         "title": "Whangarei Falls",
         "video_url": "https://www.youtube.com/embed/Jsnc72LRoso",
         "latitude": -35.6842,
         "longitude": 174.3357
-    },
-    {
-        "title": "Tongariro Northern Circuit - Day 2/4",
-        "video_url": "https://www.youtube.com/embed/4-7pBKy1_eU",
-        "latitude": -39.1413,
-        "longitude": 175.6097
     },
     {
         "title": "Routeburn Track - Lake Mackenzie Hut to The Divide Shelter - Day 3",
@@ -850,12 +790,6 @@
         "video_url": "https://www.youtube.com/embed/hNkxv1QcJy8",
         "latitude": -36.8312,
         "longitude": 174.4254
-    },
-    {
-        "title": "Auckland - Piha Beach",
-        "video_url": "https://www.youtube.com/embed/ptosMjiWTTg",
-        "latitude": -36.9593,
-        "longitude": 174.4651
     },
     {
         "title": "Tongariro Northern Circuit - Day 3/4 - Waihohonu Hut",
@@ -924,12 +858,6 @@
         "longitude": 168.326
     },
     {
-        "title": "Tauranga - Mount Maunganui Track",
-        "video_url": "https://www.youtube.com/embed/yTyQ1UkCixo",
-        "latitude": -37.6323,
-        "longitude": 176.1691
-    },
-    {
         "title": "Khandallah School Playground",
         "video_url": "https://www.youtube.com/embed/qjNs_ebMUcQ",
         "latitude": -41.2436,
@@ -958,12 +886,6 @@
         "video_url": "https://www.youtube.com/embed/M74rrFi5Nxs",
         "latitude": -39.9227,
         "longitude": 175.0553
-    },
-    {
-        "title": "Whataroa - \u014ck\u0101rito Beach",
-        "video_url": "https://www.youtube.com/embed/EsbLvl6c7qg",
-        "latitude": -43.2236,
-        "longitude": 170.1563
     },
     {
         "title": "Queenstown - Queenstown Garden Waterfront - Frankton Arm",
@@ -996,12 +918,6 @@
         "longitude": 168.3937
     },
     {
-        "title": "Kaikorua - Peninsula Walkway - 3",
-        "video_url": "https://www.youtube.com/embed/O9n1rEjIWQ4",
-        "latitude": -42.4269,
-        "longitude": 173.7083
-    },
-    {
         "title": "Cardrona Alpine Resort - Entrance",
         "video_url": "https://www.youtube.com/embed/kjHVQbHYTVs",
         "latitude": -44.8733,
@@ -1024,12 +940,6 @@
         "video_url": "https://www.youtube.com/embed/3ePwIzOiBmE",
         "latitude": -36.8414,
         "longitude": 174.7604
-    },
-    {
-        "title": "Tauranga - Kulim Park",
-        "video_url": "https://www.youtube.com/embed/FNHm8M02B6k",
-        "latitude": -37.6645,
-        "longitude": 176.1465
     },
     {
         "title": "Interislander Ferry - Wellington to Picton - Approaching South Island",
@@ -1072,12 +982,6 @@
         "video_url": "https://www.youtube.com/embed/9zRxzqJR9vk",
         "latitude": -41.2799,
         "longitude": 174.0023
-    },
-    {
-        "title": "Tongariro Northern Circuit - Day 3/4",
-        "video_url": "https://www.youtube.com/embed/3eHsQr1_M9Q",
-        "latitude": -39.1978,
-        "longitude": 175.5657
     },
     {
         "title": "Tauranga - Maunganui Beach",
@@ -1186,6 +1090,12 @@
         "video_url": "https://www.youtube.com/embed/lY7dt9bmHek",
         "latitude": -44.389,
         "longitude": 171.2465
+    },
+    {
+        "title": "Timaru - Caroline Bay Playground - 3",
+        "video_url": "https://www.youtube.com/embed/qK1cELmgUoE",
+        "latitude": -44.3887,
+        "longitude": 171.2464
     },
     {
         "title": "Wharariki Beach",
@@ -1548,16 +1458,16 @@
         "longitude": 167.531
     },
     {
-        "title": "Cullen Point Lookout",
-        "video_url": "https://www.youtube.com/embed/bURxDmdbM_k",
-        "latitude": -41.2687,
-        "longitude": 173.7845
-    },
-    {
         "title": "Tauranga - Tauranga BMX Club",
         "video_url": "https://www.youtube.com/embed/sv3kT45nslg",
         "latitude": -37.7095,
         "longitude": 176.128
+    },
+    {
+        "title": "Cullen Point Lookout",
+        "video_url": "https://www.youtube.com/embed/bURxDmdbM_k",
+        "latitude": -41.2687,
+        "longitude": 173.7845
     },
     {
         "title": "Wellington - Eastern Walkway",
@@ -1576,12 +1486,6 @@
         "video_url": "https://www.youtube.com/embed/ADcKTn_uQ28",
         "latitude": -45.9139,
         "longitude": 170.4885
-    },
-    {
-        "title": "Tongariro Northern Circuit - Day 4/4",
-        "video_url": "https://www.youtube.com/embed/cah7uFcPmUs",
-        "latitude": -39.208,
-        "longitude": 175.6579
     },
     {
         "title": "Luxmore Hut",
@@ -1620,28 +1524,22 @@
         "longitude": 172.7817
     },
     {
+        "title": "Routeburn Track - Lake Mackenzie Hut to The Divide Shelter - Day 3",
+        "video_url": "https://www.youtube.com/embed/1sUUqJmDSJ0",
+        "latitude": -44.8026,
+        "longitude": 168.158
+    },
+    {
         "title": "Cape Foulwind - View of Tauranga Bay",
         "video_url": "https://www.youtube.com/embed/2qFFwYfSdOg",
         "latitude": -41.7645,
         "longitude": 171.4576
     },
     {
-        "title": "The Catlins - Cathedral Cave",
-        "video_url": "https://www.youtube.com/embed/7JiuCCrBaJY",
-        "latitude": -46.6084,
-        "longitude": 169.3814
-    },
-    {
         "title": "Wellington - Kadso place",
         "video_url": "https://www.youtube.com/embed/zGEqSfjPsr0",
         "latitude": -41.3312,
         "longitude": 174.8226
-    },
-    {
-        "title": "Auckland - Devonport - Mount Victoria Lookout",
-        "video_url": "https://www.youtube.com/embed/-1dyozKnANo",
-        "latitude": -36.8269,
-        "longitude": 174.7985
     },
     {
         "title": "Kepler Track - Luxmore Hut to Iris Burn Hut",
@@ -1660,12 +1558,6 @@
         "video_url": "https://www.youtube.com/embed/B4DSOm0xjts",
         "latitude": -38.0112,
         "longitude": 176.3447
-    },
-    {
-        "title": "Wellington - Makara Walkway",
-        "video_url": "https://www.youtube.com/embed/nL_QFu3YpDg",
-        "latitude": -41.221,
-        "longitude": 174.6926
     },
     {
         "title": "Routeburn Track - Lake Mackenzie Hut to The Divide Shelter - Day 3",
@@ -1690,6 +1582,12 @@
         "video_url": "https://www.youtube.com/embed/c4j9a76Ot8M",
         "latitude": -38.0078,
         "longitude": 176.3426
+    },
+    {
+        "title": "Paek\u0101k\u0101riki Escarpment Track",
+        "video_url": "https://www.youtube.com/embed/PwUlM2Pjkms",
+        "latitude": -41.0028,
+        "longitude": 174.9359
     },
     {
         "title": "Paek\u0101k\u0101riki Escarpment Track",
@@ -1752,6 +1650,12 @@
         "longitude": 168.1584
     },
     {
+        "title": "Dunedin - Brockville Park - Disc Golf",
+        "video_url": "https://www.youtube.com/embed/ipuvMb9jJzc",
+        "latitude": -45.8704,
+        "longitude": 170.4502
+    },
+    {
         "title": "Cape Egmont Lighthouse",
         "video_url": "https://www.youtube.com/embed/yc5NECfQWMQ",
         "latitude": -39.2761,
@@ -1782,16 +1686,16 @@
         "longitude": 168.1993
     },
     {
-        "title": "Waihi Goldmine Lookout Path #goldmines",
-        "video_url": "https://www.youtube.com/embed/oE2oK3c-lE0",
-        "latitude": -37.3875,
-        "longitude": 175.8383
-    },
-    {
         "title": "Wellington - Wellington Wind Turbine",
         "video_url": "https://www.youtube.com/embed/i2dmlfYZ4mw",
         "latitude": -41.3109,
         "longitude": 174.7453
+    },
+    {
+        "title": "Routeburn Track - Routeburn Shelter to Routeburn Falls Hut - Day 1",
+        "video_url": "https://www.youtube.com/embed/tqcqzudsTS8",
+        "latitude": -44.7178,
+        "longitude": 168.2783
     },
     {
         "title": "Farewell Spit Nature Reserve - Coast",
@@ -1866,12 +1770,6 @@
         "longitude": 167.6201
     },
     {
-        "title": "Kepler Track - Luxmore Hut to Iris Burn Hut",
-        "video_url": "https://www.youtube.com/embed/xW51-VlV2RE",
-        "latitude": -45.3822,
-        "longitude": 167.5955
-    },
-    {
         "title": "Nelson - Trafalgar Street",
         "video_url": "https://www.youtube.com/embed/bN3iJK23GtQ",
         "latitude": -41.2748,
@@ -1932,12 +1830,6 @@
         "longitude": 175.2975
     },
     {
-        "title": "Kepler Track - Luxmore Hut to Iris Burn Hut - Double Rainbow",
-        "video_url": "https://www.youtube.com/embed/nb7gs3Ky6t8",
-        "latitude": -45.3944,
-        "longitude": 167.5298
-    },
-    {
         "title": "Wanaka - Lakefront",
         "video_url": "https://www.youtube.com/embed/qs47xXm9Iio",
         "latitude": -44.6959,
@@ -1960,12 +1852,6 @@
         "video_url": "https://www.youtube.com/embed/bra27ohrNXo",
         "latitude": -45.3871,
         "longitude": 167.5763
-    },
-    {
-        "title": "Kepler Track - Luxmore Hut to Iris Burn Hut",
-        "video_url": "https://www.youtube.com/embed/74zESQpQN4M",
-        "latitude": -45.3943,
-        "longitude": 167.5298
     },
     {
         "title": "Kaikorua - Beach near Kaikorua Skate Park",
@@ -2004,12 +1890,6 @@
         "longitude": 176.2191
     },
     {
-        "title": "Ninety Miles Beach",
-        "video_url": "https://www.youtube.com/embed/pY0eLtf98MU",
-        "latitude": -34.8995,
-        "longitude": 173.0851
-    },
-    {
         "title": "Kepler Track - Luxmore Hut to Iris Burn Hut",
         "video_url": "https://www.youtube.com/embed/_nGGwHrbNGE",
         "latitude": -45.3901,
@@ -2032,12 +1912,6 @@
         "video_url": "https://www.youtube.com/embed/cUtFCVL3QjU",
         "latitude": -46.0623,
         "longitude": 168.8275
-    },
-    {
-        "title": "Tongariro Northern Circuit - Day 4/4",
-        "video_url": "https://www.youtube.com/embed/sI6IpHo5Wqg",
-        "latitude": -39.2087,
-        "longitude": 175.6365
     },
     {
         "title": "Freyberg Beach Play Area",
@@ -2070,12 +1944,6 @@
         "longitude": 170.5095
     },
     {
-        "title": "Dunedin - Long Dog Cafe",
-        "video_url": "https://www.youtube.com/embed/wEOCbRO_hss",
-        "latitude": -45.9138,
-        "longitude": 170.4881
-    },
-    {
         "title": "Nelson - Christ Church Cathedral",
         "video_url": "https://www.youtube.com/embed/1CoLfpFnui8",
         "latitude": -41.2752,
@@ -2094,10 +1962,10 @@
         "longitude": 175.468
     },
     {
-        "title": "Routeburn Track - Lake Mackenzie Hut to The Divide Shelter - Day 3",
-        "video_url": "https://www.youtube.com/embed/1sUUqJmDSJ0",
-        "latitude": -44.8026,
-        "longitude": 168.158
+        "title": "Orongorongo River",
+        "video_url": "https://www.youtube.com/embed/-U1xwizFQXE",
+        "latitude": -41.4183,
+        "longitude": 174.9023
     },
     {
         "title": "Routeburn Track - Routeburn Shelter to Lake Mackenzie Hut - Day 2",
@@ -2170,12 +2038,6 @@
         "video_url": "https://www.youtube.com/embed/sVl23EAgNZw",
         "latitude": -45.8975,
         "longitude": 170.6502
-    },
-    {
-        "title": "Dunedin - Brighton Beach 2",
-        "video_url": "https://www.youtube.com/embed/FzReBorwa4w",
-        "latitude": -45.947,
-        "longitude": 170.3349
     },
     {
         "title": "Wellington - Airport Lookout",
@@ -2286,6 +2148,12 @@
         "longitude": 175.6124
     },
     {
+        "title": "Lake Pukaki",
+        "video_url": "https://www.youtube.com/embed/-jiR224pslc",
+        "latitude": -44.1534,
+        "longitude": 170.1348
+    },
+    {
         "title": "Wellington - Makara Walkway",
         "video_url": "https://www.youtube.com/embed/bbmbvPfZxBA",
         "latitude": -41.2157,
@@ -2308,12 +2176,6 @@
         "video_url": "https://www.youtube.com/embed/JXklecA73Xc",
         "latitude": -40.5048,
         "longitude": 172.6722
-    },
-    {
-        "title": "Tongariro Northern Circuit - Day 3/4 - Taranaki Falls",
-        "video_url": "https://www.youtube.com/embed/ho1TcuAXF8k",
-        "latitude": -39.1972,
-        "longitude": 175.5644
     },
     {
         "title": "Mangorei Track to Pouakai Tarn",
@@ -2358,12 +2220,6 @@
         "longitude": 176.0901
     },
     {
-        "title": "Cape Pallier - Ngawi tractors",
-        "video_url": "https://www.youtube.com/embed/e2SJCdTOAtk",
-        "latitude": -41.5861,
-        "longitude": 175.2356
-    },
-    {
         "title": "Routeburn Track - Routeburn Shelter to Lake Mackenzie Hut - Day 2",
         "video_url": "https://www.youtube.com/embed/32XU4DRF4ws",
         "latitude": -44.7263,
@@ -2380,12 +2236,6 @@
         "video_url": "https://www.youtube.com/embed/YvCeg-vlD7o",
         "latitude": -45.3947,
         "longitude": 167.5165
-    },
-    {
-        "title": "Three Sisters and the Elephant",
-        "video_url": "https://www.youtube.com/embed/Om-Y90kVjLQ",
-        "latitude": -38.8162,
-        "longitude": 174.5842
     },
     {
         "title": "Kepler Track - Luxmore Hut to Iris Burn Hut",
@@ -2410,6 +2260,12 @@
         "video_url": "https://www.youtube.com/embed/n95MwQINdh0",
         "latitude": -45.1839,
         "longitude": 167.8685
+    },
+    {
+        "title": "Queenstown - Wilson Bay View",
+        "video_url": "https://www.youtube.com/embed/ybf0wCmndA8",
+        "latitude": -45.0605,
+        "longitude": 168.5665
     },
     {
         "title": "Coromandel - New Chums Beach",
@@ -2454,22 +2310,10 @@
         "longitude": 167.6002
     },
     {
-        "title": "Auckland - Devonport - Cozy Beach",
-        "video_url": "https://www.youtube.com/embed/fHgXRNQZ0Yk",
-        "latitude": -36.8263,
-        "longitude": 174.8135
-    },
-    {
         "title": "Nelson - Centre of New Zealand Monument",
         "video_url": "https://www.youtube.com/embed/Frc9HV3ei1g",
         "latitude": -41.2728,
         "longitude": 173.2994
-    },
-    {
-        "title": "Wellington - Mount Kaukau Summit Lookout",
-        "video_url": "https://www.youtube.com/embed/TJGYWbpzmRU",
-        "latitude": -41.2342,
-        "longitude": 174.7798
     },
     {
         "title": "Kepler Track - Luxmore Hut to Iris Burn Hut",
@@ -2616,12 +2460,6 @@
         "longitude": 172.682
     },
     {
-        "title": "Kepler Track - Kepler Track Carpark to Luxmore Hut",
-        "video_url": "https://www.youtube.com/embed/Hy6EnB5nqjM",
-        "latitude": -45.3976,
-        "longitude": 167.6353
-    },
-    {
         "title": "Clyde - Clyde Dam Upper Lookout",
         "video_url": "https://www.youtube.com/embed/qauTzNHlCNM",
         "latitude": -45.1749,
@@ -2638,6 +2476,12 @@
         "video_url": "https://www.youtube.com/embed/YNTG3tLYHWY",
         "latitude": -41.2707,
         "longitude": 173.2842
+    },
+    {
+        "title": "The Catlins - Nugget Point Rocks",
+        "video_url": "https://www.youtube.com/embed/rD4XY0RyphY",
+        "latitude": -46.4481,
+        "longitude": 169.8169
     },
     {
         "title": "Routeburn Track - Lake Mackenzie Hut to The Divide Shelter - Day 3",
@@ -2674,18 +2518,6 @@
         "video_url": "https://www.youtube.com/embed/l9cUpssxmEM",
         "latitude": -38.4764,
         "longitude": 174.6399
-    },
-    {
-        "title": "Okere Falls / Tutea Falls",
-        "video_url": "https://www.youtube.com/embed/0FzdlOGtApo",
-        "latitude": -38.0138,
-        "longitude": 176.3443
-    },
-    {
-        "title": "Tongariro Northern Circuit - Day 1/4",
-        "video_url": "https://www.youtube.com/embed/NN5xckofmEE",
-        "latitude": -39.1508,
-        "longitude": 175.5871
     },
     {
         "title": "Routeburn Track - Routeburn Shelter to Lake Mackenzie Hut - Day 2",
@@ -2760,18 +2592,6 @@
         "longitude": 168.6228
     },
     {
-        "title": "Tongariro Northern Circuit - Day 2/4",
-        "video_url": "https://www.youtube.com/embed/jBIpB2BuxkM",
-        "latitude": -39.1455,
-        "longitude": 175.6285
-    },
-    {
-        "title": "Kepler Track - Luxmore Hut to Iris Burn Hut",
-        "video_url": "https://www.youtube.com/embed/uyjVdpdOhog",
-        "latitude": -45.3943,
-        "longitude": 167.5298
-    },
-    {
         "title": "Kepler Track - Luxmore Hut to Iris Burn Hut",
         "video_url": "https://www.youtube.com/embed/y_SuJvPo_Nk",
         "latitude": -45.395,
@@ -2821,6 +2641,12 @@
     },
     {
         "title": "Routeburn Track - Routeburn Shelter to Lake Mackenzie Hut - Day 2",
+        "video_url": "https://www.youtube.com/embed/Oobsg1GqUtY",
+        "latitude": -44.7439,
+        "longitude": 168.164
+    },
+    {
+        "title": "Routeburn Track - Routeburn Shelter to Lake Mackenzie Hut - Day 2",
         "video_url": "https://www.youtube.com/embed/g0ixM9ak9r8",
         "latitude": -44.7333,
         "longitude": 168.1867
@@ -2842,12 +2668,6 @@
         "video_url": "https://www.youtube.com/embed/uWw8CpY0c0Q",
         "latitude": -39.1975,
         "longitude": 175.5805
-    },
-    {
-        "title": "Mangorei Track to Pouakai Tarn",
-        "video_url": "https://www.youtube.com/embed/uzqbyZMY8Ug",
-        "latitude": -39.2328,
-        "longitude": 174.037
     },
     {
         "title": "Gore - Dolamore Park",
@@ -2898,10 +2718,10 @@
         "longitude": 175.6105
     },
     {
-        "title": "Karangahake Gorge",
-        "video_url": "https://www.youtube.com/embed/uRzMvvM-4qs",
-        "latitude": -37.4229,
-        "longitude": 175.7213
+        "title": "Routeburn Track - Routeburn Shelter to Lake Mackenzie Hut - Day 2",
+        "video_url": "https://www.youtube.com/embed/ZEMCpf1LN6E",
+        "latitude": -44.7262,
+        "longitude": 168.1984
     },
     {
         "title": "Wellington - Breaker Bay",
@@ -2982,22 +2802,10 @@
         "longitude": 168.1281
     },
     {
-        "title": "Tongariro Northern Circuit - Day 4/4",
-        "video_url": "https://www.youtube.com/embed/8wAtoEp8xKg",
-        "latitude": -39.2071,
-        "longitude": 175.6416
-    },
-    {
         "title": "Tauranga -  Maunganui Beach",
         "video_url": "https://www.youtube.com/embed/FGfvQtpY-cE",
         "latitude": -37.6337,
         "longitude": 176.1863
-    },
-    {
-        "title": "Rotorua - SH30",
-        "video_url": "https://www.youtube.com/embed/t1B0yDH58A4",
-        "latitude": -38.1495,
-        "longitude": 176.2722
     },
     {
         "title": "Routeburn Track - Lake Mackenzie Hut to The Divide Shelter - Day 3",
@@ -3036,16 +2844,16 @@
         "longitude": 174.5802
     },
     {
-        "title": "Patea - Mana Bay",
-        "video_url": "https://www.youtube.com/embed/zHtjMDaSWps",
-        "latitude": -39.7725,
-        "longitude": 174.4884
-    },
-    {
         "title": "Routeburn Track - Routeburn Shelter to Lake Mackenzie Hut - Day 2",
         "video_url": "https://www.youtube.com/embed/sZTx8Dnf0is",
         "latitude": -44.7602,
         "longitude": 168.169
+    },
+    {
+        "title": "Taupo - Disc Golf Course",
+        "video_url": "https://www.youtube.com/embed/5NqFHoDjUJU",
+        "latitude": -38.6749,
+        "longitude": 176.0895
     },
     {
         "title": "Whale Watch Kaikoura",
@@ -3084,12 +2892,6 @@
         "longitude": 170.4589
     },
     {
-        "title": "The Catlins - Horseshoe Falls",
-        "video_url": "https://www.youtube.com/embed/fb1-rLr-4qE",
-        "latitude": -46.5031,
-        "longitude": 169.4882
-    },
-    {
         "title": "Aratiatia Rapids Mid Viewpoint",
         "video_url": "https://www.youtube.com/embed/9jEM6N--1Jc",
         "latitude": -38.6177,
@@ -3106,12 +2908,6 @@
         "video_url": "https://www.youtube.com/embed/c97utUAZVZo",
         "latitude": -38.1502,
         "longitude": 176.2713
-    },
-    {
-        "title": "Mangorei Track to Pouakai Tarn",
-        "video_url": "https://www.youtube.com/embed/Tg-7u5MerUs",
-        "latitude": -39.2259,
-        "longitude": 174.0344
     },
     {
         "title": "Back Beach Centennial Drive New Plymouth",
@@ -3154,12 +2950,6 @@
         "video_url": "https://www.youtube.com/embed/aD9vnlM4V5A",
         "latitude": -40.6507,
         "longitude": 175.7038
-    },
-    {
-        "title": "Westport- T-Rex Tree & Buller River",
-        "video_url": "https://www.youtube.com/embed/EPo-BNNIyRw",
-        "latitude": -41.8578,
-        "longitude": 171.761
     },
     {
         "title": "Tauranga - Mount Maunganui",
@@ -3252,12 +3042,6 @@
         "longitude": 175.6708
     },
     {
-        "title": "Routeburn Track - Routeburn Shelter to Routeburn Falls Hut - Day 1",
-        "video_url": "https://www.youtube.com/embed/tqcqzudsTS8",
-        "latitude": -44.7178,
-        "longitude": 168.2783
-    },
-    {
         "title": "Wellington - Turakirae Head Seal Colony",
         "video_url": "https://www.youtube.com/embed/3paRHnWQpfA",
         "latitude": -41.4373,
@@ -3340,24 +3124,6 @@
         "video_url": "https://www.youtube.com/embed/3o7XK8SQtT0",
         "latitude": -38.0382,
         "longitude": 175.8311
-    },
-    {
-        "title": "The Catlins - Nugget Point Rocks",
-        "video_url": "https://www.youtube.com/embed/rD4XY0RyphY",
-        "latitude": -46.4481,
-        "longitude": 169.8169
-    },
-    {
-        "title": "Routeburn Track - Routeburn Shelter to Lake Mackenzie Hut - Day 2",
-        "video_url": "https://www.youtube.com/embed/Oobsg1GqUtY",
-        "latitude": -44.7439,
-        "longitude": 168.164
-    },
-    {
-        "title": "Dunedin - University of Otago - Water of Leith",
-        "video_url": "https://www.youtube.com/embed/_qmd6j1DM_8",
-        "latitude": -45.8637,
-        "longitude": 170.5145
     },
     {
         "title": "Auckland - Mutukaroa / Hamlins Hill Regional Park",
