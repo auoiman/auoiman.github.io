@@ -66,12 +66,6 @@
         "longitude": 174.7829
     },
     {
-        "title": "Christchurch - Barrington Park",
-        "video_url": "https://www.youtube.com/embed/uK6BWoRGarw",
-        "latitude": -43.556,
-        "longitude": 172.6189
-    },
-    {
         "title": "Port Chalmers - Aramoana Beach - Keyhole rock, sand dune",
         "video_url": "https://www.youtube.com/embed/rVcsY7e238A",
         "latitude": -45.772,
@@ -180,6 +174,12 @@
         "longitude": 167.7113
     },
     {
+        "title": "Lake Pukaki - Pukaki River Canal",
+        "video_url": "https://www.youtube.com/embed/_9FdpMJR0Js",
+        "latitude": -44.1907,
+        "longitude": 170.1375
+    },
+    {
         "title": "Milford - Fairy Falls #waterfall",
         "video_url": "https://www.youtube.com/embed/Ovoy2jVLbiE",
         "latitude": -44.6141,
@@ -226,6 +226,12 @@
         "video_url": "https://www.youtube.com/embed/ZPIjDOXwzhM",
         "latitude": -45.0312,
         "longitude": 168.7386
+    },
+    {
+        "title": "Karikari Peninsula - Karikari Estate",
+        "video_url": "https://www.youtube.com/embed/eOLd9f1ONW0",
+        "latitude": -34.8624,
+        "longitude": 173.3897
     },
     {
         "title": "Mount Cook - First Swing Bridge",
@@ -288,6 +294,12 @@
         "longitude": 168.2687
     },
     {
+        "title": "Routeburn Track - Routeburn Shelter to Routeburn Falls Hut - Day 1",
+        "video_url": "https://www.youtube.com/embed/1PdZ5qrfwzM",
+        "latitude": -44.7124,
+        "longitude": 168.2687
+    },
+    {
         "title": "Auckland - Kiwi Esplanade",
         "video_url": "https://www.youtube.com/embed/LOS1kbrd6Wg",
         "latitude": -36.9402,
@@ -334,6 +346,12 @@
         "video_url": "https://www.youtube.com/embed/gi-i4pwongk",
         "latitude": -43.6987,
         "longitude": 170.0966
+    },
+    {
+        "title": "Cromwell - Lake Dunstan Cycle Trail",
+        "video_url": "https://www.youtube.com/embed/YIWXt8EDj3I",
+        "latitude": -45.056,
+        "longitude": 169.2085
     },
     {
         "title": "Lake Tekapo - University of Canterbury Mt John Observatory",
@@ -552,12 +570,6 @@
         "longitude": 167.7864
     },
     {
-        "title": "Kepler Track - Luxmore Hut to Iris Burn Hut",
-        "video_url": "https://www.youtube.com/embed/7jdpb-a5BhA",
-        "latitude": -45.3933,
-        "longitude": 167.5247
-    },
-    {
         "title": "Auckland - Devonport - The Summit",
         "video_url": "https://www.youtube.com/embed/76eW166Rle8",
         "latitude": -36.8271,
@@ -616,12 +628,6 @@
         "video_url": "https://www.youtube.com/embed/r9xwfYbY87c",
         "latitude": -45.7762,
         "longitude": 170.7286
-    },
-    {
-        "title": "Karikari Peninsula - Karikari Estate",
-        "video_url": "https://www.youtube.com/embed/eOLd9f1ONW0",
-        "latitude": -34.8624,
-        "longitude": 173.3897
     },
     {
         "title": "Kaikorua - Kaikorua Peninsula Walkway - 1st Lookout",
@@ -876,6 +882,18 @@
         "longitude": 169.2083
     },
     {
+        "title": "Auckland - Huana Falls",
+        "video_url": "https://www.youtube.com/embed/Cq-s1lVGDx8",
+        "latitude": -37.0668,
+        "longitude": 175.0898
+    },
+    {
+        "title": "Cromwell - Lake Dunstan Cycle Trail",
+        "video_url": "https://www.youtube.com/embed/LSkLl_h1C6Y",
+        "latitude": -45.0616,
+        "longitude": 169.2083
+    },
+    {
         "title": "Lake Hawea - Lookout",
         "video_url": "https://www.youtube.com/embed/C4Ga4jz0ViM",
         "latitude": -44.5082,
@@ -904,6 +922,12 @@
         "video_url": "https://www.youtube.com/embed/oKTDh3s4Gh0",
         "latitude": -35.8223,
         "longitude": 174.5017
+    },
+    {
+        "title": "Cromwell - Lake Dunstan Cycle Trail",
+        "video_url": "https://www.youtube.com/embed/NO_EriwKCO4",
+        "latitude": -45.0547,
+        "longitude": 169.2097
     },
     {
         "title": "Southland - Winton Town",
@@ -1074,6 +1098,12 @@
         "longitude": 174.0078
     },
     {
+        "title": "Cromwell - Lake Dunstan Cycle Trail",
+        "video_url": "https://www.youtube.com/embed/0Z3LCxLpW2U",
+        "latitude": -45.0527,
+        "longitude": 169.2096
+    },
+    {
         "title": "Kingston - Lake Wakatipu Lookout",
         "video_url": "https://www.youtube.com/embed/VCVQsefSV3Q",
         "latitude": -45.3307,
@@ -1086,16 +1116,16 @@
         "longitude": 168.2587
     },
     {
-        "title": "Routeburn Track - Routeburn Shelter to Lake Mackenzie Hut - Day 2",
-        "video_url": "https://www.youtube.com/embed/Sw4nxwz8YcQ",
-        "latitude": -44.75,
-        "longitude": 168.1669
-    },
-    {
         "title": "Great Alpine Highway - West Coast Road - SH73 (Lake Pearson to Cass)",
         "video_url": "https://www.youtube.com/embed/O2D9ymI0lMo",
         "latitude": -43.0861,
         "longitude": 171.7768
+    },
+    {
+        "title": "Routeburn Track - Routeburn Shelter to Lake Mackenzie Hut - Day 2",
+        "video_url": "https://www.youtube.com/embed/Sw4nxwz8YcQ",
+        "latitude": -44.75,
+        "longitude": 168.1669
     },
     {
         "title": "Whangarei Heads - Smuggler's Bay",
@@ -1146,18 +1176,6 @@
         "longitude": 167.8456
     },
     {
-        "title": "Riverton - Howells Point",
-        "video_url": "https://www.youtube.com/embed/6zvXnqnCa2E",
-        "latitude": -46.3843,
-        "longitude": 168.0379
-    },
-    {
-        "title": "Riverton - Howells Point Reserve",
-        "video_url": "https://www.youtube.com/embed/aTNAtgRrjpo",
-        "latitude": -46.3838,
-        "longitude": 168.0323
-    },
-    {
         "title": "Timaru - Caroline Bay Playground",
         "video_url": "https://www.youtube.com/embed/lY7dt9bmHek",
         "latitude": -44.389,
@@ -1186,6 +1204,12 @@
         "video_url": "https://www.youtube.com/embed/W5DdfUoN74g",
         "latitude": -40.50753,
         "longitude": 172.6684
+    },
+    {
+        "title": "Cromwell - Lake Dunstan Cycle Trail",
+        "video_url": "https://www.youtube.com/embed/8hdYjMmEE4Y",
+        "latitude": -45.0799,
+        "longitude": 169.2325
     },
     {
         "title": "Routeburn Track - Routeburn Shelter to Lake Mackenzie Hut - Day 2",
@@ -1320,12 +1344,6 @@
         "longitude": 175.6681
     },
     {
-        "title": "Milford Track - Deepwater Basin (Watertaxi)",
-        "video_url": "https://www.youtube.com/embed/-OxQOJYmN_s",
-        "latitude": -44.6785,
-        "longitude": 167.9199
-    },
-    {
         "title": "Milford Sound - Dolphins #dolphin",
         "video_url": "https://www.youtube.com/embed/Xa5XCs1GN9o",
         "latitude": -44.6029,
@@ -1368,12 +1386,6 @@
         "longitude": 174.0737
     },
     {
-        "title": "Kepler Track - Luxmore Hut Room",
-        "video_url": "https://www.youtube.com/embed/dRt0AlEluZc",
-        "latitude": -45.38515,
-        "longitude": 167.61908
-    },
-    {
         "title": "Matauri Bay - Rainbow Warrior Memorial",
         "video_url": "https://www.youtube.com/embed/1AFcjAFZqwg",
         "latitude": -35.0274,
@@ -1402,12 +1414,6 @@
         "video_url": "https://www.youtube.com/embed/rr8qYm864Kg",
         "latitude": -41.2423,
         "longitude": 174.9223
-    },
-    {
-        "title": "Clutha River - Champagne Gully Freedom Camping",
-        "video_url": "https://www.youtube.com/embed/v6-xWXtFL0A",
-        "latitude": -45.1284,
-        "longitude": 169.3161
     },
     {
         "title": "Akitio - Akitio Camp Grounds and Store",
@@ -1468,6 +1474,18 @@
         "video_url": "https://www.youtube.com/embed/5_3AVTJwR_0",
         "latitude": -43.7159,
         "longitude": 170.103
+    },
+    {
+        "title": "Cromwell - Lake Dunstan Cycle TrailCromwell - Walk back to Cornish Point",
+        "video_url": "https://www.youtube.com/embed/npa8Ksu3I3M",
+        "latitude": -45.0647,
+        "longitude": 169.2101
+    },
+    {
+        "title": "Lake Matheson - Reflection Island (New Zealand)",
+        "video_url": "https://www.youtube.com/embed/kxn4AUTON1c",
+        "latitude": -43.4379,
+        "longitude": 169.9631
     },
     {
         "title": "Kepler Track - Luxmore Hut to Iris Burn Hut",
@@ -1590,6 +1608,18 @@
         "longitude": 169.5075
     },
     {
+        "title": "Arthur's Pass - Bridge over Bealey River",
+        "video_url": "https://www.youtube.com/embed/vA1mkpuZF14",
+        "latitude": -43.0194,
+        "longitude": 171.5962
+    },
+    {
+        "title": "Cromwell - Lake Dunstan Cycle Trail",
+        "video_url": "https://www.youtube.com/embed/RLcj5hpVnd0",
+        "latitude": -45.08,
+        "longitude": 169.2328
+    },
+    {
         "title": "Lake Hayes  - Scenic View",
         "video_url": "https://www.youtube.com/embed/pfUoPZmwKTo",
         "latitude": -44.9879,
@@ -1662,12 +1692,6 @@
         "longitude": 171.7418
     },
     {
-        "title": "Cromwell - Lake Dunstan Cycle Trail",
-        "video_url": "https://www.youtube.com/embed/8hdYjMmEE4Y",
-        "latitude": -45.0799,
-        "longitude": 169.2325
-    },
-    {
         "title": "Westport - Kilkenny Lookout",
         "video_url": "https://www.youtube.com/embed/jZJ_t3avMpE",
         "latitude": -41.8637,
@@ -1710,6 +1734,12 @@
         "longitude": 176.2758
     },
     {
+        "title": "Clutha River - Champagne Gully Freedom Camping",
+        "video_url": "https://www.youtube.com/embed/v6-xWXtFL0A",
+        "latitude": -45.1284,
+        "longitude": 169.3161
+    },
+    {
         "title": "Lake Matheson - Reflection Island",
         "video_url": "https://www.youtube.com/embed/sH4UEmO1eqc",
         "latitude": -43.4377,
@@ -1728,6 +1758,12 @@
         "longitude": 167.6201
     },
     {
+        "title": "Cromwell - Lake Dunstan Cycle Trail",
+        "video_url": "https://www.youtube.com/embed/yD1LUHQKfAk",
+        "latitude": -45.0759,
+        "longitude": 169.2263
+    },
+    {
         "title": "Nelson - Trafalgar Street",
         "video_url": "https://www.youtube.com/embed/bN3iJK23GtQ",
         "latitude": -41.2748,
@@ -1738,12 +1774,6 @@
         "video_url": "https://www.youtube.com/embed/IAmhR7yM5XI",
         "latitude": -46.3755,
         "longitude": 167.9959
-    },
-    {
-        "title": "Orongorongo River view on Bridge",
-        "video_url": "https://www.youtube.com/embed/QGK3E38DNUk",
-        "latitude": -41.4178,
-        "longitude": 174.9019
     },
     {
         "title": "Routeburn Track - Routeburn Shelter to Lake Mackenzie Hut - Day 2",
@@ -1822,12 +1852,6 @@
         "video_url": "https://www.youtube.com/embed/5_0zZJ2TRKQ",
         "latitude": -43.4375,
         "longitude": 169.9631
-    },
-    {
-        "title": "Cromwell - Lake Dunstan Cycle Trail",
-        "video_url": "https://www.youtube.com/embed/YIWXt8EDj3I",
-        "latitude": -45.056,
-        "longitude": 169.2085
     },
     {
         "title": "Cromwell - Walk back to Cornish Point",
@@ -2028,6 +2052,12 @@
         "longitude": 169.2031
     },
     {
+        "title": "Wellington - Airport Lookout",
+        "video_url": "https://www.youtube.com/embed/sTOP7rQrFTo",
+        "latitude": -41.3181,
+        "longitude": 174.8111
+    },
+    {
         "title": "Taupiri Bay - Scenic Look Out",
         "video_url": "https://www.youtube.com/embed/CtNEXmGFksA",
         "latitude": -35.2782,
@@ -2038,12 +2068,6 @@
         "video_url": "https://www.youtube.com/embed/XXCGtwrLjgg",
         "latitude": -37.69903,
         "longitude": 176.163876
-    },
-    {
-        "title": "Cromwell - Lake Dunstan Cycle Trail",
-        "video_url": "https://www.youtube.com/embed/0Z3LCxLpW2U",
-        "latitude": -45.0527,
-        "longitude": 169.2096
     },
     {
         "title": "Cape Palliser - Matakitaki-a-Kupe Reserve - Sea Lions",
@@ -2112,6 +2136,12 @@
         "longitude": 171.8664
     },
     {
+        "title": "Arrowtown - Arrow River Bridges Trail",
+        "video_url": "https://www.youtube.com/embed/YnX8rAMU1QA",
+        "latitude": -44.9437,
+        "longitude": 168.8432
+    },
+    {
         "title": "Three Sisters and the Elephant",
         "video_url": "https://www.youtube.com/embed/QjGQSrs19vk",
         "latitude": -38.8178,
@@ -2122,12 +2152,6 @@
         "video_url": "https://www.youtube.com/embed/PY0nK91cVO8",
         "latitude": -44.8585,
         "longitude": 168.1015
-    },
-    {
-        "title": "Arrowtown - Arrow River Bridges Trail",
-        "video_url": "https://www.youtube.com/embed/YnX8rAMU1QA",
-        "latitude": -44.9437,
-        "longitude": 168.8432
     },
     {
         "title": "Milford Track - Giant Gate Falls #waterfall",
@@ -2176,6 +2200,12 @@
         "video_url": "https://www.youtube.com/embed/hF8fh8B012g",
         "latitude": -44.8052,
         "longitude": 168.102
+    },
+    {
+        "title": "Elephant Rocks",
+        "video_url": "https://www.youtube.com/embed/PNsurPFIKqw",
+        "latitude": -44.8934,
+        "longitude": 170.6577
     },
     {
         "title": "Queenstown - Moke Lake",
@@ -2328,6 +2358,12 @@
         "longitude": 176.2748
     },
     {
+        "title": "Routeburn Track - Routeburn Shelter to Lake Mackenzie Hut - Day 2",
+        "video_url": "https://www.youtube.com/embed/WiPVEIga07I",
+        "latitude": -44.7595,
+        "longitude": 168.1697
+    },
+    {
         "title": "Roaring Meg",
         "video_url": "https://www.youtube.com/embed/e7zLMd7pGvc",
         "latitude": -45.0014,
@@ -2376,12 +2412,6 @@
         "longitude": 174.7792
     },
     {
-        "title": "Taupo - Aratiatia Rapids",
-        "video_url": "https://www.youtube.com/embed/uZtL8BevTFA",
-        "latitude": -38.6176,
-        "longitude": 176.1389
-    },
-    {
         "title": "Routeburn Track - Lake Mackenzie Hut to The Divide Shelter - Day 3",
         "video_url": "https://www.youtube.com/embed/vyYwvph4wY8",
         "latitude": -44.8026,
@@ -2406,22 +2436,10 @@
         "longitude": 168.8353
     },
     {
-        "title": "Cromwell - Lake Dunstan Cycle Trail",
-        "video_url": "https://www.youtube.com/embed/NO_EriwKCO4",
-        "latitude": -45.0547,
-        "longitude": 169.2097
-    },
-    {
         "title": "Riverton - Balancing Rock",
         "video_url": "https://www.youtube.com/embed/ZKpuupGUQ7I",
         "latitude": -46.3764,
         "longitude": 167.992
-    },
-    {
-        "title": "Nelson - Civic House - Bell Ringing",
-        "video_url": "https://www.youtube.com/embed/YNTG3tLYHWY",
-        "latitude": -41.2707,
-        "longitude": 173.2842
     },
     {
         "title": "Arrowtown - Buckingham Street - BNZ",
@@ -2440,12 +2458,6 @@
         "video_url": "https://www.youtube.com/embed/8r9Rx8PL7ig",
         "latitude": -38.8186,
         "longitude": 174.5815
-    },
-    {
-        "title": "Cromwell - Lake Dunstan Cycle Trail",
-        "video_url": "https://www.youtube.com/embed/yD1LUHQKfAk",
-        "latitude": -45.0759,
-        "longitude": 169.2263
     },
     {
         "title": "Taupo - Huka Falls",
@@ -2526,22 +2538,10 @@
         "longitude": 167.9025
     },
     {
-        "title": "Clyde - Clyde Bridge",
-        "video_url": "https://www.youtube.com/embed/m6Q5Oe-TuSo",
-        "latitude": -45.1902,
-        "longitude": 169.3164
-    },
-    {
         "title": "Milford - Eglinton Valley / Flats",
         "video_url": "https://www.youtube.com/embed/Z-cdGOq4XFc",
         "latitude": -45.0606,
         "longitude": 167.9962
-    },
-    {
-        "title": "Cromwell - Lake Dunstan Cycle Trail",
-        "video_url": "https://www.youtube.com/embed/RLcj5hpVnd0",
-        "latitude": -45.08,
-        "longitude": 169.2328
     },
     {
         "title": "Taupo - Aratiatia Rapids",
@@ -2572,6 +2572,12 @@
         "video_url": "https://www.youtube.com/embed/MI_zBf_63PI",
         "latitude": -38.0112,
         "longitude": 176.3447
+    },
+    {
+        "title": "Clyde - Clyde Bridge",
+        "video_url": "https://www.youtube.com/embed/m6Q5Oe-TuSo",
+        "latitude": -45.1902,
+        "longitude": 169.3164
     },
     {
         "title": "Mount Cook - Hooker Valley Track",
@@ -2614,12 +2620,6 @@
         "video_url": "https://www.youtube.com/embed/Re15eRfSWXU",
         "latitude": -41.3338,
         "longitude": 174.8238
-    },
-    {
-        "title": "Cromwell - Lake Dunstan Cycle TrailCromwell - Walk back to Cornish Point",
-        "video_url": "https://www.youtube.com/embed/npa8Ksu3I3M",
-        "latitude": -45.0647,
-        "longitude": 169.2101
     },
     {
         "title": "Cromwell - Lake Dunstan Cycle Trail",
@@ -2716,6 +2716,12 @@
         "video_url": "https://www.youtube.com/embed/YJqq-MqQLdU",
         "latitude": -38.8205,
         "longitude": 174.5802
+    },
+    {
+        "title": "Milford - Marian Falls",
+        "video_url": "https://www.youtube.com/embed/KlQohtTd4Pk",
+        "latitude": -44.8051,
+        "longitude": 168.1008
     },
     {
         "title": "Castle Hill / Kura Tawhiti Conservation Area",
@@ -2860,12 +2866,6 @@
         "video_url": "https://www.youtube.com/embed/3o7XK8SQtT0",
         "latitude": -38.0382,
         "longitude": 175.8311
-    },
-    {
-        "title": "Milford - Marian Falls",
-        "video_url": "https://www.youtube.com/embed/KlQohtTd4Pk",
-        "latitude": -44.8051,
-        "longitude": 168.1008
     },
     {
         "title": "Queenstown - Kawarau River",
