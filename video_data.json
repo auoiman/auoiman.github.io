@@ -114,16 +114,22 @@
         "longitude": 168.6479
     },
     {
-        "title": "Arthur's Pass - Otira Viaduct Lookout",
-        "video_url": "https://www.youtube.com/embed/_KahU-d529Y",
-        "latitude": -42.8881,
-        "longitude": 171.5559
-    },
-    {
         "title": "Port Chalmers - Aramoana Beach - Keyhole rock, sand dune",
         "video_url": "https://www.youtube.com/embed/rVcsY7e238A",
         "latitude": -45.772,
         "longitude": 170.702
+    },
+    {
+        "title": "Routeburn Track - Lake Mackenzie Hut to The Divide Shelter - Day 3",
+        "video_url": "https://www.youtube.com/embed/7b_5gb1mtsM",
+        "latitude": -44.8249,
+        "longitude": 168.1176
+    },
+    {
+        "title": "Arthur's Pass - Otira Viaduct Lookout",
+        "video_url": "https://www.youtube.com/embed/_KahU-d529Y",
+        "latitude": -42.8881,
+        "longitude": 171.5559
     },
     {
         "title": "Dunedin - Long Beach - 2",
@@ -148,6 +154,12 @@
         "video_url": "https://www.youtube.com/embed/jro7k3PctWQ",
         "latitude": -38.6619,
         "longitude": 176.1461
+    },
+    {
+        "title": "Milford Sound",
+        "video_url": "https://www.youtube.com/embed/xoLSYM7SypA",
+        "latitude": -44.5772,
+        "longitude": 167.7898
     },
     {
         "title": "Queenstown - Sky Luge Cable Ride",
@@ -414,12 +426,6 @@
         "longitude": 170.7055
     },
     {
-        "title": "Milford Sound - Fairy Falls #waterfall",
-        "video_url": "https://www.youtube.com/embed/St1K5d2pvV0",
-        "latitude": -44.6143,
-        "longitude": 167.8456
-    },
-    {
         "title": "Milford Track - Heading back to Milford Sound",
         "video_url": "https://www.youtube.com/embed/BpBQZnccosg",
         "latitude": -44.6835,
@@ -600,12 +606,6 @@
         "longitude": 170.521
     },
     {
-        "title": "Routeburn Track - Lake Mackenzie Hut to The Divide Shelter - Day 3",
-        "video_url": "https://www.youtube.com/embed/7b_5gb1mtsM",
-        "latitude": -44.8249,
-        "longitude": 168.1176
-    },
-    {
         "title": "Wharariki Beach - Windy",
         "video_url": "https://www.youtube.com/embed/r7Dj677w-TY",
         "latitude": -40.5046,
@@ -682,12 +682,6 @@
         "video_url": "https://www.youtube.com/embed/ODEvHjY76HA",
         "latitude": -44.8248,
         "longitude": 168.1178
-    },
-    {
-        "title": "Te Kura Whakatipu o Kawarau - Primary School - View of Remarkable's",
-        "video_url": "https://www.youtube.com/embed/Lds0ja5BJCM",
-        "latitude": -45.0684,
-        "longitude": 168.7454
     },
     {
         "title": "Mount Cook - Hooker Lake (2024 Mar)",
@@ -774,12 +768,6 @@
         "longitude": 169.1015
     },
     {
-        "title": "Tongariro Northern Circuit - Day 3/4",
-        "video_url": "https://www.youtube.com/embed/KVofRUgXYtw",
-        "latitude": -39.1952,
-        "longitude": 175.6011
-    },
-    {
         "title": "Clifden Gorge Road Near Clifden Caves",
         "video_url": "https://www.youtube.com/embed/6aq4SajPpCo",
         "latitude": -46.0181,
@@ -820,12 +808,6 @@
         "video_url": "https://www.youtube.com/embed/6aPF3mjd7Lo",
         "latitude": -45.8158,
         "longitude": 170.6269
-    },
-    {
-        "title": "Routeburn Track - Lake Mackenzie Hut to The Divide Shelter - Day 3",
-        "video_url": "https://www.youtube.com/embed/7OgeOOjvbCg",
-        "latitude": -44.8156,
-        "longitude": 168.1355
     },
     {
         "title": "Lake Tekapo - Lake Front, Near Dark Sky Project",
@@ -1000,6 +982,12 @@
         "video_url": "https://www.youtube.com/embed/jwuGGFs_Lh8",
         "latitude": -40.9046,
         "longitude": 176.2288
+    },
+    {
+        "title": "Christchurch - Washington Way Skate Park",
+        "video_url": "https://www.youtube.com/embed/tmte27avQ9E",
+        "latitude": -43.5402,
+        "longitude": 172.6455
     },
     {
         "title": "Kaikorua - Okiwi Bay",
@@ -1386,6 +1374,12 @@
         "longitude": 176.9072
     },
     {
+        "title": "Milford Sound - Dolphins #dolphin",
+        "video_url": "https://www.youtube.com/embed/Xa5XCs1GN9o",
+        "latitude": -44.6029,
+        "longitude": 167.8301
+    },
+    {
         "title": "Glenorchy - Horse Riding - Back to the base",
         "video_url": "https://www.youtube.com/embed/3RWwPmj3wIs",
         "latitude": -44.8004,
@@ -1476,6 +1470,12 @@
         "longitude": 169.3773
     },
     {
+        "title": "Portage - The Gap (Take in Bay)",
+        "video_url": "https://www.youtube.com/embed/JydJ2s5G29k",
+        "latitude": -41.1912,
+        "longitude": 174.033
+    },
+    {
         "title": "Wellington - Eastern Walkway",
         "video_url": "https://www.youtube.com/embed/rmo6EAtjL1s",
         "latitude": -41.3368,
@@ -1542,12 +1542,6 @@
         "longitude": 173.7845
     },
     {
-        "title": "Wellington - Eastern Walkway",
-        "video_url": "https://www.youtube.com/embed/xsrZez5dk4o",
-        "latitude": -41.3338,
-        "longitude": 174.8237
-    },
-    {
         "title": "Lake Tekapo - Tekapo Springs",
         "video_url": "https://www.youtube.com/embed/SGIkCNmFres",
         "latitude": -43.9949,
@@ -1594,6 +1588,12 @@
         "video_url": "https://www.youtube.com/embed/cQ_nl5R9y9s",
         "latitude": -44.8082,
         "longitude": 168.1025
+    },
+    {
+        "title": "Christchurch Adventure Park",
+        "video_url": "https://www.youtube.com/embed/Den0uXT-0Xg",
+        "latitude": -43.5912,
+        "longitude": 172.6312
     },
     {
         "title": "Kepler Track - Luxmore Hut to Iris Burn Hut",
@@ -1884,16 +1884,16 @@
         "longitude": 169.1332
     },
     {
-        "title": "Music Loo - Highlands Motorsport Park - Loo with a view",
-        "video_url": "https://www.youtube.com/embed/h-aWJLnkE6w",
-        "latitude": -45.05686,
-        "longitude": 169.16662
-    },
-    {
         "title": "Kepler Track - Luxmore Hut to Iris Burn Hut",
         "video_url": "https://www.youtube.com/embed/RLGgBkauf3g",
         "latitude": -45.3869,
         "longitude": 167.5639
+    },
+    {
+        "title": "Whangarei Heads - Overlooking Little Munroe Bay",
+        "video_url": "https://www.youtube.com/embed/6MTTvJDaiPw",
+        "latitude": -35.8281,
+        "longitude": 174.5069
     },
     {
         "title": "Hokitika - Sunset Point",
@@ -2184,6 +2184,12 @@
         "longitude": 175.302
     },
     {
+        "title": "Tuatapere - McKracken\u2019s Rest",
+        "video_url": "https://www.youtube.com/embed/AiXkwxBxJi8",
+        "latitude": -46.2281,
+        "longitude": 167.6689
+    },
+    {
         "title": "Dunedin - Brighton Beach 2",
         "video_url": "https://www.youtube.com/embed/FzReBorwa4w",
         "latitude": -45.947,
@@ -2424,6 +2430,12 @@
         "longitude": 174.5167
     },
     {
+        "title": "Routeburn Track - Earland Falls - Lake Mackenzie Hut to The Divide Shelter - Day 3",
+        "video_url": "https://www.youtube.com/embed/-YwdjQ6k0rI",
+        "latitude": -44.8026,
+        "longitude": 168.158
+    },
+    {
         "title": "Queesntwon - Seven Mile Track",
         "video_url": "https://www.youtube.com/embed/QZ2OQM3BKxc",
         "latitude": -45.0583,
@@ -2604,10 +2616,10 @@
         "longitude": 173.915
     },
     {
-        "title": "Christchurch Adventure Park",
-        "video_url": "https://www.youtube.com/embed/Den0uXT-0Xg",
-        "latitude": -43.5912,
-        "longitude": 172.6312
+        "title": "Glenorchy #horseriding",
+        "video_url": "https://www.youtube.com/embed/w_yAiLCkdzE",
+        "latitude": -44.8087,
+        "longitude": 168.3629
     },
     {
         "title": "Three Sisters and the Elephant",
@@ -2784,6 +2796,12 @@
         "longitude": 168.6721
     },
     {
+        "title": "Huka Falls Jet Ride",
+        "video_url": "https://www.youtube.com/embed/PAkd_msa4RM",
+        "latitude": -38.64784,
+        "longitude": 176.09042
+    },
+    {
         "title": "Tauranga - Moturiki Island (Leisure Island)",
         "video_url": "https://www.youtube.com/embed/ZI5-3CGNIlA",
         "latitude": -37.6324,
@@ -2850,12 +2868,6 @@
         "longitude": 169.1533
     },
     {
-        "title": "Milford Track - Surrounded by #waterfall",
-        "video_url": "https://www.youtube.com/embed/uG755tEzCxc",
-        "latitude": -44.6985,
-        "longitude": 167.8726
-    },
-    {
         "title": "Fantail Falls",
         "video_url": "https://www.youtube.com/embed/imZ-3e8oNGM",
         "latitude": -44.0777,
@@ -2878,12 +2890,6 @@
         "video_url": "https://www.youtube.com/embed/bGzwtxSAxS8",
         "latitude": -34.8291,
         "longitude": 173.4131
-    },
-    {
-        "title": "Glenorchy #horseriding",
-        "video_url": "https://www.youtube.com/embed/w_yAiLCkdzE",
-        "latitude": -44.8087,
-        "longitude": 168.3629
     },
     {
         "title": "Aratiatia Rapids Mid Viewpoint",
@@ -2932,12 +2938,6 @@
         "video_url": "https://www.youtube.com/embed/1PdZ5qrfwzM",
         "latitude": -44.7124,
         "longitude": 168.2687
-    },
-    {
-        "title": "Omaru Falls",
-        "video_url": "https://www.youtube.com/embed/iDNciOPmHOo",
-        "latitude": -38.525,
-        "longitude": 175.1581
     },
     {
         "title": "2023 Tauranga Bay Superbowl and Fireworks",
