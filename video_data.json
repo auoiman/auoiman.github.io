@@ -162,10 +162,10 @@
         "longitude": 176.1461
     },
     {
-        "title": "Queenstown - Sky Luge Cable Ride",
-        "video_url": "https://www.youtube.com/embed/94kibfM8WnY",
-        "latitude": -45.026,
-        "longitude": 168.6494
+        "title": "Milford Sound",
+        "video_url": "https://www.youtube.com/embed/xoLSYM7SypA",
+        "latitude": -44.5772,
+        "longitude": 167.7898
     },
     {
         "title": "Kawarau Gorge Suspension Bridge",
@@ -760,6 +760,12 @@
         "video_url": "https://www.youtube.com/embed/9GnbLOuIas0",
         "latitude": -46.6615,
         "longitude": 169.1015
+    },
+    {
+        "title": "Tongariro Northern Circuit - Day 3/4",
+        "video_url": "https://www.youtube.com/embed/KVofRUgXYtw",
+        "latitude": -39.1952,
+        "longitude": 175.6011
     },
     {
         "title": "Clifden Gorge Road Near Clifden Caves",
@@ -1476,12 +1482,6 @@
         "longitude": 174.033
     },
     {
-        "title": "Kepler Track - Luxmore Hut to Iris Burn Hut",
-        "video_url": "https://www.youtube.com/embed/eOoLX0d_SIw",
-        "latitude": -45.3831,
-        "longitude": 167.5431
-    },
-    {
         "title": "Wellington - Eastern Walkway",
         "video_url": "https://www.youtube.com/embed/rmo6EAtjL1s",
         "latitude": -41.3368,
@@ -1648,6 +1648,12 @@
         "video_url": "https://www.youtube.com/embed/B4DSOm0xjts",
         "latitude": -38.0112,
         "longitude": 176.3447
+    },
+    {
+        "title": "All Blacks Haka (2024-07-06 VS England) - Forsyth Barr Stadium",
+        "video_url": "https://www.youtube.com/embed/A9D1wBW6C5s",
+        "latitude": -45.87,
+        "longitude": 170.5248
     },
     {
         "title": "Queenstown - Kawarau River",
@@ -1896,6 +1902,12 @@
         "longitude": 167.5639
     },
     {
+        "title": "Whangarei Heads - Overlooking Little Munroe Bay",
+        "video_url": "https://www.youtube.com/embed/6MTTvJDaiPw",
+        "latitude": -35.8281,
+        "longitude": 174.5069
+    },
+    {
         "title": "Hokitika - Sunset Point",
         "video_url": "https://www.youtube.com/embed/hNit85HFvhg",
         "latitude": -42.721,
@@ -1906,12 +1918,6 @@
         "video_url": "https://www.youtube.com/embed/miaQk2QyktE",
         "latitude": -41.2882,
         "longitude": 174.0066
-    },
-    {
-        "title": "Kepler Track - Luxmore Hut to Iris Burn Hut",
-        "video_url": "https://www.youtube.com/embed/bra27ohrNXo",
-        "latitude": -45.3871,
-        "longitude": 167.5763
     },
     {
         "title": "Milford Sound - Water Taxi Ride to the Trailhead",
@@ -2406,12 +2412,6 @@
         "longitude": 174.5315
     },
     {
-        "title": "All Blacks Haka (2024-07-06 VS England) - Forsyth Barr Stadium",
-        "video_url": "https://www.youtube.com/embed/A9D1wBW6C5s",
-        "latitude": -45.87,
-        "longitude": 170.5248
-    },
-    {
         "title": "Routeburn Track - Routeburn Shelter to Routeburn Falls Hut - Day 1",
         "video_url": "https://www.youtube.com/embed/i5TJq0ChSwk",
         "latitude": -44.7309,
@@ -2586,6 +2586,12 @@
         "longitude": 169.3523
     },
     {
+        "title": "Christchurch - Summit Road View Point",
+        "video_url": "https://www.youtube.com/embed/I4eUjqvEjiQ",
+        "latitude": -43.6035,
+        "longitude": 172.6547
+    },
+    {
         "title": "Arrowtown - Buckingham Street",
         "video_url": "https://www.youtube.com/embed/QdJ8N1WYsWI",
         "latitude": -44.9393,
@@ -2658,12 +2664,6 @@
         "longitude": 167.6358
     },
     {
-        "title": "Lismore Park Disc Golf Course",
-        "video_url": "https://www.youtube.com/embed/tpLzfLJJYp0",
-        "latitude": -44.68834,
-        "longitude": 169.13628
-    },
-    {
         "title": "Cascade Creek - Lake Gunn Nature Walk",
         "video_url": "https://www.youtube.com/embed/6JTnb2tiD0k",
         "latitude": -44.8951,
@@ -2680,12 +2680,6 @@
         "video_url": "https://www.youtube.com/embed/MqR_6u57Yyw",
         "latitude": -45.0479,
         "longitude": 168.6228
-    },
-    {
-        "title": "Cycling @ Clutha River",
-        "video_url": "https://www.youtube.com/embed/r_Gx7uWfGpk",
-        "latitude": -45.0656,
-        "longitude": 169.213
     },
     {
         "title": "Milford - Eglinton Valley / Flats",
@@ -2790,6 +2784,12 @@
         "longitude": 168.6825
     },
     {
+        "title": "Wellington - Breaker Bay",
+        "video_url": "https://www.youtube.com/embed/3QO4bQ-eWiI",
+        "latitude": -41.33,
+        "longitude": 174.8331
+    },
+    {
         "title": "Queenstown - Edith Cavell Bridge",
         "video_url": "https://www.youtube.com/embed/vQb1CYPdPE8",
         "latitude": -44.9881,
@@ -2854,6 +2854,12 @@
         "video_url": "https://www.youtube.com/embed/DyBTz_90v-c",
         "latitude": -43.2303,
         "longitude": 171.7158
+    },
+    {
+        "title": "Dunedin - Tunnel Beach Track 3",
+        "video_url": "https://www.youtube.com/embed/rC5xPWUVTzg",
+        "latitude": -45.9208,
+        "longitude": 170.4589
     },
     {
         "title": "Clutha River - Dublin Bay",
