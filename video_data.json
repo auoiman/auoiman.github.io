@@ -66,16 +66,16 @@
         "longitude": 175.6708
     },
     {
-        "title": "Routeburn Track - Lake Mackenzie Hut to The Divide Shelter - Day 3",
-        "video_url": "https://www.youtube.com/embed/7b_5gb1mtsM",
-        "latitude": -44.8249,
-        "longitude": 168.1176
-    },
-    {
         "title": "Tauranga - Hairy Maclary and Friends Sculpture",
         "video_url": "https://www.youtube.com/embed/3zIVKpAlPkg",
         "latitude": -37.6826,
         "longitude": 176.1706
+    },
+    {
+        "title": "Routeburn Track - Lake Mackenzie Hut to The Divide Shelter - Day 3",
+        "video_url": "https://www.youtube.com/embed/7b_5gb1mtsM",
+        "latitude": -44.8249,
+        "longitude": 168.1176
     },
     {
         "title": "The Victoria Esplanade Minitrain",
@@ -88,6 +88,12 @@
         "video_url": "https://www.youtube.com/embed/ds6DGYMQxLk",
         "latitude": -44.7737,
         "longitude": 168.3263
+    },
+    {
+        "title": "Wellington - Makara Walkway - Opau Bay",
+        "video_url": "https://www.youtube.com/embed/xuYxGjQ7ce4",
+        "latitude": -41.2326,
+        "longitude": 174.6889
     },
     {
         "title": "Bay of Plenty - Kaiate Falls",
@@ -156,6 +162,12 @@
         "longitude": 170.644
     },
     {
+        "title": "New Brighton Beach",
+        "video_url": "https://www.youtube.com/embed/yYn7wRP2sE0",
+        "latitude": -43.5053,
+        "longitude": 172.731
+    },
+    {
         "title": "2023 Drift D1NZ Taupo",
         "video_url": "https://www.youtube.com/embed/jro7k3PctWQ",
         "latitude": -38.6619,
@@ -166,6 +178,12 @@
         "video_url": "https://www.youtube.com/embed/xoLSYM7SypA",
         "latitude": -44.5772,
         "longitude": 167.7898
+    },
+    {
+        "title": "Queenstown - Sky Luge Cable Ride",
+        "video_url": "https://www.youtube.com/embed/94kibfM8WnY",
+        "latitude": -45.026,
+        "longitude": 168.6494
     },
     {
         "title": "Kawarau Gorge Suspension Bridge",
@@ -276,12 +294,6 @@
         "longitude": 171.2495
     },
     {
-        "title": "Shotover River Jet - View from Edith Cavell Bridge #jet",
-        "video_url": "https://www.youtube.com/embed/SyNuY_VdmUQ",
-        "latitude": -44.9883,
-        "longitude": 168.6718
-    },
-    {
         "title": "Kingston - Lake and Flyer Shed",
         "video_url": "https://www.youtube.com/embed/Wbh0t8P48Kc",
         "latitude": -45.3298,
@@ -292,12 +304,6 @@
         "video_url": "https://www.youtube.com/embed/4yyoaLr_m4w",
         "latitude": -44.5714,
         "longitude": 167.7863
-    },
-    {
-        "title": "Christchurch - Avon River / Oxford Terrace",
-        "video_url": "https://www.youtube.com/embed/12rq2DVphk8",
-        "latitude": -43.5327,
-        "longitude": 172.6337
     },
     {
         "title": "Kawarau Gorge Suspension Bridge",
@@ -480,6 +486,12 @@
         "longitude": 170.6824
     },
     {
+        "title": "Lake Dunstan Cycle Trail - Bridge",
+        "video_url": "https://www.youtube.com/embed/YZFIqH7OBoE",
+        "latitude": -45.0651,
+        "longitude": 169.212
+    },
+    {
         "title": "Rotorua - Tupapakurua Stream",
         "video_url": "https://www.youtube.com/embed/WEpPas7hPoc",
         "latitude": -38.0716,
@@ -534,22 +546,10 @@
         "longitude": 170.0985
     },
     {
-        "title": "Lake Dunstan Cycle Trail - Bridge",
-        "video_url": "https://www.youtube.com/embed/YZFIqH7OBoE",
-        "latitude": -45.0651,
-        "longitude": 169.212
-    },
-    {
         "title": "Taupo Bay Beach",
         "video_url": "https://www.youtube.com/embed/4aJNX1c52I0",
         "latitude": -34.9918,
         "longitude": 173.7095
-    },
-    {
-        "title": "Queenstown - Shotover River Jet",
-        "video_url": "https://www.youtube.com/embed/4Jh11vva_JQ",
-        "latitude": -44.9831,
-        "longitude": 168.6664
     },
     {
         "title": "Dunedin - Sandfly Bay",
@@ -586,6 +586,12 @@
         "video_url": "https://www.youtube.com/embed/tP7j6RDRQL4",
         "latitude": -44.6078,
         "longitude": 167.8547
+    },
+    {
+        "title": "Shotover River Jet - View from Edith Cavell Bridge #jet",
+        "video_url": "https://www.youtube.com/embed/SyNuY_VdmUQ",
+        "latitude": -44.9883,
+        "longitude": 168.6718
     },
     {
         "title": "Ecozip Adventure Kaikorua - Zipline 3",
@@ -642,12 +648,6 @@
         "longitude": 168.8016
     },
     {
-        "title": "Mount Cook - Hooker Valley Track - The FIrst Swing Bridge",
-        "video_url": "https://www.youtube.com/embed/0x5aV-lZ3zI",
-        "latitude": -43.7158,
-        "longitude": 170.103
-    },
-    {
         "title": "Mount Hutt Ski Field",
         "video_url": "https://www.youtube.com/embed/MEQcuojTY_M",
         "latitude": -43.4953,
@@ -676,6 +676,12 @@
         "video_url": "https://www.youtube.com/embed/ODEvHjY76HA",
         "latitude": -44.8248,
         "longitude": 168.1178
+    },
+    {
+        "title": "Motukiekie Beach Walk",
+        "video_url": "https://www.youtube.com/embed/2hv2s2YeU7k",
+        "latitude": -42.3129,
+        "longitude": 171.2806
     },
     {
         "title": "Mount Cook - Hooker Lake (2024 Mar)",
@@ -712,6 +718,12 @@
         "video_url": "https://www.youtube.com/embed/dfcifYpDo9U",
         "latitude": -36.9394,
         "longitude": 174.7854
+    },
+    {
+        "title": "Diamond Lake DOC Campground",
+        "video_url": "https://www.youtube.com/embed/ESz-DjMj4pE",
+        "latitude": -44.7318,
+        "longitude": 168.3819
     },
     {
         "title": "Herbertville - Seaview Road",
@@ -1116,12 +1128,6 @@
         "longitude": 168.8825
     },
     {
-        "title": "Wanaka - Lismore Jump Bike Park",
-        "video_url": "https://www.youtube.com/embed/cVfNSFvYvdA",
-        "latitude": -44.6915,
-        "longitude": 169.1395
-    },
-    {
         "title": "Russell - Flagstaff Hill Historic reserve",
         "video_url": "https://www.youtube.com/embed/FyVOMM2QLVw",
         "latitude": -35.255,
@@ -1144,6 +1150,12 @@
         "video_url": "https://www.youtube.com/embed/FWuAmBqno7Q",
         "latitude": -41.2791,
         "longitude": 173.2484
+    },
+    {
+        "title": "Routeburn Track - Routeburn Shelter to Routeburn Falls Hut - Day 1",
+        "video_url": "https://www.youtube.com/embed/FD3sZAYOP9U",
+        "latitude": -44.7196,
+        "longitude": 168.2341
     },
     {
         "title": "Picton Scenic Lookout - Queen Charlotte Drive",
@@ -1218,12 +1230,6 @@
         "longitude": 168.1734
     },
     {
-        "title": "New Brighton Beach",
-        "video_url": "https://www.youtube.com/embed/yYn7wRP2sE0",
-        "latitude": -43.5053,
-        "longitude": 172.731
-    },
-    {
         "title": "Christchurch - Sumner Beach",
         "video_url": "https://www.youtube.com/embed/sdfHoldlmTs",
         "latitude": -43.5643,
@@ -1270,12 +1276,6 @@
         "video_url": "https://www.youtube.com/embed/xoT0xlq_2Tw",
         "latitude": -43.6035,
         "longitude": 172.3613
-    },
-    {
-        "title": "Motukiekie Beach Walk",
-        "video_url": "https://www.youtube.com/embed/2hv2s2YeU7k",
-        "latitude": -42.3129,
-        "longitude": 171.2806
     },
     {
         "title": "Glenorchy - Horse riding along Dart River",
@@ -1704,6 +1704,12 @@
         "longitude": 174.7663
     },
     {
+        "title": "Mount Cook - Hooker Valley Track - The Second Swing Bridge",
+        "video_url": "https://www.youtube.com/embed/RXVaPgkXSJI",
+        "latitude": -43.7057,
+        "longitude": 170.1003
+    },
+    {
         "title": "Cape Egmont Lighthouse",
         "video_url": "https://www.youtube.com/embed/yc5NECfQWMQ",
         "latitude": -39.2761,
@@ -1968,6 +1974,12 @@
         "longitude": 170.0844
     },
     {
+        "title": "Cromwell - Walk back to Cornish Point",
+        "video_url": "https://www.youtube.com/embed/berSaoJQCX8",
+        "latitude": -45.053,
+        "longitude": 169.2094
+    },
+    {
         "title": "Wanaka - Lismore Jump Bike Park",
         "video_url": "https://www.youtube.com/embed/Q0NwrVvIW6Q",
         "latitude": -44.6912,
@@ -2026,6 +2038,12 @@
         "video_url": "https://www.youtube.com/embed/D8Nhbc2qjOs",
         "latitude": -45.0281,
         "longitude": 168.7396
+    },
+    {
+        "title": "Mount Cook - Wakefield Falls #waterfall",
+        "video_url": "https://www.youtube.com/embed/0NOsXCFQclQ",
+        "latitude": -43.7046,
+        "longitude": 170.1685
     },
     {
         "title": "Tongariro Northern Circuit - Day 4/4",
@@ -2140,12 +2158,6 @@
         "video_url": "https://www.youtube.com/embed/j44TMuIOL5Q",
         "latitude": -43.5293,
         "longitude": 172.6401
-    },
-    {
-        "title": "Kaikorua Peninsula Walkway - Seal Colony",
-        "video_url": "https://www.youtube.com/embed/YEU8CpCGgOQ",
-        "latitude": -42.4271,
-        "longitude": 173.7128
     },
     {
         "title": "Routeburn Track - Lake Mackenzie Hut to The Divide Shelter - Day 3",
@@ -2586,12 +2598,6 @@
         "longitude": 169.3523
     },
     {
-        "title": "Christchurch - Summit Road View Point",
-        "video_url": "https://www.youtube.com/embed/I4eUjqvEjiQ",
-        "latitude": -43.6035,
-        "longitude": 172.6547
-    },
-    {
         "title": "Arrowtown - Buckingham Street",
         "video_url": "https://www.youtube.com/embed/QdJ8N1WYsWI",
         "latitude": -44.9393,
@@ -2664,16 +2670,16 @@
         "longitude": 167.6358
     },
     {
+        "title": "Tiny Mussel Shells",
+        "video_url": "https://www.youtube.com/embed/YJqq-MqQLdU",
+        "latitude": -38.8205,
+        "longitude": 174.5802
+    },
+    {
         "title": "Cascade Creek - Lake Gunn Nature Walk",
         "video_url": "https://www.youtube.com/embed/6JTnb2tiD0k",
         "latitude": -44.8951,
         "longitude": 168.0818
-    },
-    {
-        "title": "Otari-Wilton's Bush",
-        "video_url": "https://www.youtube.com/embed/jGi2FqNVZcc",
-        "latitude": -41.2677,
-        "longitude": 174.7568
     },
     {
         "title": "Queenstown - Sunshine Bay",
@@ -2716,12 +2722,6 @@
         "video_url": "https://www.youtube.com/embed/tBi2Brr59CQ",
         "latitude": -43.7139,
         "longitude": 170.0745
-    },
-    {
-        "title": "Gore - Dolamore Park",
-        "video_url": "https://www.youtube.com/embed/57DM_eTPYYo",
-        "latitude": -46.0676,
-        "longitude": 168.8305
     },
     {
         "title": "360 Bike Trick",
@@ -2838,12 +2838,6 @@
         "longitude": 175.5644
     },
     {
-        "title": "Tiny Mussel Shells",
-        "video_url": "https://www.youtube.com/embed/YJqq-MqQLdU",
-        "latitude": -38.8205,
-        "longitude": 174.5802
-    },
-    {
         "title": "Milford - Marian Falls",
         "video_url": "https://www.youtube.com/embed/KlQohtTd4Pk",
         "latitude": -44.8051,
@@ -2944,6 +2938,12 @@
         "video_url": "https://www.youtube.com/embed/iDNciOPmHOo",
         "latitude": -38.525,
         "longitude": 175.1581
+    },
+    {
+        "title": "Queenstown - Shotover River Jet",
+        "video_url": "https://www.youtube.com/embed/4Jh11vva_JQ",
+        "latitude": -44.9831,
+        "longitude": 168.6664
     },
     {
         "title": "2023 Tauranga Bay Superbowl and Fireworks",
