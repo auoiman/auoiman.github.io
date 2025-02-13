@@ -66,16 +66,16 @@
         "longitude": 175.6708
     },
     {
-        "title": "Tauranga - Hairy Maclary and Friends Sculpture",
-        "video_url": "https://www.youtube.com/embed/3zIVKpAlPkg",
-        "latitude": -37.6826,
-        "longitude": 176.1706
-    },
-    {
         "title": "Routeburn Track - Lake Mackenzie Hut to The Divide Shelter - Day 3",
         "video_url": "https://www.youtube.com/embed/7b_5gb1mtsM",
         "latitude": -44.8249,
         "longitude": 168.1176
+    },
+    {
+        "title": "Tauranga - Hairy Maclary and Friends Sculpture",
+        "video_url": "https://www.youtube.com/embed/3zIVKpAlPkg",
+        "latitude": -37.6826,
+        "longitude": 176.1706
     },
     {
         "title": "The Victoria Esplanade Minitrain",
@@ -90,10 +90,10 @@
         "longitude": 168.3263
     },
     {
-        "title": "Wellington - Makara Walkway - Opau Bay",
-        "video_url": "https://www.youtube.com/embed/xuYxGjQ7ce4",
-        "latitude": -41.2326,
-        "longitude": 174.6889
+        "title": "New Brighton Beach",
+        "video_url": "https://www.youtube.com/embed/yYn7wRP2sE0",
+        "latitude": -43.5053,
+        "longitude": 172.731
     },
     {
         "title": "Bay of Plenty - Kaiate Falls",
@@ -138,16 +138,16 @@
         "longitude": 170.702
     },
     {
-        "title": "Arthur's Pass - Otira Viaduct Lookout",
-        "video_url": "https://www.youtube.com/embed/_KahU-d529Y",
-        "latitude": -42.8881,
-        "longitude": 171.5559
-    },
-    {
         "title": "Dunedin - Long Beach - 2",
         "video_url": "https://www.youtube.com/embed/Qzhziaa53Uk",
         "latitude": -45.748,
         "longitude": 170.6446
+    },
+    {
+        "title": "Arthur's Pass - Otira Viaduct Lookout",
+        "video_url": "https://www.youtube.com/embed/_KahU-d529Y",
+        "latitude": -42.8881,
+        "longitude": 171.5559
     },
     {
         "title": "Auckland - Western Springs Park Playground",
@@ -160,12 +160,6 @@
         "video_url": "https://www.youtube.com/embed/JzoNewM8H3o",
         "latitude": -45.7475,
         "longitude": 170.644
-    },
-    {
-        "title": "New Brighton Beach",
-        "video_url": "https://www.youtube.com/embed/yYn7wRP2sE0",
-        "latitude": -43.5053,
-        "longitude": 172.731
     },
     {
         "title": "2023 Drift D1NZ Taupo",
@@ -304,6 +298,12 @@
         "video_url": "https://www.youtube.com/embed/4yyoaLr_m4w",
         "latitude": -44.5714,
         "longitude": 167.7863
+    },
+    {
+        "title": "Christchurch - Avon River / Oxford Terrace",
+        "video_url": "https://www.youtube.com/embed/12rq2DVphk8",
+        "latitude": -43.5327,
+        "longitude": 172.6337
     },
     {
         "title": "Kawarau Gorge Suspension Bridge",
@@ -520,6 +520,12 @@
         "video_url": "https://www.youtube.com/embed/NrlnEwvAQ5c",
         "latitude": -46.4477,
         "longitude": 169.8152
+    },
+    {
+        "title": "Christchurch - Kartsport Canterbury Race Track",
+        "video_url": "https://www.youtube.com/embed/0gNo0J0Xd-M",
+        "latitude": -43.5682,
+        "longitude": 172.5474
     },
     {
         "title": "Hokitika Beach - Beach Sign",
@@ -1438,12 +1444,6 @@
         "video_url": "https://www.youtube.com/embed/ZnXYTXBmrZI",
         "latitude": -41.7226,
         "longitude": 174.2239
-    },
-    {
-        "title": "Christchurch - Kartsport Canterbury Race Track",
-        "video_url": "https://www.youtube.com/embed/0gNo0J0Xd-M",
-        "latitude": -43.5682,
-        "longitude": 172.5474
     },
     {
         "title": "Kaikorua Peninsula Walkway - Seal beach",
@@ -2856,12 +2856,6 @@
         "longitude": 170.4589
     },
     {
-        "title": "Clutha River - Dublin Bay",
-        "video_url": "https://www.youtube.com/embed/xNM8raapSFg",
-        "latitude": -44.6643,
-        "longitude": 169.1533
-    },
-    {
         "title": "Fantail Falls",
         "video_url": "https://www.youtube.com/embed/imZ-3e8oNGM",
         "latitude": -44.0777,
@@ -2872,6 +2866,12 @@
         "video_url": "https://www.youtube.com/embed/3paRHnWQpfA",
         "latitude": -41.4373,
         "longitude": 174.9149
+    },
+    {
+        "title": "Wellington - Breaker Bay",
+        "video_url": "https://www.youtube.com/embed/HI0bm1ghZpM",
+        "latitude": -41.33,
+        "longitude": 174.8331
     },
     {
         "title": "Okere Falls / Tutea Falls",
@@ -2922,16 +2922,16 @@
         "longitude": 170.4945
     },
     {
-        "title": "Hobbiton\u2122 Movie Set Tours",
-        "video_url": "https://www.youtube.com/embed/pCztC1JmizM",
-        "latitude": -37.8575,
-        "longitude": 175.6814
-    },
-    {
         "title": "Routeburn Track - Routeburn Shelter to Routeburn Falls Hut - Day 1",
         "video_url": "https://www.youtube.com/embed/1PdZ5qrfwzM",
         "latitude": -44.7124,
         "longitude": 168.2687
+    },
+    {
+        "title": "Hobbiton\u2122 Movie Set Tours",
+        "video_url": "https://www.youtube.com/embed/pCztC1JmizM",
+        "latitude": -37.8575,
+        "longitude": 175.6814
     },
     {
         "title": "Omaru Falls",
