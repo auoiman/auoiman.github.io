@@ -18,6 +18,12 @@
         "longitude": 174.7668
     },
     {
+        "title": "Rotorua - Redwoods \u2013 Whakarewarewa Forest",
+        "video_url": "https://www.youtube.com/embed/g_ex7cGu2NI",
+        "latitude": -38.1557,
+        "longitude": 176.2748
+    },
+    {
         "title": "Coromandel - Coromandel Shelly Beach TOP 10 Holiday Park",
         "video_url": "https://www.youtube.com/embed/eB4yJ-zSg8o",
         "latitude": -36.7357,
@@ -48,6 +54,12 @@
         "longitude": 175.4598
     },
     {
+        "title": "Motukiekie Beach Walk",
+        "video_url": "https://www.youtube.com/embed/2hv2s2YeU7k",
+        "latitude": -42.3129,
+        "longitude": 171.2806
+    },
+    {
         "title": "Te Anau Lakefront",
         "video_url": "https://www.youtube.com/embed/mYYGzXAmKE4",
         "latitude": -45.4109,
@@ -58,12 +70,6 @@
         "video_url": "https://www.youtube.com/embed/d3G3WIHZ9SE",
         "latitude": -40.9479,
         "longitude": 175.6708
-    },
-    {
-        "title": "Routeburn Track - Lake Mackenzie Hut to The Divide Shelter - Day 3",
-        "video_url": "https://www.youtube.com/embed/7b_5gb1mtsM",
-        "latitude": -44.8249,
-        "longitude": 168.1176
     },
     {
         "title": "Tauranga - Hairy Maclary and Friends Sculpture",
@@ -82,6 +88,12 @@
         "video_url": "https://www.youtube.com/embed/ds6DGYMQxLk",
         "latitude": -44.7737,
         "longitude": 168.3263
+    },
+    {
+        "title": "Dunedin - Long Beach - 1",
+        "video_url": "https://www.youtube.com/embed/JzoNewM8H3o",
+        "latitude": -45.7475,
+        "longitude": 170.644
     },
     {
         "title": "New Brighton Beach",
@@ -132,10 +144,22 @@
         "longitude": 168.6479
     },
     {
+        "title": "Routeburn Track - Lake Mackenzie Hut to The Divide Shelter - Day 3",
+        "video_url": "https://www.youtube.com/embed/7b_5gb1mtsM",
+        "latitude": -44.8249,
+        "longitude": 168.1176
+    },
+    {
         "title": "Port Chalmers - Aramoana Beach - Keyhole rock, sand dune",
         "video_url": "https://www.youtube.com/embed/rVcsY7e238A",
         "latitude": -45.772,
         "longitude": 170.702
+    },
+    {
+        "title": "Christchurch - Kartsport Canterbury Race Track",
+        "video_url": "https://www.youtube.com/embed/0gNo0J0Xd-M",
+        "latitude": -43.5682,
+        "longitude": 172.5474
     },
     {
         "title": "Dunedin - Long Beach - 2",
@@ -154,12 +178,6 @@
         "video_url": "https://www.youtube.com/embed/M5oQIKuVeYg",
         "latitude": -36.8646,
         "longitude": 174.7217
-    },
-    {
-        "title": "Dunedin - Long Beach - 1",
-        "video_url": "https://www.youtube.com/embed/JzoNewM8H3o",
-        "latitude": -45.7475,
-        "longitude": 170.644
     },
     {
         "title": "Queenstown - Jack's Point Track - Landing of NZONE plane",
@@ -256,6 +274,12 @@
         "video_url": "https://www.youtube.com/embed/8YpMzrB6FcA",
         "latitude": -43.4941,
         "longitude": 171.5356
+    },
+    {
+        "title": "Queenstown - Kawarau River",
+        "video_url": "https://www.youtube.com/embed/ZPIjDOXwzhM",
+        "latitude": -45.0312,
+        "longitude": 168.7386
     },
     {
         "title": "Christchurch - Sumner Beach",
@@ -360,16 +384,16 @@
         "longitude": 170.6264
     },
     {
-        "title": "Wellington - View of City and Sea",
-        "video_url": "https://www.youtube.com/embed/g96brDUFiAE",
-        "latitude": -41.29,
-        "longitude": 174.79
-    },
-    {
         "title": "Cardrona - Bradrona",
         "video_url": "https://www.youtube.com/embed/4CXrCH-qO60",
         "latitude": -44.8634,
         "longitude": 169.0188
+    },
+    {
+        "title": "Wellington - View of City and Sea",
+        "video_url": "https://www.youtube.com/embed/g96brDUFiAE",
+        "latitude": -41.29,
+        "longitude": 174.79
     },
     {
         "title": "New Plymouth - Climbing Paritutu Rock",
@@ -456,12 +480,6 @@
         "longitude": 168.2441
     },
     {
-        "title": "Kepler Track - Luxmore Hut to Iris Burn Hut",
-        "video_url": "https://www.youtube.com/embed/aN9mFfmYjmE",
-        "latitude": -45.3932,
-        "longitude": 167.5244
-    },
-    {
         "title": "Wellington Airport",
         "video_url": "https://www.youtube.com/embed/z2R5r0toUlA",
         "latitude": -41.3292,
@@ -520,12 +538,6 @@
         "video_url": "https://www.youtube.com/embed/NrlnEwvAQ5c",
         "latitude": -46.4477,
         "longitude": 169.8152
-    },
-    {
-        "title": "Christchurch - Kartsport Canterbury Race Track",
-        "video_url": "https://www.youtube.com/embed/0gNo0J0Xd-M",
-        "latitude": -43.5682,
-        "longitude": 172.5474
     },
     {
         "title": "Hokitika Beach - Beach Sign",
@@ -598,12 +610,6 @@
         "video_url": "https://www.youtube.com/embed/tP7j6RDRQL4",
         "latitude": -44.6078,
         "longitude": 167.8547
-    },
-    {
-        "title": "Shotover River Jet - View from Edith Cavell Bridge #jet",
-        "video_url": "https://www.youtube.com/embed/SyNuY_VdmUQ",
-        "latitude": -44.9883,
-        "longitude": 168.6718
     },
     {
         "title": "Ecozip Adventure Kaikorua - Zipline 3",
@@ -688,12 +694,6 @@
         "video_url": "https://www.youtube.com/embed/ODEvHjY76HA",
         "latitude": -44.8248,
         "longitude": 168.1178
-    },
-    {
-        "title": "Motukiekie Beach Walk",
-        "video_url": "https://www.youtube.com/embed/2hv2s2YeU7k",
-        "latitude": -42.3129,
-        "longitude": 171.2806
     },
     {
         "title": "Mount Cook - Hooker Lake (2024 Mar)",
@@ -1578,16 +1578,16 @@
         "longitude": 172.6312
     },
     {
-        "title": "Lake Hayes - Twin Rivers Trail",
-        "video_url": "https://www.youtube.com/embed/8lcVX2TfMFk",
-        "latitude": -45.0084,
-        "longitude": 168.7669
-    },
-    {
         "title": "Kepler Track - Luxmore Hut to Iris Burn Hut",
         "video_url": "https://www.youtube.com/embed/zoeLRdl169o",
         "latitude": -45.3869,
         "longitude": 167.5852
+    },
+    {
+        "title": "Lake Hayes - Twin Rivers Trail",
+        "video_url": "https://www.youtube.com/embed/8lcVX2TfMFk",
+        "latitude": -45.0084,
+        "longitude": 168.7669
     },
     {
         "title": "Russell - Tapeka Boat Ramp",
@@ -2376,12 +2376,6 @@
         "longitude": 172.6722
     },
     {
-        "title": "New Brighton Pier - Breathless Sunset Views",
-        "video_url": "https://www.youtube.com/embed/l3ugH-XqzxE",
-        "latitude": -43.5061,
-        "longitude": 172.7342
-    },
-    {
         "title": "New Brighton Beach - Sunset at the Pier",
         "video_url": "https://www.youtube.com/embed/nK0pPqFb3yw",
         "latitude": -43.5066,
@@ -2778,12 +2772,6 @@
         "longitude": 168.6825
     },
     {
-        "title": "Wellington - Breaker Bay",
-        "video_url": "https://www.youtube.com/embed/3QO4bQ-eWiI",
-        "latitude": -41.33,
-        "longitude": 174.8331
-    },
-    {
         "title": "Queenstown - Edith Cavell Bridge",
         "video_url": "https://www.youtube.com/embed/vQb1CYPdPE8",
         "latitude": -44.9881,
@@ -2848,6 +2836,12 @@
         "video_url": "https://www.youtube.com/embed/rC5xPWUVTzg",
         "latitude": -45.9208,
         "longitude": 170.4589
+    },
+    {
+        "title": "Russell - Tapeka Point Track",
+        "video_url": "https://www.youtube.com/embed/P2ab_gpP2N0",
+        "latitude": -35.2433,
+        "longitude": 174.1197
     },
     {
         "title": "Fantail Falls",
