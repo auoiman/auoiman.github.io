@@ -72,6 +72,12 @@
         "longitude": 170.6265
     },
     {
+        "title": "Dunedin - Long Beach - 1",
+        "video_url": "https://www.youtube.com/embed/JzoNewM8H3o",
+        "latitude": -45.7475,
+        "longitude": 170.644
+    },
+    {
         "title": "Masterton - Queen Elizabeth - Deer",
         "video_url": "https://www.youtube.com/embed/d3G3WIHZ9SE",
         "latitude": -40.9479,
@@ -96,10 +102,10 @@
         "longitude": 168.3263
     },
     {
-        "title": "Dunedin - Long Beach - 1",
-        "video_url": "https://www.youtube.com/embed/JzoNewM8H3o",
-        "latitude": -45.7475,
-        "longitude": 170.644
+        "title": "Christchurch - Christchurch Adventure Park Cafe",
+        "video_url": "https://www.youtube.com/embed/ZamTnvIdSe8",
+        "latitude": -43.5917,
+        "longitude": 172.6316
     },
     {
         "title": "Tauranga - Gordon Spratt Reserve Skate Park",
@@ -120,10 +126,22 @@
         "longitude": 172.3876
     },
     {
+        "title": "Christchurch - University of Canterbury - Ilam Fields",
+        "video_url": "https://www.youtube.com/embed/YcLUG91jjHM",
+        "latitude": -43.5229,
+        "longitude": 172.5773
+    },
+    {
         "title": "Bay of Plenty - Kaiate Falls",
         "video_url": "https://www.youtube.com/embed/NOYR-37X9mA",
         "latitude": -37.7585,
         "longitude": 176.2412
+    },
+    {
+        "title": "Dunedin - Anzac Square / Dunedin Railway Station",
+        "video_url": "https://www.youtube.com/embed/MnqEzftkf5E",
+        "latitude": -45.8751,
+        "longitude": 170.5083
     },
     {
         "title": "Tauranga Maunganui Beach  #beach",
@@ -204,6 +222,12 @@
         "longitude": 174.7217
     },
     {
+        "title": "Hamilton - Blue Springs - Te Waihou Walkway",
+        "video_url": "https://www.youtube.com/embed/3o7XK8SQtT0",
+        "latitude": -38.0382,
+        "longitude": 175.8311
+    },
+    {
         "title": "Queenstown - Jack's Point Track - Landing of NZONE plane",
         "video_url": "https://www.youtube.com/embed/6Kvwz3aYNcs",
         "latitude": -45.0812,
@@ -232,6 +256,12 @@
         "video_url": "https://www.youtube.com/embed/L-tmpjW0FIQ",
         "latitude": -45.0086,
         "longitude": 168.8993
+    },
+    {
+        "title": "Walkway Te Papa Atawhai",
+        "video_url": "https://www.youtube.com/embed/z7GcmT7rcBc",
+        "latitude": -40.5209,
+        "longitude": 172.7431
     },
     {
         "title": "Cape Palliser - Waimeha Camping Village",
@@ -516,12 +546,6 @@
         "longitude": 174.8111
     },
     {
-        "title": "Tauranga - Walk to Mt. Maunganui",
-        "video_url": "https://www.youtube.com/embed/p5I2zkind5I",
-        "latitude": -37.675,
-        "longitude": 176.1752
-    },
-    {
         "title": "Kawarau Gorge Suspension Bridge",
         "video_url": "https://www.youtube.com/embed/U-jOdK7tc54",
         "latitude": -45.0091,
@@ -580,6 +604,12 @@
         "video_url": "https://www.youtube.com/embed/7jdpb-a5BhA",
         "latitude": -45.3933,
         "longitude": 167.5247
+    },
+    {
+        "title": "Hokitika Beach - Beach Sign",
+        "video_url": "https://www.youtube.com/embed/BDhnYXvXsLg",
+        "latitude": -42.7168,
+        "longitude": 170.9604
     },
     {
         "title": "Christchurch - Cardboard Cathedral - 1",
@@ -714,12 +744,6 @@
         "longitude": 168.8016
     },
     {
-        "title": "Mount Cook - Hooker Valley Track - The FIrst Swing Bridge",
-        "video_url": "https://www.youtube.com/embed/0x5aV-lZ3zI",
-        "latitude": -43.7158,
-        "longitude": 170.103
-    },
-    {
         "title": "Mount Hutt Ski Field",
         "video_url": "https://www.youtube.com/embed/MEQcuojTY_M",
         "latitude": -43.4953,
@@ -792,6 +816,12 @@
         "longitude": 168.3819
     },
     {
+        "title": "Milford Sound - Heading to Tasman Sea",
+        "video_url": "https://www.youtube.com/embed/qHZpbTdQzUk",
+        "latitude": -44.6026,
+        "longitude": 167.8135
+    },
+    {
         "title": "Herbertville - Seaview Road",
         "video_url": "https://www.youtube.com/embed/6svZEzvS8S4",
         "latitude": -40.5048,
@@ -816,12 +846,6 @@
         "longitude": 170.2086
     },
     {
-        "title": "Mount Cook - White Horse Hill Campground - Common Area",
-        "video_url": "https://www.youtube.com/embed/uFv-JCwDCZU",
-        "latitude": -43.7187,
-        "longitude": 170.0935
-    },
-    {
         "title": "Cape Campbell track - Horseriding",
         "video_url": "https://www.youtube.com/embed/9zC76YHog-M",
         "latitude": -41.7336,
@@ -844,18 +868,6 @@
         "video_url": "https://www.youtube.com/embed/KVofRUgXYtw",
         "latitude": -39.1952,
         "longitude": 175.6011
-    },
-    {
-        "title": "Clifden Gorge Road Near Clifden Caves",
-        "video_url": "https://www.youtube.com/embed/6aq4SajPpCo",
-        "latitude": -46.0181,
-        "longitude": 167.7411
-    },
-    {
-        "title": "Russell - Tapeka Point Beach",
-        "video_url": "https://www.youtube.com/embed/XHgDQhc3PnQ",
-        "latitude": -35.2463,
-        "longitude": 174.1184
     },
     {
         "title": "Waikanae Beach",
@@ -948,12 +960,6 @@
         "longitude": 174.5017
     },
     {
-        "title": "Kaikorua Peninsula Walkway",
-        "video_url": "https://www.youtube.com/embed/nvXwTpvAMlg",
-        "latitude": -42.4285,
-        "longitude": 173.6989
-    },
-    {
         "title": "Lake Hawea - Camp Hill Road (Bridge)",
         "video_url": "https://www.youtube.com/embed/t9mPPgxVG6E",
         "latitude": -44.6501,
@@ -1032,12 +1038,6 @@
         "longitude": 174.1186
     },
     {
-        "title": "Cardrona Alpine Resort - Entrance",
-        "video_url": "https://www.youtube.com/embed/kjHVQbHYTVs",
-        "latitude": -44.8733,
-        "longitude": 168.9495
-    },
-    {
         "title": "Greymouth - Driftwood House on Karoro Beach",
         "video_url": "https://www.youtube.com/embed/TyQTHRKc_Oo",
         "latitude": -42.4429,
@@ -1066,6 +1066,12 @@
         "video_url": "https://www.youtube.com/embed/4c6Nje__KwI",
         "latitude": -42.2444,
         "longitude": 173.834
+    },
+    {
+        "title": "Oamaru - Friendly Bay Esplanade",
+        "video_url": "https://www.youtube.com/embed/JRbJIM8InhQ",
+        "latitude": -45.1062,
+        "longitude": 170.9722
     },
     {
         "title": "Kerikeri Peninsula - Waikato Bay",
@@ -1152,10 +1158,40 @@
         "longitude": 168.2587
     },
     {
+        "title": "Pumptrack Christchurch",
+        "video_url": "https://www.youtube.com/embed/1n5uog6pxIs",
+        "latitude": -43.5294,
+        "longitude": 172.6403
+    },
+    {
+        "title": "Cromwell - Lake Dunstan Cycle Trail",
+        "video_url": "https://www.youtube.com/embed/0Z3LCxLpW2U",
+        "latitude": -45.0527,
+        "longitude": 169.2096
+    },
+    {
+        "title": "Kingston - Lake Wakatipu Lookout",
+        "video_url": "https://www.youtube.com/embed/VCVQsefSV3Q",
+        "latitude": -45.3307,
+        "longitude": 168.7347
+    },
+    {
+        "title": "Routeburn Track - Routeburn Shelter to Routeburn Falls Hut - Day 1",
+        "video_url": "https://www.youtube.com/embed/wqZQ2QWFG7g",
+        "latitude": -44.711,
+        "longitude": 168.2587
+    },
+    {
         "title": "Great Alpine Highway - West Coast Road - SH73 (Lake Pearson to Cass)",
         "video_url": "https://www.youtube.com/embed/O2D9ymI0lMo",
         "latitude": -43.0861,
         "longitude": 171.7768
+    },
+    {
+        "title": "Wharariki Beach",
+        "video_url": "https://www.youtube.com/embed/34jI7IF53YM",
+        "latitude": -40.5043,
+        "longitude": 172.6728
     },
     {
         "title": "Arthur Pass SH73 near Pearson",
@@ -1246,12 +1282,6 @@
         "video_url": "https://www.youtube.com/embed/76EAN4lR884",
         "latitude": -43.6985,
         "longitude": 170.0914
-    },
-    {
-        "title": "Wharariki Beach",
-        "video_url": "https://www.youtube.com/embed/W5DdfUoN74g",
-        "latitude": -40.50753,
-        "longitude": 172.6684
     },
     {
         "title": "Cromwell - Lake Dunstan Cycle Trail",
@@ -1374,12 +1404,6 @@
         "longitude": 167.5649
     },
     {
-        "title": "Punakaki Pancake Rocks and Blowholes - 5 - Surge Pool",
-        "video_url": "https://www.youtube.com/embed/ZolBFD1Diu0",
-        "latitude": -42.1135,
-        "longitude": 171.3268
-    },
-    {
         "title": "Governors Bay",
         "video_url": "https://www.youtube.com/embed/CMMrBoNMuJY",
         "latitude": -41.2679,
@@ -1396,12 +1420,6 @@
         "video_url": "https://www.youtube.com/embed/3AuVxgonRDU",
         "latitude": -40.8479,
         "longitude": 172.7686
-    },
-    {
-        "title": "Cape Farewell - Beach, Seals",
-        "video_url": "https://www.youtube.com/embed/5ReCdBOE60E",
-        "latitude": -40.5009,
-        "longitude": 172.6812
     },
     {
         "title": "Napier - Seaside",
@@ -1422,10 +1440,10 @@
         "longitude": 168.3667
     },
     {
-        "title": "New Plymouth - Brooklands Zoo",
-        "video_url": "https://www.youtube.com/embed/jj-Vh9kiy1E",
-        "latitude": -39.0705,
-        "longitude": 174.0861
+        "title": "Tieke Kainga Campsite and Hut @ Whanganui River",
+        "video_url": "https://www.youtube.com/embed/JfA9Ed59KP0",
+        "latitude": -39.3373,
+        "longitude": 174.993
     },
     {
         "title": "Cromwell - Coffee and Burger Alfloat",
@@ -1468,12 +1486,6 @@
         "video_url": "https://www.youtube.com/embed/024WL6ujaRM",
         "latitude": -42.092,
         "longitude": 171.338
-    },
-    {
-        "title": "Marfells Beach Recreation Reserve - Mussel Point",
-        "video_url": "https://www.youtube.com/embed/ZnXYTXBmrZI",
-        "latitude": -41.7226,
-        "longitude": 174.2239
     },
     {
         "title": "Kaikorua Peninsula Walkway - Seal beach",
@@ -1728,12 +1740,6 @@
         "longitude": 170.1003
     },
     {
-        "title": "Cromwell - Lake Dunstan Cycle Trail",
-        "video_url": "https://www.youtube.com/embed/AL6Dj4bmESk",
-        "latitude": -45.0581,
-        "longitude": 169.2085
-    },
-    {
         "title": "Cape Egmont Lighthouse",
         "video_url": "https://www.youtube.com/embed/yc5NECfQWMQ",
         "latitude": -39.2761,
@@ -1752,12 +1758,6 @@
         "longitude": 175.3573
     },
     {
-        "title": "Queenstown - Marine Parade - Near Wharf",
-        "video_url": "https://www.youtube.com/embed/vW-YE_PRqUA",
-        "latitude": -45.0329,
-        "longitude": 168.6603
-    },
-    {
         "title": "Cave Stream Scenic Reserve - View from Car Park",
         "video_url": "https://www.youtube.com/embed/BPavHyq7s8I",
         "latitude": -43.1964,
@@ -1768,6 +1768,12 @@
         "video_url": "https://www.youtube.com/embed/YEo4ez4y1mw",
         "latitude": -44.6055,
         "longitude": 167.8451
+    },
+    {
+        "title": "Matamata - Matamata isite Visitor Information Centre",
+        "video_url": "https://www.youtube.com/embed/YUafC8RpRq0",
+        "latitude": -37.8094,
+        "longitude": 175.7718
     },
     {
         "title": "Mount Cook - View of Tasman Lake",
@@ -1822,6 +1828,12 @@
         "video_url": "https://www.youtube.com/embed/uHksQTHsR28",
         "latitude": -43.706,
         "longitude": 170.1712
+    },
+    {
+        "title": "Rotorua - Redwoods Treewalk",
+        "video_url": "https://www.youtube.com/embed/oQLnBbuCGYU",
+        "latitude": -38.1564,
+        "longitude": 176.2758
     },
     {
         "title": "Mount Cook - Sealy Tarns Track (990m)",
@@ -1890,16 +1902,22 @@
         "longitude": 170.0918
     },
     {
+        "title": "Waikouaiti - Hawksbury Lagoon Wildlife Refuge - 2",
+        "video_url": "https://www.youtube.com/embed/IQFIbuZKPsA",
+        "latitude": -45.6023,
+        "longitude": 170.6747
+    },
+    {
         "title": "Omarama - Ahuriri Bridge Campsite",
         "video_url": "https://www.youtube.com/embed/laG7B3ctPgU",
         "latitude": -44.4675,
         "longitude": 169.9862
     },
     {
-        "title": "Scorching Bay Beach",
-        "video_url": "https://www.youtube.com/embed/lFoTfFJhVX8",
-        "latitude": -41.298,
-        "longitude": 174.8324
+        "title": "Mount Cook - Sealy Tarn Track (1070m)",
+        "video_url": "https://www.youtube.com/embed/O49oSW4BeY4",
+        "latitude": -43.7141,
+        "longitude": 170.0792
     },
     {
         "title": "Punanki Pancake Rocks and Blowholes - 2",
@@ -1966,12 +1984,6 @@
         "video_url": "https://www.youtube.com/embed/Ka3ff-Vl3iI",
         "latitude": -45.1048,
         "longitude": 170.9716
-    },
-    {
-        "title": "Lake Matheson - Revealing the reflection island",
-        "video_url": "https://www.youtube.com/embed/5_0zZJ2TRKQ",
-        "latitude": -43.4375,
-        "longitude": 169.9631
     },
     {
         "title": "Wellington - Queens Wharf - Rainbow",
@@ -2166,12 +2178,6 @@
         "longitude": 168.1566
     },
     {
-        "title": "Abel Tasman - Sandy Bay",
-        "video_url": "https://www.youtube.com/embed/rRhNRDGsRDM",
-        "latitude": -41.0054,
-        "longitude": 173.00983
-    },
-    {
         "title": "Queenstown - View of Edith Cavell Bridge",
         "video_url": "https://www.youtube.com/embed/pZ1gfjVtAKA",
         "latitude": -44.988,
@@ -2224,6 +2230,12 @@
         "video_url": "https://www.youtube.com/embed/qhK8bOuPv1o",
         "latitude": -45.346,
         "longitude": 170.8269
+    },
+    {
+        "title": "Wellington - Airport Lookout",
+        "video_url": "https://www.youtube.com/embed/sTOP7rQrFTo",
+        "latitude": -41.3181,
+        "longitude": 174.8111
     },
     {
         "title": "Taupiri Bay - Scenic Look Out",
@@ -2374,12 +2386,6 @@
         "video_url": "https://www.youtube.com/embed/1vONYuQ3E2I",
         "latitude": -44.6742,
         "longitude": 169.2037
-    },
-    {
-        "title": "Greymouth - Southern Breakwater Viewing Platform",
-        "video_url": "https://www.youtube.com/embed/ow5vKgvI4fs",
-        "latitude": -42.4402,
-        "longitude": 171.1903
     },
     {
         "title": "Milford - Mirror Lakes",
@@ -2538,22 +2544,10 @@
         "longitude": 168.7262
     },
     {
-        "title": "Cromwell Playground",
-        "video_url": "https://www.youtube.com/embed/E8hrZBwZKe4",
-        "latitude": -45.0356,
-        "longitude": 169.197
-    },
-    {
         "title": "Queenstown - Shotover River - Oxenbridge Tunnel Track",
         "video_url": "https://www.youtube.com/embed/mOwVcULATu0",
         "latitude": -44.9831,
         "longitude": 168.6665
-    },
-    {
-        "title": "Mount Cook - Kea Point Track",
-        "video_url": "https://www.youtube.com/embed/eOmMBF1WrnQ",
-        "latitude": -43.7168,
-        "longitude": 170.0873
     },
     {
         "title": "Roaring Meg",
@@ -2574,6 +2568,12 @@
         "longitude": 169.288
     },
     {
+        "title": "Benmore Dam",
+        "video_url": "https://www.youtube.com/embed/rwYJ2BXOMQg",
+        "latitude": -44.5645,
+        "longitude": 170.1979
+    },
+    {
         "title": "Queenstown - Mount Creighton Playground",
         "video_url": "https://www.youtube.com/embed/_D6pBIOX9jA",
         "latitude": -45.0693,
@@ -2586,16 +2586,16 @@
         "longitude": 169.3523
     },
     {
+        "title": "Auckland - Piha Beach",
+        "video_url": "https://www.youtube.com/embed/Rwcn0_pk22o",
+        "latitude": -36.9614,
+        "longitude": 174.4626
+    },
+    {
         "title": "Glenorchy - Paradise",
         "video_url": "https://www.youtube.com/embed/I_iSB2SDcV0",
         "latitude": -44.724,
         "longitude": 168.3723
-    },
-    {
-        "title": "Arrowtown - Buckingham Street",
-        "video_url": "https://www.youtube.com/embed/QdJ8N1WYsWI",
-        "latitude": -44.9393,
-        "longitude": 168.8353
     },
     {
         "title": "Portage - The Gap",
@@ -2628,6 +2628,12 @@
         "longitude": 174.5815
     },
     {
+        "title": "Queestown - Oxenbridge Tunnel Track",
+        "video_url": "https://www.youtube.com/embed/XD0XIRpAQh8",
+        "latitude": -44.9833,
+        "longitude": 168.6666
+    },
+    {
         "title": "Taupo - Huka Falls",
         "video_url": "https://www.youtube.com/embed/r6rqnM1-DeY",
         "latitude": -38.6476,
@@ -2638,12 +2644,6 @@
         "video_url": "https://www.youtube.com/embed/qIjaRrDd_a8",
         "latitude": -45.0597,
         "longitude": 168.5907
-    },
-    {
-        "title": "Te Waikoropup\u016b Springs",
-        "video_url": "https://www.youtube.com/embed/OlJrv18gmpI",
-        "latitude": -40.8481,
-        "longitude": 172.7701
     },
     {
         "title": "Kepler Track - Kepler Track Carpark to Luxmore Hut",
@@ -2698,12 +2698,6 @@
         "video_url": "https://www.youtube.com/embed/y8udWBbk17I",
         "latitude": -43.4195,
         "longitude": 170.1721
-    },
-    {
-        "title": "Queestown - Oxenbridge Tunnel Track",
-        "video_url": "https://www.youtube.com/embed/XD0XIRpAQh8",
-        "latitude": -44.9833,
-        "longitude": 168.6666
     },
     {
         "title": "Mount Track - Sealy Tarns Track (Intersection with Mueller Hut Route)",
@@ -2764,6 +2758,12 @@
         "video_url": "https://www.youtube.com/embed/j4u6lnbGMHY",
         "latitude": -45.0372,
         "longitude": 168.6825
+    },
+    {
+        "title": "Wellington - Breaker Bay",
+        "video_url": "https://www.youtube.com/embed/3QO4bQ-eWiI",
+        "latitude": -41.33,
+        "longitude": 174.8331
     },
     {
         "title": "Queenstown - Edith Cavell Bridge",
@@ -2902,6 +2902,12 @@
         "video_url": "https://www.youtube.com/embed/wt8YsZtixPA",
         "latitude": -45.9105,
         "longitude": 170.4945
+    },
+    {
+        "title": "Music Loo - Highlands Motorsport Park - Loo with a view",
+        "video_url": "https://www.youtube.com/embed/h-aWJLnkE6w",
+        "latitude": -45.05686,
+        "longitude": 169.16662
     },
     {
         "title": "Routeburn Track - Routeburn Shelter to Routeburn Falls Hut - Day 1",
