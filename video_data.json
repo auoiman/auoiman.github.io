@@ -126,16 +126,16 @@
         "longitude": 172.731
     },
     {
-        "title": "Canterbury - Rolleston - Foster Park Playground",
-        "video_url": "https://www.youtube.com/embed/-CeihHZgD7s",
-        "latitude": -43.6064,
-        "longitude": 172.3876
-    },
-    {
         "title": "Christchurch - University of Canterbury - Ilam Fields",
         "video_url": "https://www.youtube.com/embed/YcLUG91jjHM",
         "latitude": -43.5229,
         "longitude": 172.5773
+    },
+    {
+        "title": "Canterbury - Rolleston - Foster Park Playground",
+        "video_url": "https://www.youtube.com/embed/-CeihHZgD7s",
+        "latitude": -43.6064,
+        "longitude": 172.3876
     },
     {
         "title": "Bay of Plenty - Kaiate Falls",
@@ -168,12 +168,6 @@
         "longitude": 175.3012
     },
     {
-        "title": "Auckland - Cornwall Park - Lambing",
-        "video_url": "https://www.youtube.com/embed/JoHiGxI5xik",
-        "latitude": -36.897,
-        "longitude": 174.7829
-    },
-    {
         "title": "Queenstown - Sky Luge and the view",
         "video_url": "https://www.youtube.com/embed/2BcAnzwZV20",
         "latitude": -45.0256,
@@ -184,6 +178,12 @@
         "video_url": "https://www.youtube.com/embed/7b_5gb1mtsM",
         "latitude": -44.8249,
         "longitude": 168.1176
+    },
+    {
+        "title": "Auckland - Cornwall Park - Lambing",
+        "video_url": "https://www.youtube.com/embed/JoHiGxI5xik",
+        "latitude": -36.897,
+        "longitude": 174.7829
     },
     {
         "title": "Port Chalmers - Aramoana Beach - Keyhole rock, sand dune",
@@ -226,6 +226,12 @@
         "video_url": "https://www.youtube.com/embed/3o7XK8SQtT0",
         "latitude": -38.0382,
         "longitude": 175.8311
+    },
+    {
+        "title": "Christchurch - Washington Way Skate Park",
+        "video_url": "https://www.youtube.com/embed/tmte27avQ9E",
+        "latitude": -43.5402,
+        "longitude": 172.6455
     },
     {
         "title": "Queenstown - Jack's Point Track - Landing of NZONE plane",
@@ -822,12 +828,6 @@
         "longitude": 176.5447
     },
     {
-        "title": "Christchurch - Washington Way Skate Park",
-        "video_url": "https://www.youtube.com/embed/UnOtB9UqneU",
-        "latitude": -43.5404,
-        "longitude": 172.6459
-    },
-    {
         "title": "Wharariki Beach",
         "video_url": "https://www.youtube.com/embed/y_CRGN37OIg",
         "latitude": -40.5053,
@@ -838,6 +838,12 @@
         "video_url": "https://www.youtube.com/embed/SEGHuz5G2Tw",
         "latitude": -44.168,
         "longitude": 170.2086
+    },
+    {
+        "title": "Mount Cook - White Horse Hill Campground - Common Area",
+        "video_url": "https://www.youtube.com/embed/uFv-JCwDCZU",
+        "latitude": -43.7187,
+        "longitude": 170.0935
     },
     {
         "title": "Cape Campbell track - Horseriding",
@@ -1090,12 +1096,6 @@
         "video_url": "https://www.youtube.com/embed/Wq_BjMrtK4I",
         "latitude": -34.8303,
         "longitude": 173.41101
-    },
-    {
-        "title": "Christchurch - Washington Way Skate Park",
-        "video_url": "https://www.youtube.com/embed/tmte27avQ9E",
-        "latitude": -43.5402,
-        "longitude": 172.6455
     },
     {
         "title": "Kaikorua - Okiwi Bay",
@@ -1662,6 +1662,12 @@
         "longitude": 170.4795
     },
     {
+        "title": "The Catlins - Cathedral Cave",
+        "video_url": "https://www.youtube.com/embed/7JiuCCrBaJY",
+        "latitude": -46.6084,
+        "longitude": 169.3814
+    },
+    {
         "title": "Kepler Track - Luxmore Hut to Iris Burn Hut",
         "video_url": "https://www.youtube.com/embed/C2F4qCkWNfg",
         "latitude": -45.3867,
@@ -1728,6 +1734,12 @@
         "longitude": 170.1003
     },
     {
+        "title": "Cromwell - Lake Dunstan Cycle Trail",
+        "video_url": "https://www.youtube.com/embed/AL6Dj4bmESk",
+        "latitude": -45.0581,
+        "longitude": 169.2085
+    },
+    {
         "title": "Cape Egmont Lighthouse",
         "video_url": "https://www.youtube.com/embed/yc5NECfQWMQ",
         "latitude": -39.2761,
@@ -1786,12 +1798,6 @@
         "video_url": "https://www.youtube.com/embed/X3oqJYUw6Mw",
         "latitude": -38.6467,
         "longitude": 176.0898
-    },
-    {
-        "title": "Hawea Flat Whitewater Park (The Wave)",
-        "video_url": "https://www.youtube.com/embed/hNZMFDYAHkY",
-        "latitude": -44.6499,
-        "longitude": 169.2461
     },
     {
         "title": "Kepler Track - Luxmore Hut to Iris Burn Hut",
@@ -2214,12 +2220,6 @@
         "longitude": 170.8269
     },
     {
-        "title": "Wellington - Airport Lookout",
-        "video_url": "https://www.youtube.com/embed/sTOP7rQrFTo",
-        "latitude": -41.3181,
-        "longitude": 174.8111
-    },
-    {
         "title": "Taupiri Bay - Scenic Look Out",
         "video_url": "https://www.youtube.com/embed/CtNEXmGFksA",
         "latitude": -35.2782,
@@ -2398,6 +2398,12 @@
         "video_url": "https://www.youtube.com/embed/nK0pPqFb3yw",
         "latitude": -43.5066,
         "longitude": 172.7323
+    },
+    {
+        "title": "Tiny Mussel Shells",
+        "video_url": "https://www.youtube.com/embed/YJqq-MqQLdU",
+        "latitude": -38.8205,
+        "longitude": 174.5802
     },
     {
         "title": "Elephant Rocks",
@@ -2644,12 +2650,6 @@
         "video_url": "https://www.youtube.com/embed/TZ4t7Unh2nE",
         "latitude": -45.3984,
         "longitude": 167.6358
-    },
-    {
-        "title": "Tiny Mussel Shells",
-        "video_url": "https://www.youtube.com/embed/YJqq-MqQLdU",
-        "latitude": -38.8205,
-        "longitude": 174.5802
     },
     {
         "title": "Cascade Creek - Lake Gunn Nature Walk",
