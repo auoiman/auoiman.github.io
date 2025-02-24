@@ -120,12 +120,6 @@
         "longitude": 172.6455
     },
     {
-        "title": "Routeburn Track - near Lake Mackenzie Campsite",
-        "video_url": "https://www.youtube.com/embed/DrwCkWN4AiI",
-        "latitude": -44.76548,
-        "longitude": 168.17511
-    },
-    {
         "title": "Tauranga - Gordon Spratt Reserve Skate Park",
         "video_url": "https://www.youtube.com/embed/9SiLWLdXU28",
         "latitude": -37.7123,
@@ -180,22 +174,10 @@
         "longitude": 168.1176
     },
     {
-        "title": "Auckland - Cornwall Park - Lambing",
-        "video_url": "https://www.youtube.com/embed/JoHiGxI5xik",
-        "latitude": -36.897,
-        "longitude": 174.7829
-    },
-    {
         "title": "Port Chalmers - Aramoana Beach - Keyhole rock, sand dune",
         "video_url": "https://www.youtube.com/embed/rVcsY7e238A",
         "latitude": -45.772,
         "longitude": 170.702
-    },
-    {
-        "title": "Christchurch - Kartsport Canterbury Race Track",
-        "video_url": "https://www.youtube.com/embed/0gNo0J0Xd-M",
-        "latitude": -43.5682,
-        "longitude": 172.5474
     },
     {
         "title": "Dunedin - Long Beach - 2",
@@ -216,6 +198,12 @@
         "longitude": 171.5559
     },
     {
+        "title": "Christchurch - Kartsport Canterbury Race Track",
+        "video_url": "https://www.youtube.com/embed/0gNo0J0Xd-M",
+        "latitude": -43.5682,
+        "longitude": 172.5474
+    },
+    {
         "title": "Auckland - Western Springs Park Playground",
         "video_url": "https://www.youtube.com/embed/M5oQIKuVeYg",
         "latitude": -36.8646,
@@ -226,6 +214,12 @@
         "video_url": "https://www.youtube.com/embed/3o7XK8SQtT0",
         "latitude": -38.0382,
         "longitude": 175.8311
+    },
+    {
+        "title": "Domett - Cathedral Gully",
+        "video_url": "https://www.youtube.com/embed/f6eKMVSjNyE",
+        "latitude": -42.8679,
+        "longitude": 173.3043
     },
     {
         "title": "Queenstown - Jack's Point Track - Landing of NZONE plane",
@@ -1344,12 +1338,6 @@
         "longitude": 168.365
     },
     {
-        "title": "Routeburn Track - Routeburn Shelter to Lake Mackenzie Hut - Day 2",
-        "video_url": "https://www.youtube.com/embed/im_V0qd2gM0",
-        "latitude": -44.7322,
-        "longitude": 168.1913
-    },
-    {
         "title": "Mount Cook - Hooker Lake (2024 May 14)",
         "video_url": "https://www.youtube.com/embed/RrxHf6QvTZg",
         "latitude": -43.6893,
@@ -1428,6 +1416,12 @@
         "longitude": 168.3667
     },
     {
+        "title": "Routeburn Track - Routeburn Shelter to Routeburn Falls Hut - Day 1",
+        "video_url": "https://www.youtube.com/embed/s7QXb_Lc85w",
+        "latitude": -44.73,
+        "longitude": 168.2095
+    },
+    {
         "title": "New Plymouth - Brooklands Zoo",
         "video_url": "https://www.youtube.com/embed/jj-Vh9kiy1E",
         "latitude": -39.0705,
@@ -1480,6 +1474,12 @@
         "video_url": "https://www.youtube.com/embed/024WL6ujaRM",
         "latitude": -42.092,
         "longitude": 171.338
+    },
+    {
+        "title": "Huka Falls Track",
+        "video_url": "https://www.youtube.com/embed/UpDLsz1qPqQ",
+        "latitude": -38.6487,
+        "longitude": 176.0904
     },
     {
         "title": "Kaikorua Peninsula Walkway - Seal beach",
@@ -1620,6 +1620,12 @@
         "longitude": 174.0023
     },
     {
+        "title": "Dunedin - Saint Clair Beach #seal",
+        "video_url": "https://www.youtube.com/embed/wt8YsZtixPA",
+        "latitude": -45.9105,
+        "longitude": 170.4945
+    },
+    {
         "title": "Milford - Lake Marian Track - Bridge",
         "video_url": "https://www.youtube.com/embed/cQ_nl5R9y9s",
         "latitude": -44.8082,
@@ -1644,10 +1650,10 @@
         "longitude": 174.1176
     },
     {
-        "title": "Hanmer Springs Attractions",
-        "video_url": "https://www.youtube.com/embed/xV_J8YaLm0E",
-        "latitude": -42.5853,
-        "longitude": 172.7817
+        "title": "Routeburn Track - Routeburn Shelter to Routeburn Falls Hut - Day 1",
+        "video_url": "https://www.youtube.com/embed/_hkd41KesEQ",
+        "latitude": -44.7161,
+        "longitude": 168.2451
     },
     {
         "title": "Mount Cook - Sealy Tarns Track (1000m)",
@@ -1728,6 +1734,12 @@
         "longitude": 169.4094
     },
     {
+        "title": "Routeburn Track - Lake Mackenzie Hut to The Divide Shelter - Day 3",
+        "video_url": "https://www.youtube.com/embed/uNa_E1ORMAM",
+        "latitude": -44.7687,
+        "longitude": 168.1724
+    },
+    {
         "title": "Auckland - Port Ferry",
         "video_url": "https://www.youtube.com/embed/J6a0VAosKf8",
         "latitude": -36.843,
@@ -1744,6 +1756,12 @@
         "video_url": "https://www.youtube.com/embed/AL6Dj4bmESk",
         "latitude": -45.0581,
         "longitude": 169.2085
+    },
+    {
+        "title": "Routeburn Track - Routeburn Shelter to Lake Mackenzie Hut - Day 2",
+        "video_url": "https://www.youtube.com/embed/ct8UJf-1QWU",
+        "latitude": -44.7266,
+        "longitude": 168.1973
     },
     {
         "title": "Cape Egmont Lighthouse",
@@ -1780,6 +1798,12 @@
         "video_url": "https://www.youtube.com/embed/YEo4ez4y1mw",
         "latitude": -44.6055,
         "longitude": 167.8451
+    },
+    {
+        "title": "Matamata - Matamata isite Visitor Information Centre",
+        "video_url": "https://www.youtube.com/embed/YUafC8RpRq0",
+        "latitude": -37.8094,
+        "longitude": 175.7718
     },
     {
         "title": "Mount Cook - View of Tasman Lake",
@@ -1872,6 +1896,12 @@
         "longitude": 172.7311
     },
     {
+        "title": "Auckland - Cornwall Park - Lambing",
+        "video_url": "https://www.youtube.com/embed/JoHiGxI5xik",
+        "latitude": -36.897,
+        "longitude": 174.7829
+    },
+    {
         "title": "Riverton - Mores Coastal Loop Walk",
         "video_url": "https://www.youtube.com/embed/IAmhR7yM5XI",
         "latitude": -46.3755,
@@ -1888,12 +1918,6 @@
         "video_url": "https://www.youtube.com/embed/ADPmRCc78ko",
         "latitude": -44.7574,
         "longitude": 168.1733
-    },
-    {
-        "title": "Mount Cook - Track to Hooker Hut",
-        "video_url": "https://www.youtube.com/embed/Codz4P1OxiU",
-        "latitude": -43.6988,
-        "longitude": 170.0918
     },
     {
         "title": "Waikouaiti - Hawksbury Lagoon Wildlife Refuge - 2",
@@ -1942,12 +1966,6 @@
         "video_url": "https://www.youtube.com/embed/RLGgBkauf3g",
         "latitude": -45.3869,
         "longitude": 167.5639
-    },
-    {
-        "title": "Whangarei Heads - Overlooking Little Munroe Bay",
-        "video_url": "https://www.youtube.com/embed/6MTTvJDaiPw",
-        "latitude": -35.8281,
-        "longitude": 174.5069
     },
     {
         "title": "Hokitika - Sunset Point",
@@ -2010,12 +2028,6 @@
         "longitude": 170.0844
     },
     {
-        "title": "Cromwell - Walk back to Cornish Point",
-        "video_url": "https://www.youtube.com/embed/berSaoJQCX8",
-        "latitude": -45.053,
-        "longitude": 169.2094
-    },
-    {
         "title": "Wanaka - Lismore Jump Bike Park",
         "video_url": "https://www.youtube.com/embed/Q0NwrVvIW6Q",
         "latitude": -44.6912,
@@ -2032,12 +2044,6 @@
         "video_url": "https://www.youtube.com/embed/5BgWrEb-Z5o",
         "latitude": -44.6619,
         "longitude": 169.2459
-    },
-    {
-        "title": "Lake Tekapo - Maclaren Footbridge",
-        "video_url": "https://www.youtube.com/embed/pNncxvS8LSI",
-        "latitude": -44.0049,
-        "longitude": 170.4806
     },
     {
         "title": "Routeburn Track - Routeburn Shelter to Lake Mackenzie Hut - Day 2",
@@ -2200,6 +2206,12 @@
         "video_url": "https://www.youtube.com/embed/nYZ9NvjDmKU",
         "latitude": -43.6971,
         "longitude": 170.0925
+    },
+    {
+        "title": "Tauranga - Blake Park",
+        "video_url": "https://www.youtube.com/embed/CKN69-Z6Lws",
+        "latitude": -37.6527,
+        "longitude": 176.1961
     },
     {
         "title": "Wellington Sign",
@@ -2424,6 +2436,12 @@
         "longitude": 172.7323
     },
     {
+        "title": "Milford - Marian Falls",
+        "video_url": "https://www.youtube.com/embed/hF8fh8B012g",
+        "latitude": -44.8052,
+        "longitude": 168.102
+    },
+    {
         "title": "Tiny Mussel Shells",
         "video_url": "https://www.youtube.com/embed/YJqq-MqQLdU",
         "latitude": -38.8205,
@@ -2452,12 +2470,6 @@
         "video_url": "https://www.youtube.com/embed/txKsvGtM0vo",
         "latitude": -43.5073,
         "longitude": 170.0961
-    },
-    {
-        "title": "Routeburn Track - Routeburn Shelter to Routeburn Falls Hut - Day 1",
-        "video_url": "https://www.youtube.com/embed/i5TJq0ChSwk",
-        "latitude": -44.7309,
-        "longitude": 168.2117
     },
     {
         "title": "Tongariro Northern Circuit - Day 4/4",
@@ -2844,12 +2856,6 @@
         "longitude": 171.7158
     },
     {
-        "title": "Russell - Long Beach",
-        "video_url": "https://www.youtube.com/embed/wBPq4Bmt-O8",
-        "latitude": -35.2587,
-        "longitude": 174.132
-    },
-    {
         "title": "Dunedin - Tunnel Beach Track 3",
         "video_url": "https://www.youtube.com/embed/rC5xPWUVTzg",
         "latitude": -45.9208,
@@ -2886,6 +2892,12 @@
         "longitude": 176.1388
     },
     {
+        "title": "Romeo and Juliet Clock",
+        "video_url": "https://www.youtube.com/embed/b09CkrUTOhs",
+        "latitude": -39.3395,
+        "longitude": 174.2847
+    },
+    {
         "title": "Queenstown - Kawarau River",
         "video_url": "https://www.youtube.com/embed/E1AfhC4Sl9c",
         "latitude": -45.0092,
@@ -2902,12 +2914,6 @@
         "video_url": "https://www.youtube.com/embed/YFcN6elfqTE",
         "latitude": -37.6262,
         "longitude": 176.1752
-    },
-    {
-        "title": "Dunedin - Saint Clair Beach #seal",
-        "video_url": "https://www.youtube.com/embed/wt8YsZtixPA",
-        "latitude": -45.9105,
-        "longitude": 170.4945
     },
     {
         "title": "Music Loo - Highlands Motorsport Park - Loo with a view",
