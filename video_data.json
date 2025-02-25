@@ -48,16 +48,16 @@
         "longitude": 168.19941
     },
     {
-        "title": "Greytown Campground - Gypsy Caravan",
-        "video_url": "https://www.youtube.com/embed/COnqEFsDYoE",
-        "latitude": -41.0748,
-        "longitude": 175.4598
-    },
-    {
         "title": "Motukiekie Beach Walk",
         "video_url": "https://www.youtube.com/embed/2hv2s2YeU7k",
         "latitude": -42.3129,
         "longitude": 171.2806
+    },
+    {
+        "title": "Greytown Campground - Gypsy Caravan",
+        "video_url": "https://www.youtube.com/embed/COnqEFsDYoE",
+        "latitude": -41.0748,
+        "longitude": 175.4598
     },
     {
         "title": "Te Anau Lakefront",
@@ -108,16 +108,16 @@
         "longitude": 172.6316
     },
     {
-        "title": "Dunedin - St Clair Hot Salt Water Pool",
-        "video_url": "https://www.youtube.com/embed/ADcKTn_uQ28",
-        "latitude": -45.9139,
-        "longitude": 170.4885
-    },
-    {
         "title": "Christchurch - Washington Way Skate Park",
         "video_url": "https://www.youtube.com/embed/tmte27avQ9E",
         "latitude": -43.5402,
         "longitude": 172.6455
+    },
+    {
+        "title": "Dunedin - St Clair Hot Salt Water Pool",
+        "video_url": "https://www.youtube.com/embed/ADcKTn_uQ28",
+        "latitude": -45.9139,
+        "longitude": 170.4885
     },
     {
         "title": "Tauranga - Gordon Spratt Reserve Skate Park",
@@ -126,22 +126,34 @@
         "longitude": 176.3105
     },
     {
-        "title": "New Brighton Beach",
-        "video_url": "https://www.youtube.com/embed/yYn7wRP2sE0",
-        "latitude": -43.5053,
-        "longitude": 172.731
-    },
-    {
         "title": "Christchurch - University of Canterbury - Ilam Fields",
         "video_url": "https://www.youtube.com/embed/YcLUG91jjHM",
         "latitude": -43.5229,
         "longitude": 172.5773
     },
     {
+        "title": "Canterbury - Rolleston - Foster Park Playground",
+        "video_url": "https://www.youtube.com/embed/-CeihHZgD7s",
+        "latitude": -43.6064,
+        "longitude": 172.3876
+    },
+    {
         "title": "Bay of Plenty - Kaiate Falls",
         "video_url": "https://www.youtube.com/embed/NOYR-37X9mA",
         "latitude": -37.7585,
         "longitude": 176.2412
+    },
+    {
+        "title": "New Brighton Beach",
+        "video_url": "https://www.youtube.com/embed/yYn7wRP2sE0",
+        "latitude": -43.5053,
+        "longitude": 172.731
+    },
+    {
+        "title": "Christchurch - Washington Way Skate Park",
+        "video_url": "https://www.youtube.com/embed/UnOtB9UqneU",
+        "latitude": -43.5404,
+        "longitude": 172.6459
     },
     {
         "title": "Tauranga Maunganui Beach  #beach",
@@ -1314,12 +1326,6 @@
         "longitude": 176.03
     },
     {
-        "title": "Mount Aspiring Park - Blue Valley Track - Makarora River",
-        "video_url": "https://www.youtube.com/embed/3PS8O-_UFcA",
-        "latitude": -44.1613,
-        "longitude": 169.272
-    },
-    {
         "title": "Wanaka - Minaret Ridge",
         "video_url": "https://www.youtube.com/embed/-Vnkb_TUjOU",
         "latitude": -44.6647,
@@ -1464,6 +1470,12 @@
         "longitude": 169.2268
     },
     {
+        "title": "Cromwell - Lake Dunstan Cycle Trail",
+        "video_url": "https://www.youtube.com/embed/mzzFzxKRbGQ",
+        "latitude": -45.0766,
+        "longitude": 169.2268
+    },
+    {
         "title": "Matauri Bay - Rainbow Warrior Memorial",
         "video_url": "https://www.youtube.com/embed/1AFcjAFZqwg",
         "latitude": -35.0274,
@@ -1510,6 +1522,12 @@
         "video_url": "https://www.youtube.com/embed/JydJ2s5G29k",
         "latitude": -41.1912,
         "longitude": 174.033
+    },
+    {
+        "title": "Franz Josef - Tatare Tunnels Walk - Tatare Stream",
+        "video_url": "https://www.youtube.com/embed/-0VO78gT7T4",
+        "latitude": -43.3873,
+        "longitude": 170.202
     },
     {
         "title": "Wellington - Eastern Walkway",
@@ -1600,12 +1618,6 @@
         "video_url": "https://www.youtube.com/embed/n0H1TmFf1AE",
         "latitude": -42.8087,
         "longitude": 171.1546
-    },
-    {
-        "title": "Lake Tekapo - Mount John Car Park",
-        "video_url": "https://www.youtube.com/embed/Q6SFavu8830",
-        "latitude": -43.9858,
-        "longitude": 170.4637
     },
     {
         "title": "Mount Cook - Tasman Lake",
@@ -1756,12 +1768,6 @@
         "video_url": "https://www.youtube.com/embed/AL6Dj4bmESk",
         "latitude": -45.0581,
         "longitude": 169.2085
-    },
-    {
-        "title": "Routeburn Track - Routeburn Shelter to Lake Mackenzie Hut - Day 2",
-        "video_url": "https://www.youtube.com/embed/ct8UJf-1QWU",
-        "latitude": -44.7266,
-        "longitude": 168.1973
     },
     {
         "title": "Cape Egmont Lighthouse",
@@ -1992,12 +1998,6 @@
         "longitude": 169.162
     },
     {
-        "title": "Oamaru - Friendly Bay Steampunk Playground",
-        "video_url": "https://www.youtube.com/embed/Ka3ff-Vl3iI",
-        "latitude": -45.1048,
-        "longitude": 170.9716
-    },
-    {
         "title": "Lake Matheson - Revealing the reflection island",
         "video_url": "https://www.youtube.com/embed/5_0zZJ2TRKQ",
         "latitude": -43.4375,
@@ -2086,12 +2086,6 @@
         "video_url": "https://www.youtube.com/embed/aaLmQKMkq58",
         "latitude": -45.9081,
         "longitude": 170.5095
-    },
-    {
-        "title": "Cromwell - Lake Dunstan Cycle Trail",
-        "video_url": "https://www.youtube.com/embed/SYkr_nHtOSg",
-        "latitude": -45.0545,
-        "longitude": 169.2019
     },
     {
         "title": "Castle Hill / Kura Tawhiti Conservation Area",
@@ -2820,12 +2814,6 @@
         "longitude": 167.8524
     },
     {
-        "title": "Milford - Marian Falls",
-        "video_url": "https://www.youtube.com/embed/AZdE6b-Oqqc",
-        "latitude": -44.805,
-        "longitude": 168.1009
-    },
-    {
         "title": "Hamilton - Hamilton Garden - Bird",
         "video_url": "https://www.youtube.com/embed/rsTcTYZRBn8",
         "latitude": -37.8119,
@@ -2856,6 +2844,12 @@
         "longitude": 171.7158
     },
     {
+        "title": "Russell - Long Beach",
+        "video_url": "https://www.youtube.com/embed/wBPq4Bmt-O8",
+        "latitude": -35.2587,
+        "longitude": 174.132
+    },
+    {
         "title": "Dunedin - Tunnel Beach Track 3",
         "video_url": "https://www.youtube.com/embed/rC5xPWUVTzg",
         "latitude": -45.9208,
@@ -2878,6 +2872,12 @@
         "video_url": "https://www.youtube.com/embed/N3_T5QbnluY",
         "latitude": -38.0112,
         "longitude": 176.3445
+    },
+    {
+        "title": "View of Merita Beach",
+        "video_url": "https://www.youtube.com/embed/bGzwtxSAxS8",
+        "latitude": -34.8291,
+        "longitude": 173.4131
     },
     {
         "title": "Wellington - Turakirae Head Seal Colony",
