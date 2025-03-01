@@ -1,35 +1,35 @@
 # Site
-name: "Memoirs"
-title: "Memoirs"
-description: "I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
+name: "Crystal's Travel Log"
+title: "Travel Log"
+description: "Welcome :)"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /jekyll-theme-memoirs
-google_analytics: 'UA-xxxxxxxx-1'
+google_analytics: 'UA-477120649-1'
 disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
-email: wowthemesnet@gmail.com
+email: ayowhasup@gmail.com
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    avatar: 'assets/images/avatar-sal.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/donate/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Memoirs, a Bootstrap Medium styled template available for Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John    
-    avatar: 'assets/images/avatar.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Write a short description of the author here. You are currently previewing Memoirs demo, a Jekyll template compatible with Github pages."
+  Crystal:
+    name: Crystal
+    display_name: CA
+    avatar: 'assets/images/CA.png'
+    email: ayowhasup@gmail.com
+    web: https://auoiman.github.io
+    twitter: https://twitter.com/
+    description: "Owner of this website."
+#  john:
+#    name: John
+#    display_name: John    
+#    avatar: 'assets/images/avatar.png'
+#    email: wowthemesnet@gmail.com
+#    web: https://www.wowthemes.net
+#    twitter: https://twitter.com/wowthemesnet
+#    description: "Write a short description of the author here. You are currently previewing Memoirs demo, a Jekyll template compatible with Github pages."
 
 # Plugins
 plugins:
