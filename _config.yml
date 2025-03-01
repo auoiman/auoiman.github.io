@@ -4,6 +4,8 @@ title: "Travel Log"
 description: "Welcome :)"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
+domain: auoiman.github.io
+url: https://auoiman.github.io
 baseurl: 
 google_analytics: 'UA-477120649-1'
 disqus: 'demowebsite'
