@@ -23,5 +23,5 @@ So one day I came up with this idea that I upload the video to youtube with its 
 
 Wondering which coast/ beaches are the best? Why not take a look yourself? By Navigating around the map and click on the pin, you can easily experience the country's wonders virtually or even plan a trip visiting this breathtaking place. 
 
-<a href="/jekyll-theme-memoirs/nzmap" class="btn btn-dark"> Explore the map! &rarr;</a>
+<a href="{{ site.baseurl }}/nzmap" class="btn btn-dark"> Explore the map! &rarr;</a>
 
